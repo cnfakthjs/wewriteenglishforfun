@@ -1,771 +1,865 @@
 {
-  "weak": [
-    {
-      "cat": "拼字不穩定",
-      "desc": "同一個字反覆拼錯：choose 曾出現三種不同錯拼方式；跨篇重複出現的個人記憶點錯字：prasious(precious)、choise(choice)、achivement(achievement)、addvice/addvise",
-      "date": "2026-07-05",
-      "count": 8,
-      "id": "w0",
-      "explain": {
-        "type": "wordlist",
-        "words": [
-          {
-            "wrong": "choise / chooice",
-            "correct": "choice",
-            "count": 5
-          },
-          {
-            "wrong": "addvice / addvise",
-            "correct": "advice",
-            "count": 3
-          },
-          {
-            "wrong": "manys / meny",
-            "correct": "many",
-            "count": 2
-          },
-          {
-            "wrong": "prasious",
-            "correct": "precious",
-            "count": 2
-          },
-          {
-            "wrong": "feture",
-            "correct": "feature",
-            "count": 2
-          },
-          {
-            "wrong": "achivement",
-            "correct": "achievement",
-            "count": 2
-          },
-          {
-            "wrong": "depand",
-            "correct": "depend",
-            "count": 2
-          },
-          {
-            "wrong": "banquest",
-            "correct": "banquet",
-            "count": 1
-          },
-          {
-            "wrong": "intresting",
-            "correct": "interesting",
-            "count": 1
-          },
-          {
-            "wrong": "advanture",
-            "correct": "advantage",
-            "count": 1
-          },
-          {
-            "wrong": "visable",
-            "correct": "visible",
-            "count": 1
-          },
-          {
-            "wrong": "thease",
-            "correct": "these",
-            "count": 1
-          },
-          {
-            "wrong": "musgito",
-            "correct": "mosquito",
-            "count": 1
-          },
-          {
-            "wrong": "pockage",
-            "correct": "pocket",
-            "count": 1
-          },
-          {
-            "wrong": "includetion",
-            "correct": "conclusion",
-            "count": 1
-          },
-          {
-            "wrong": "astmostance",
-            "correct": "atmosphere",
-            "count": 1
-          },
-          {
-            "wrong": "pround",
-            "correct": "proud",
-            "count": 1
-          },
-          {
-            "wrong": "talent",
-            "correct": "tent",
-            "count": 1
-          },
-          {
-            "wrong": "gress",
-            "correct": "grass",
-            "count": 1
-          },
-          {
-            "wrong": "wan",
-            "correct": "way",
-            "count": 1
-          },
-          {
-            "wrong": "survice",
-            "correct": "survive",
-            "count": 1
-          },
-          {
-            "wrong": "geting",
-            "correct": "getting",
-            "count": 1
-          },
-          {
-            "wrong": "coolabrate",
-            "correct": "collaborate",
-            "count": 1
-          },
-          {
-            "wrong": "sence",
-            "correct": "sense",
-            "count": 1
-          },
-          {
-            "wrong": "wil",
-            "correct": "will",
-            "count": 1
-          },
-          {
-            "wrong": "ivent",
-            "correct": "event",
-            "count": 1
-          },
-          {
-            "wrong": "embrassed",
-            "correct": "embarrassed",
-            "count": 1
-          },
-          {
-            "wrong": "thos",
-            "correct": "those",
-            "count": 1
-          },
-          {
-            "wrong": "inchange",
-            "correct": "unchanged",
-            "count": 1
-          },
-          {
-            "wrong": "neccesary",
-            "correct": "necessary",
-            "count": 1
-          },
-          {
-            "wrong": "teamate / teamates",
-            "correct": "teammate(s)",
-            "count": 1
-          },
-          {
-            "wrong": "suddenlly",
-            "correct": "suddenly",
-            "count": 1
-          },
-          {
-            "wrong": "trumble",
-            "correct": "stumble",
-            "count": 1
-          },
-          {
-            "wrong": "populer",
-            "correct": "popular",
-            "count": 1
-          },
-          {
-            "wrong": "erea",
-            "correct": "era",
-            "count": 1
-          },
-          {
-            "wrong": "particapant",
-            "correct": "participant",
-            "count": 1
-          },
-          {
-            "wrong": "meanaful",
-            "correct": "meaningful",
-            "count": 1
-          },
-          {
-            "wrong": "simle",
-            "correct": "smile",
-            "count": 1
-          },
-          {
-            "wrong": "prossess",
-            "correct": "process",
-            "count": 1
-          },
-          {
-            "wrong": "pleasment",
-            "correct": "pleasure",
-            "count": 1
-          },
-          {
-            "wrong": "amusment",
-            "correct": "amusement",
-            "count": 1
-          },
-          {
-            "wrong": "aalways",
-            "correct": "always",
-            "count": 1
-          },
-          {
-            "wrong": "preasure",
-            "correct": "pressure",
-            "count": 1
-          },
-          {
-            "wrong": "schooll",
-            "correct": "school",
-            "count": 1
-          },
-          {
-            "wrong": "graduade",
-            "correct": "graduated",
-            "count": 1
-          },
-          {
-            "wrong": "suject",
-            "correct": "subject",
-            "count": 1
-          },
-          {
-            "wrong": "aanything",
-            "correct": "anything",
-            "count": 1
-          },
-          {
-            "wrong": "pravious",
-            "correct": "previous",
-            "count": 1
-          },
-          {
-            "wrong": "hobits",
-            "correct": "habits",
-            "count": 1
-          },
-          {
-            "wrong": "englishs",
-            "correct": "English",
-            "count": 1
-          },
-          {
-            "wrong": "craming",
-            "correct": "cramming",
-            "count": 1
-          },
-          {
-            "wrong": "remenber",
-            "correct": "remember",
-            "count": 1
-          },
-          {
-            "wrong": "regert",
-            "correct": "regret",
-            "count": 1
-          },
-          {
-            "wrong": "communicaton",
-            "correct": "communication",
-            "count": 1
-          },
-          {
-            "wrong": "ture",
-            "correct": "true",
-            "count": 1
-          }
-        ]
-      }
-    },
-    {
-      "cat": "中式直譯（Calque）",
-      "desc": "although...but 冗贅並用；In my concern/angle 代替 In my opinion",
-      "date": "2026-07-05",
-      "count": 5,
-      "id": "w1",
-      "explain": {
-        "rule": "這種錯誤是直接把中文的思考邏輯或搭配方式套進英文，英文母語者不會這樣講。要練習的不是文法，而是「換句話說」的能力——想到中文詞先問自己「英文母語者真的會這樣講嗎」，而不是逐字翻譯。",
-        "examples": [
-          "✗ In my concern / In my angle → ✓ In my opinion（依我看）",
-          "✗ although...but 同時使用 → ✓ 兩個連接詞只能擇一：Although X, Y. 或 X, but Y."
-        ]
-      }
-    },
-    {
-      "cat": "主詞動詞一致性",
-      "desc": "如 team have、website appears、every words surround 等",
-      "date": "2026-07-05",
-      "count": 9,
-      "id": "w2",
-      "explain": {
-        "rule": "動詞要跟主詞的人稱、單複數一致。單數主詞（he/she/it/單一名詞）動詞加 -s；複數主詞或 I/you/we/they 動詞不加 -s。集合名詞（team, family）通常當單數看待。",
-        "examples": [
-          "✗ The team have a plan. → ✓ The team has a plan.",
-          "✗ Every word surround me. → ✓ Every word surrounds me."
-        ]
-      }
-    },
-    {
-      "cat": "句中不當大寫",
-      "desc": "You/Your/If/It/When/Life/The 等字在句中被誤大寫，已確認為系統性錯誤，非單一字詞問題",
-      "date": "2026-07-05",
-      "count": 10,
-      "id": "w3"
-    },
-    {
-      "cat": "時態混用",
-      "desc": "敘事段落中過去式與現在式（含 will）混用",
-      "date": "2026-07-26",
-      "count": 7,
-      "id": "w4",
-      "explain": {
-        "rule": "描述過去發生的事，整段都要用過去式，不要中途切換回現在式或未來式（will）。可以先確認「這件事是不是已經發生過」，是的話全程用過去式。",
-        "examples": [
-          "✗ When I was young, I will fall asleep in class. → ✓ ...I would fall asleep in class.",
-          "✗ He come back and everyone didn't complain. → ✓ He came back..."
-        ]
-      }
-    },
-    {
-      "cat": "effort 當動詞誤用",
-      "desc": "如 everyone effort to do something，已確認為穩定重複錯誤",
-      "date": "2026-07-26",
-      "count": 3,
-      "id": "w5",
-      "explain": {
-        "rule": "effort 是名詞（努力，一份心力），不是動詞。「努力做某事」要用 make an effort to V 或直接用動詞 try / work hard。",
-        "examples": [
-          "✗ Everyone effort to run. → ✓ Everyone makes an effort to run.",
-          "✗ I effort to learn English. → ✓ I try hard to learn English."
-        ]
-      }
-    },
-    {
-      "cat": "相似詞混淆",
-      "desc": "efficient/effective、progress/process、contract/contrast、interesting/interest、exciting/stimulate 當名詞用；incredible/incredulous（選錯字導致情緒意思說反，非拼字問題）",
-      "date": "2026-07-12",
-      "count": 7,
-      "id": "w6",
-      "explain": {
-        "type": "wordlist",
-        "words": [
-          {
-            "wrong": "contract",
-            "correct": "contrast",
-            "count": 2,
-            "note": "合約/收縮 vs. 對比"
-          },
-          {
-            "wrong": "progress",
-            "correct": "process",
-            "count": 1,
-            "note": "進展 vs. 過程"
-          },
-          {
-            "wrong": "incredible",
-            "correct": "incredulous",
-            "count": 1,
-            "note": "令人驚嘆的 vs. 不敢置信的（意思幾乎相反）"
-          },
-          {
-            "wrong": "interesting（當名詞用）",
-            "correct": "interest",
-            "count": 1,
-            "note": "形容詞誤用為名詞"
-          },
-          {
-            "wrong": "exciting / stimulate（當名詞用）",
-            "correct": "excitement / stimulation",
-            "count": 2,
-            "note": "形容詞、動詞誤用為名詞"
-          }
-        ]
-      }
-    },
-    {
-      "cat": "篇章結構",
-      "desc": "客觀描述段落誤植主觀意見",
-      "date": "2026-07-05",
+ "weak": [
+  {
+   "cat": "拼字不穩定",
+   "desc": "同一個字反覆拼錯：choose 曾出現三種不同錯拼方式；跨篇重複出現的個人記憶點錯字：prasious(precious)、choise(choice)、achivement(achievement)、addvice/addvise",
+   "date": "2026-09-06",
+   "count": 15,
+   "id": "w0",
+   "explain": {
+    "type": "wordlist",
+    "words": [
+     {
+      "wrong": "choise / chooice",
+      "correct": "choice",
+      "count": 5
+     },
+     {
+      "wrong": "addvice / addvise",
+      "correct": "advice",
+      "count": 3
+     },
+     {
+      "wrong": "manys / meny",
+      "correct": "many",
+      "count": 2
+     },
+     {
+      "wrong": "prasious",
+      "correct": "precious",
+      "count": 2
+     },
+     {
+      "wrong": "feture",
+      "correct": "feature",
+      "count": 2
+     },
+     {
+      "wrong": "achivement",
+      "correct": "achievement",
+      "count": 2
+     },
+     {
+      "wrong": "depand",
+      "correct": "depend",
+      "count": 2
+     },
+     {
+      "wrong": "costumer",
+      "correct": "customer",
+      "count": 2
+     },
+     {
+      "wrong": "banquest",
+      "correct": "banquet",
+      "count": 1
+     },
+     {
+      "wrong": "intresting",
+      "correct": "interesting",
+      "count": 1
+     },
+     {
+      "wrong": "advanture",
+      "correct": "advantage",
+      "count": 1
+     },
+     {
+      "wrong": "visable",
+      "correct": "visible",
+      "count": 1
+     },
+     {
+      "wrong": "thease",
+      "correct": "these",
+      "count": 1
+     },
+     {
+      "wrong": "musgito",
+      "correct": "mosquito",
+      "count": 1
+     },
+     {
+      "wrong": "pockage",
+      "correct": "pocket",
+      "count": 1
+     },
+     {
+      "wrong": "includetion",
+      "correct": "conclusion",
+      "count": 1
+     },
+     {
+      "wrong": "astmostance",
+      "correct": "atmosphere",
+      "count": 1
+     },
+     {
+      "wrong": "pround",
+      "correct": "proud",
+      "count": 1
+     },
+     {
+      "wrong": "talent",
+      "correct": "tent",
+      "count": 1
+     },
+     {
+      "wrong": "gress",
+      "correct": "grass",
+      "count": 1
+     },
+     {
+      "wrong": "wan",
+      "correct": "way",
+      "count": 1
+     },
+     {
+      "wrong": "survice",
+      "correct": "survive",
+      "count": 1
+     },
+     {
+      "wrong": "geting",
+      "correct": "getting",
+      "count": 1
+     },
+     {
+      "wrong": "coolabrate",
+      "correct": "collaborate",
+      "count": 1
+     },
+     {
+      "wrong": "sence",
+      "correct": "sense",
+      "count": 1
+     },
+     {
+      "wrong": "wil",
+      "correct": "will",
+      "count": 1
+     },
+     {
+      "wrong": "ivent",
+      "correct": "event",
+      "count": 1
+     },
+     {
+      "wrong": "embrassed",
+      "correct": "embarrassed",
+      "count": 1
+     },
+     {
+      "wrong": "thos",
+      "correct": "those",
+      "count": 1
+     },
+     {
+      "wrong": "inchange",
+      "correct": "unchanged",
+      "count": 1
+     },
+     {
+      "wrong": "neccesary",
+      "correct": "necessary",
+      "count": 1
+     },
+     {
+      "wrong": "teamate / teamates",
+      "correct": "teammate(s)",
+      "count": 1
+     },
+     {
+      "wrong": "suddenlly",
+      "correct": "suddenly",
+      "count": 1
+     },
+     {
+      "wrong": "trumble",
+      "correct": "stumble",
+      "count": 1
+     },
+     {
+      "wrong": "populer",
+      "correct": "popular",
+      "count": 1
+     },
+     {
+      "wrong": "erea",
+      "correct": "era",
+      "count": 1
+     },
+     {
+      "wrong": "particapant",
+      "correct": "participant",
+      "count": 1
+     },
+     {
+      "wrong": "meanaful",
+      "correct": "meaningful",
+      "count": 1
+     },
+     {
+      "wrong": "simle",
+      "correct": "smile",
+      "count": 1
+     },
+     {
+      "wrong": "prossess",
+      "correct": "process",
+      "count": 1
+     },
+     {
+      "wrong": "pleasment",
+      "correct": "pleasure",
+      "count": 1
+     },
+     {
+      "wrong": "amusment",
+      "correct": "amusement",
+      "count": 1
+     },
+     {
+      "wrong": "aalways",
+      "correct": "always",
+      "count": 1
+     },
+     {
+      "wrong": "preasure",
+      "correct": "pressure",
+      "count": 1
+     },
+     {
+      "wrong": "schooll",
+      "correct": "school",
+      "count": 1
+     },
+     {
+      "wrong": "graduade",
+      "correct": "graduated",
+      "count": 1
+     },
+     {
+      "wrong": "suject",
+      "correct": "subject",
+      "count": 1
+     },
+     {
+      "wrong": "aanything",
+      "correct": "anything",
+      "count": 1
+     },
+     {
+      "wrong": "pravious",
+      "correct": "previous",
+      "count": 1
+     },
+     {
+      "wrong": "hobits",
+      "correct": "habits",
+      "count": 1
+     },
+     {
+      "wrong": "englishs",
+      "correct": "English",
+      "count": 1
+     },
+     {
+      "wrong": "craming",
+      "correct": "cramming",
+      "count": 1
+     },
+     {
+      "wrong": "remenber",
+      "correct": "remember",
+      "count": 1
+     },
+     {
+      "wrong": "regert",
+      "correct": "regret",
+      "count": 1
+     },
+     {
+      "wrong": "communicaton",
+      "correct": "communication",
+      "count": 1
+     },
+     {
+      "wrong": "ture",
+      "correct": "true",
+      "count": 1
+     },
+     {
+      "wrong": "pototo",
+      "correct": "photo",
+      "count": 1
+     },
+     {
+      "wrong": "arguement",
+      "correct": "argument",
+      "count": 1
+     },
+     {
+      "wrong": "uncontrable",
+      "correct": "uncontrollable",
+      "count": 1
+     },
+     {
+      "wrong": "operater",
+      "correct": "operator",
+      "count": 1
+     },
+     {
+      "wrong": "discrease",
+      "correct": "decrease",
+      "count": 1
+     },
+     {
+      "wrong": "flur",
+      "correct": "fur",
+      "count": 1
+     }
+    ]
+   }
+  },
+  {
+   "cat": "中式直譯（Calque）",
+   "desc": "although...but 冗贅並用；In my concern/angle 代替 In my opinion；even though...but、Even I am not...but 再次出現（累計 4 次同型）",
+   "date": "2026-09-06",
+   "count": 7,
+   "id": "w1",
+   "explain": {
+    "rule": "這種錯誤是直接把中文的思考邏輯或搭配方式套進英文，英文母語者不會這樣講。要練習的不是文法，而是「換句話說」的能力——想到中文詞先問自己「英文母語者真的會這樣講嗎」，而不是逐字翻譯。",
+    "examples": [
+     "✗ In my concern / In my angle → ✓ In my opinion（依我看）",
+     "✗ although...but 同時使用 → ✓ 兩個連接詞只能擇一：Although X, Y. 或 X, but Y."
+    ]
+   }
+  },
+  {
+   "cat": "主詞動詞一致性",
+   "desc": "如 team have、website appears、every words surround 等",
+   "date": "2026-09-06",
+   "count": 12,
+   "id": "w2",
+   "explain": {
+    "rule": "動詞要跟主詞的人稱、單複數一致。單數主詞（he/she/it/單一名詞）動詞加 -s；複數主詞或 I/you/we/they 動詞不加 -s。集合名詞（team, family）通常當單數看待。",
+    "examples": [
+     "✗ The team have a plan. → ✓ The team has a plan.",
+     "✗ Every word surround me. → ✓ Every word surrounds me."
+    ]
+   }
+  },
+  {
+   "cat": "句中不當大寫",
+   "desc": "You/Your/If/It/When/Life/The 等字在句中被誤大寫，已確認為系統性錯誤，非單一字詞問題；本篇 If、Even 各一次",
+   "date": "2026-09-06",
+   "count": 12,
+   "id": "w3"
+  },
+  {
+   "cat": "時態混用",
+   "desc": "敘事段落中過去式與現在式（含 will）混用",
+   "date": "2026-09-06",
+   "count": 9,
+   "id": "w4",
+   "explain": {
+    "rule": "描述過去發生的事，整段都要用過去式，不要中途切換回現在式或未來式（will）。可以先確認「這件事是不是已經發生過」，是的話全程用過去式。",
+    "examples": [
+     "✗ When I was young, I will fall asleep in class. → ✓ ...I would fall asleep in class.",
+     "✗ He come back and everyone didn't complain. → ✓ He came back..."
+    ]
+   }
+  },
+  {
+   "cat": "effort 當動詞誤用",
+   "desc": "如 everyone effort to do something，已確認為穩定重複錯誤",
+   "date": "2026-07-26",
+   "count": 3,
+   "id": "w5",
+   "explain": {
+    "rule": "effort 是名詞（努力，一份心力），不是動詞。「努力做某事」要用 make an effort to V 或直接用動詞 try / work hard。",
+    "examples": [
+     "✗ Everyone effort to run. → ✓ Everyone makes an effort to run.",
+     "✗ I effort to learn English. → ✓ I try hard to learn English."
+    ]
+   }
+  },
+  {
+   "cat": "相似詞混淆",
+   "desc": "efficient/effective、progress/process、contract/contrast、interesting/interest、exciting/stimulate 當名詞用；incredible/incredulous（選錯字導致情緒意思說反，非拼字問題）",
+   "date": "2026-07-12",
+   "count": 7,
+   "id": "w6",
+   "explain": {
+    "type": "wordlist",
+    "words": [
+     {
+      "wrong": "contract",
+      "correct": "contrast",
       "count": 2,
-      "id": "w7",
-      "explain": {
-        "rule": "題目通常要求「先客觀描述，再給個人意見」分兩段處理。寫客觀描述段落時，先問自己：這句話是在講圖表/情境本身的內容，還是已經在講「我」的想法？如果太早出現 I think / In my opinion，代表跳段了。",
-        "examples": [
-          "客觀段落應該像：The chart shows that 76.9% of students spend money on making friends.（描述數據）",
-          "而不是一開始就寫：I think making friends is important to me.（提早進入主觀意見）"
-        ]
-      }
-    },
-    {
-      "cat": "its/it's 混淆",
-      "desc": "所有格 its 與縮寫 it's 混用",
-      "date": "2026-07-12",
-      "count": 3,
-      "id": "w8",
-      "explain": {
-        "rule": "its（無撇號）是所有格，「它的」；it's（有撇號）是 it is 或 it has 的縮寫。判斷方法：把 it's 展開成 it is，唸起來通順就是 it's，不通順就是 its。",
-        "examples": [
-          "✗ its delivery fee is cheap and it's cheap → 應為：its delivery fee is cheap",
-          "✓ It's raining today.（It is raining）",
-          "✓ The dog wagged its tail.（牠的尾巴）"
-        ]
-      }
-    },
-    {
-      "cat": "run-on / 逗號連接句",
-      "desc": "多個獨立子句以逗號直接連接，未使用句號或連接詞",
-      "date": "2026-07-05",
-      "count": 12,
-      "id": "w9",
-      "explain": {
-        "rule": "兩個各自能獨立成句的子句，不能只用逗號連接（這叫 comma splice）。要嘛用句號分開、用分號、或加連接詞（and, but, because, so...）。",
-        "examples": [
-          "✗ It was raining, we stayed home. → ✓ It was raining, so we stayed home. / It was raining. We stayed home.",
-          "✗ I like it, it is cheap. → ✓ I like it because it is cheap."
-        ]
-      }
-    },
-    {
-      "cat": "worth to V 結構錯誤",
-      "desc": "應為 worth + V-ing，如 worth to afford 應為 worth enduring",
-      "date": "2026-08-02",
-      "count": 2,
-      "id": "w10",
-      "explain": {
-        "rule": "worth 後面接動詞時，要用動名詞（V-ing），不能用 to V。「值得做某事」= worth V-ing。",
-        "examples": [
-          "✗ It is worth to try. → ✓ It is worth trying.",
-          "✗ worth to afford → ✓ worth enduring"
-        ]
-      }
-    },
-    {
-      "cat": "介係詞搭配",
-      "desc": "如 chat to（應為with）、interest to（應為in）、fit to（應為for）、impression to（應為on）",
-      "date": "2026-07-05",
-      "count": 6,
-      "id": "w11",
-      "explain": {
-        "rule": "很多動詞、形容詞後面固定搭配特定介係詞，這種是「固定用法」要當作一個整體背，不能用中文邏輯去猜。",
-        "examples": [
-          "chat with someone（不是 chat to）",
-          "fit for someone（不是 fit to）",
-          "interested in something（不是 interested to）"
-        ]
-      }
-    },
-    {
-      "cat": "be動詞遺漏",
-      "desc": "如 I still be present、it will hard to、is prepare 等",
-      "date": "2026-07-05",
-      "count": 8,
-      "id": "w12",
-      "explain": {
-        "rule": "當句子的動詞是「形容詞」或「Ving/p.p.」時，前面一定要有 be 動詞（am/is/are/was/were）撐住句子，不能省略。",
-        "examples": [
-          "✗ I still be present. → ✓ I am still present.",
-          "✗ It will hard to chat. → ✓ It will be hard to chat."
-        ]
-      }
-    },
-    {
-      "cat": "詞性混淆",
-      "desc": "motivate/motive、considering/consideration、efficient/efficiency 等；tolerant/tolerance",
-      "date": "2026-07-05",
-      "count": 6,
-      "id": "w13",
-      "explain": {
-        "type": "wordlist",
-        "words": [
-          {
-            "wrong": "motivate",
-            "correct": "motive",
-            "count": 1,
-            "note": "動詞誤用為名詞（動機）"
-          },
-          {
-            "wrong": "considering",
-            "correct": "consideration",
-            "count": 1,
-            "note": "分詞誤用為名詞"
-          },
-          {
-            "wrong": "efficient",
-            "correct": "efficiency",
-            "count": 1,
-            "note": "形容詞誤用為名詞"
-          },
-          {
-            "wrong": "tolerant",
-            "correct": "tolerance",
-            "count": 1,
-            "note": "形容詞誤用為名詞"
-          }
-        ]
-      }
-    },
-    {
-      "cat": "關係子句多餘主詞代名詞",
-      "desc": "如 that it seem、that it use、which...it，跨三篇出現，2026/08 正式確認",
-      "date": "2026-07-12",
-      "count": 3,
-      "id": "w14",
-      "explain": {
-        "rule": "用 that / which / who 開頭的關係子句，句子裡已經包含了主詞的角色，後面不能再重複加一個 it / he 等代名詞。",
-        "examples": [
-          "✗ Yawoo that it use no-contact service → ✓ Yawoo, which uses no-contact service",
-          "✗ the theme, which people will like it → ✓ the theme, which people will like"
-        ]
-      }
-    },
-    {
-      "cat": "最高級誤用",
-      "desc": "most X 應為 X-est，如 most clear 應為 clearest、most easy 應為 easiest",
-      "date": "2026-07-12",
-      "count": 2,
-      "id": "w15",
-      "explain": {
-        "rule": "形容詞最高級的判斷依「音節數」：1-2 音節的字，字尾直接加 -est；3 音節（含）以上的字，前面加 most，不能加 -est。",
-        "examples": [
-          "1音節：clear → clearest（不是 most clear）",
-          "2音節：easy → easiest（不是 most easy）",
-          "3音節以上：beautiful → most beautiful；important → most important"
-        ]
-      }
-    },
-    {
-      "cat": "不定詞/動名詞不平行",
-      "desc": "如 to get and keeping、cutting and decide",
-      "date": "2026-07-19",
-      "count": 2,
-      "id": "w16",
-      "explain": {
-        "rule": "當兩個動詞用 and 連接、共用同一個結構時，前後的動詞形式要一致（都是 to V，或都是 V-ing），不能一個 to V 一個 V-ing。",
-        "examples": [
-          "✗ to get new friends and keeping the friendship → ✓ to get new friends and keep the friendship",
-          "✗ cutting video and decide the theme → ✓ cutting video and deciding the theme"
-        ]
-      }
-    },
-    {
-      "cat": "代名詞格位錯誤",
-      "desc": "As me recall 應為 As I；make my 應為 make me",
-      "date": "2026-07-26",
-      "count": 2,
-      "id": "w17",
-      "explain": {
-        "rule": "代名詞在句子中當主詞要用主格（I, he, she），當受詞或介係詞後面要用受格（me, him, her）。",
-        "examples": [
-          "✗ As me recall → ✓ As I recall",
-          "✗ It will make my not-alone → ✓ It will make me feel not alone"
-        ]
-      }
-    },
-    {
-      "cat": "可數/不可數混淆",
-      "desc": "如 many food 應為 much food",
-      "date": "2026-08-16",
+      "note": "合約/收縮 vs. 對比"
+     },
+     {
+      "wrong": "progress",
+      "correct": "process",
       "count": 1,
-      "id": "w18",
-      "explain": {
-        "rule": "不可數名詞（如 food, money, advice）前面不能用 many，要用 much 或 a lot of；也不能加 s 變複數。",
-        "examples": [
-          "✗ many food → ✓ much food / a lot of food",
-          "✗ many advices → ✓ much advice / some advice"
-        ]
-      }
-    },
-    {
-      "cat": "冠詞誤加（抽象/泛指名詞）",
-      "desc": "the friendship、the nature 等抽象或泛指名詞前誤加 the",
-      "date": "2026-07-19",
-      "count": 3,
-      "id": "w19",
-      "explain": {
-        "rule": "當抽象名詞（friendship, nature, happiness）是泛指、不特定某一個時，前面不加 the。只有在特指「某一種、某一次」的狀況才加 the。",
-        "examples": [
-          "✗ the friendship is important → ✓ friendship is important（泛指友情這個概念）",
-          "✗ trust the nature → ✓ trust nature"
-        ]
-      }
-    },
-    {
-      "cat": "句首該大寫卻用小寫",
-      "desc": "與句中誤大寫並存出現，顯示大小寫規則尚未真正掌握，而非單純粗心",
-      "date": "2026-07-19",
-      "count": 2,
-      "id": "w20"
-    },
-    {
-      "cat": "詞彙誤用",
-      "desc": "以 measure 代替「設施/活動」一詞，非拼字問題，需口頭直接教正確說法",
-      "date": "2026-08-16",
-      "count": 3,
-      "id": "w21",
-      "explain": {
-        "rule": "有些字看起來好像可以用，但實際上不是英語母語者會用的詞，這種不是拼字或文法問題，是選錯字，需要直接記住正確的說法。",
-        "examples": [
-          "✗ amusement measure → ✓ amusement facilities / rides（遊樂設施）",
-          "✗ thrilling measure → ✓ thrilling rides / activities"
-        ]
-      }
-    },
-    {
-      "cat": "反身代名詞遺漏",
-      "desc": "slap on my face 應為 slap myself；force me 應為 force myself（新觀察，尚待再次確認）",
-      "date": "2026-08-23",
-      "count": 2,
-      "id": "w22",
-      "explain": {
-        "rule": "當動作的對象就是自己時，要用反身代名詞（myself, yourself, himself...），不能只用一般代名詞或介係詞代替。",
-        "examples": [
-          "✗ slap on my face → ✓ slap myself in the face",
-          "✗ force me to stay awake → ✓ force myself to stay awake"
-        ]
-      }
-    },
-    {
-      "cat": "語意不明（待口頭確認）",
-      "desc": "多篇皆有結構打結、無法確定原意的句子，依標準不猜測，列出待老師詢問學生",
-      "date": "2026-07-05",
-      "count": 9,
-      "id": "w23",
-      "explain": {
-        "rule": "這類句子不是單一文法點的問題，而是整句邏輯、指涉對象或想表達的意思本身不清楚。這種情況建議直接口頭問學生「這句你原本想講什麼」，不要用猜的去改，避免曲解原意。",
-        "examples": [
-          "例如「the peer glance to what when you go to get second round」——結構跟邏輯都需要學生親自澄清才能準確修正"
-        ]
-      }
-    },
-    {
-      "cat": "than/then 同音混淆",
-      "desc": "than 與 then 混用，同一篇出現兩次（Back than 應為 Back then；We haven't been touch since than 應為 since then）",
-      "date": "2026-08-30",
-      "count": 2,
-      "id": "w24",
-      "explain": {
-        "rule": "than 用在「比較」（than 前後常有比較級形容詞，如 more...than, better than）；then 用在「時間先後」（然後、當時）。唸出來發音不同，但因為長得像常打錯。",
-        "examples": [
-          "✓ Back then, I thought nothing could tear us apart.（那時候）",
-          "✓ He is taller than me.（比…更高）"
-        ]
-      }
-    },
-    {
-      "cat": "代名詞指涉錯誤",
-      "desc": "指稱對象前後不一致，如 breaking off his friendship 應為 our friendship（這段友情是雙方的，不是單方的）；同篇也出現 my best friends 與全文單一朋友的敘事對象數量不一致",
-      "date": "2026-08-30",
+      "note": "進展 vs. 過程"
+     },
+     {
+      "wrong": "incredible",
+      "correct": "incredulous",
       "count": 1,
-      "id": "w25",
-      "explain": {
-        "rule": "代名詞（his/her/their/our...）要跟它所指的對象一致。寫之前先確認：這件事情/這段關係是屬於誰的？是單方的還是雙方共有的？",
-        "examples": [
-          "✗ breaking off his friendship（這段友情是雙方的） → ✓ breaking off our friendship",
-          "確認全文的敘事對象是單數還是複數，代名詞要跟著一致"
-        ]
-      }
-    }
-  ],
-  "portfolio": [
-    {
-      "id": "foodDelivery",
-      "title": "食物外送平台比較（UBirds / Yawoo / Foodbear）",
-      "date": "2026-07-12",
-      "score": 8,
-      "prompt": "依表格描述三個食物外送平台特色，並說明自己是否會使用、會選哪個平臺及原因。",
-      "original": "After the Covid 19 trend, more and more food delivery services website appears like a gress. In these picture, these website are using own wan to survice in delivery war. For example, the UBird's feture is they have wide goods and spend 100$ geting the delivery fee free these two ways can attract students or others people who don't have much budget. Another is Yawoo that it use the way is the no contact service and specialtic times make delivery fee free. I think the not touch services can be the attractive way to appeal the people who easily feel shy in the communication, but the specialtic times make delivery fee free is not the best way to draw peoples who will become the regular visitor even if it's delivery fee just cost $24. The last one is Food bear it is the website that it has the most clear intention for the high spend costumers. The Foodbear coolabrate with the high rate restaurant and it's delivery fee is the most expensive in these three delivery website.\nFor me, I won't use the food delivery website because I enjoy that exploring in the street find some new restaurants. In this progress, although I will trapped by some dishes that not taste good, I still be present when I find treasure restaurants. It is a sence of achivement, like a pirate find the treasure. However, if I want to be a couch potato, I will use food delivery services, and I wil choose the UBirds because I am not a rich man.",
-      "corrected": "After the Covid-19 trend, more and more food delivery service websites have appeared like grass. In this picture, these websites are using their own way to survive in the delivery war. For example, UBird's feature is that they have a wide range of goods and offer free delivery when you spend $100 — these two ways can attract students or other people who don't have much budget. Another is Yawoo, which uses no-contact delivery and offers free delivery during specific hours. I think the no-contact service can be an attractive way to appeal to people who easily feel shy in communication, but the specific-hour free delivery is not the best way to draw people who will become regular visitors, even though its delivery fee only costs $24. The last one is Foodbear, which has the clearest intention of targeting high-spending customers. Foodbear collaborates with high-end restaurants, and its delivery fee is the most expensive among these three delivery websites.\nFor me, I won't use food delivery websites because I enjoy exploring the streets to find new restaurants. In this process, although I will be disappointed by some dishes that don't taste good, 〔語意待確認：I am still present when I find treasure restaurants〕. It is a sense of achievement, like a pirate finding treasure. However, if I want to be a couch potato, I will use food delivery services, and I will choose UBirds because I am not a rich man.",
-      "note": "its/it's 混淆兩次；progress/process 混淆；關係子句多餘代名詞（that it use / that it has）首次觀察到的雛形；最高級 most clear 應為 clearest。"
-    },
-    {
-      "id": "pocketMoney",
-      "title": "日本高中生零用錢用途",
-      "date": "2026-07-19",
-      "score": 6,
-      "prompt": "依圖表描述日本高中生零用錢用途現象，並以自己為例說明零用錢使用方式及與圖表之異同。",
-      "original": "In this picture, Most of the pocket money is used to getting friends or having fun on their own interest. In this 3C era, Social medias are common, so getting new friends is not the difficult ivent nowadays. Along with the number of friends increase, the cost will increase, too. On the other hands, numbers of friends increasing will let pocket money spend on interest and trend, In my opinion, most of my friends are have the same interest with me, so we can get a conversation. If the interest is the electricity with friends, the trend of meme is the grease in the conversation to strangers. For the meme is common in the world, if strangers have seen this meme before you can talk about this famous meme with others. You won't be embrassed. and Make up can give strangers a good impression to other, it will increase the rate of getting friends. so the cost of these things are necessary. The cost from thos things is unexpected.\nIn my angle, my pocket money cost tablet maybe will similar like this picture. But the different on it is that savings rate will be higher than the snack and interest. Maybe it is the feture of Taiwanese, The adult will always let us to save money in the bank, include pocket money, lucky money and so forth. But the inchange thing is I will spend much money to get the new friends and keeping the friendship. Regardless of what era you are, the friendship is still the important thing.",
-      "corrected": "In this picture, most of the pocket money is used to get friends or to have fun based on their own interests. In this 3C era, social media is common, so getting new friends is not a difficult thing nowadays. Along with the increasing number of friends, the cost will increase too. On the other hand, an increasing number of friends will let pocket money be spent on interests and trends. In my opinion, most of my friends have the same interests as me, so we can have a conversation. If the interest is the electricity between friends, the trend of memes is the grease in conversations with strangers. Since memes are common in the world, if strangers have seen a meme before, you can talk about this famous meme with others. You won't be embarrassed. Also, makeup can give strangers a good impression, and it will increase the chance of making friends. So the cost of these things is necessary. The cost of those things is unexpected.\nIn my opinion, my pocket money spending might be similar to this picture. But the difference is that my savings rate will be higher than the snack and interest categories. Maybe it is a feature of Taiwanese culture — adults always let us save money in the bank, including pocket money, lucky money, and so forth. But the unchanged thing is that I will spend a lot of money to make new friends and keep the friendship. Regardless of what era you are in, friendship is still an important thing.",
-      "note": "句首該大寫卻用小寫（and Make up / so the cost）與句中誤大寫（Social, The, Make）並存；In my angle 代替 In my opinion；不定詞/動名詞不平行（to get...and keeping）；抽象名詞前冠詞誤加（the friendship）。"
-    },
-    {
-      "id": "teamwork",
-      "title": "分工合作與校運會接力賽",
-      "date": "2026-07-26",
-      "score": 10,
-      "prompt": "說明分工合作的好處（或壞處），並舉自己或他人團體合作的經驗支持看法。",
-      "original": "Nowadays, having team-work ability has been the neccesary thing, not only working in workplaces, but also studying in the school. Cooperating with others can arrange right peoples to right ways. It can effectively increase efficient. And It's the good way to got a progress. When You converse about shortcoming in the team conversation, Your classmate or colleague will give the objective addvice to you. Therefore, You can notice your own weakness, and you can improve it with specific addvise. However, these all things are based on that you have good cooperators. If your team have peoples who is lazy or not effort. It will cause others teamate must handle their work, and that will waste the time, which you depand cooperation to save. As a result, it even have better working in ownself.\nAs me recall, It's the school sports day. Every one is prepare to exhibit sports ability in this day. And the most popular thing is relay race, every one effort to run one the way. Suddenlly, our class runner is trumble. Everyone is care about his condition, but he still finish the race. When he come back, everyone didn't complain. Everyone encourage others teamates, and give some addvise, which can boost the speed. At the end, even if we don't have a good grade, but I saw the best race team in the world. As the saying goes \"Teamwork is the most powerful energy in this world\", I eventually understand until that day, because when I saw that everyone effort to do something, I will have the endless power exploring my body.",
-      "corrected": "Nowadays, having teamwork ability has become a necessary thing, not only for working in workplaces but also for studying in school. Cooperating with others can assign the right people to the right roles. It can effectively increase efficiency, and it's a good way to make progress. When you talk about your shortcomings in a team discussion, your classmates or colleagues will give you objective advice. Therefore, you can notice your own weaknesses and improve them with specific advice. However, all these things are based on the fact that you have good cooperators. If your team has people who are lazy or not hardworking, it will cause other teammates to handle their work, which will waste the time that cooperation was meant to save. As a result, it is even better to work by yourself.\nAs I recall, it was the school sports day. Everyone was preparing to show their sports ability that day, and the most popular event was the relay race — everyone made an effort to run all the way. Suddenly, our class runner stumbled. Everyone cared about his condition, but he still finished the race. When he came back, no one complained. Everyone encouraged their teammates and gave advice that could boost their speed. In the end, even though we didn't get a good grade, I saw the best race team in the world. As the saying goes, \"Teamwork is the most powerful energy in this world.\" I finally understood this on that day, because when I saw everyone making an effort to do something, I had endless power exploding inside me.",
-      "note": "You/Your 句中大寫三次；effort 當動詞三次；addvice/addvise 拼字混用三次；although/even if...but 冗贅；if 子句句號斷句造成片段；代名詞格位錯誤 As me recall。內容敘事生動，是這批裡content分數最高的一篇。"
-    },
-    {
-      "id": "youtuber",
-      "title": "成為 YouTuber",
-      "date": "2026-08-02",
-      "score": 9,
-      "prompt": "描述圖片中 YouTuber 在做的事情及可能原因；說明若自己成為 YouTuber 會做什麼內容及目標。",
-      "original": "Nowadays, Youtuber has been a populer dream to many teenagers in this erea. For example, the man in this picture is introducing the food under the photography, and many eyephones surround him. Maybe he just trying to practice the expression and draft before he started to make a photography. Either he just a online gaming Youtuber, and suddenly introduce the goods from advertiser. Anyway, I think that he will start to become a Youtuber, it must based on mess of interesting and passion for whatever he is doing under the photography. Even if cutting video and decide the theme, which people will like it, are the boring prossess in the way of being Youtuber. However, watching the increasing of likes and subscribes, the achivement will be the power surge in his body.\nIf I can be the particapant of this field, I think that I will be an online player because playing games with others, which not only acquire pleasant, but also earn money. It sound very amazing and chill. If I have unnecessary time, I will try to shoot a vlog to my daily life, or record meanaful moment. Everything discussed above, I hope audiences can acquire a simle after seeing my video, or it could be a light to someone's depression. Maybe it will have some bad comment to me or my video, but If my video can make happy to others, It will be worth to afford troll's comment and attack.",
-      "corrected": "Nowadays, being a Youtuber has become a popular dream for many teenagers in this era. For example, the man in this picture is introducing food in front of the camera, and 〔語意待確認：many eyephones surround him〕. Maybe he is just trying to practice his expressions and script before he starts filming. Or he is just an online gaming Youtuber who suddenly introduces goods from an advertiser. Anyway, I think that if he decides to become a Youtuber, it must be based on a mix of interest and passion for whatever he is doing on camera. Even cutting videos and deciding on themes that people will like are boring processes on the way to being a Youtuber. However, watching the increase in likes and subscribers, the sense of achievement will feel like a surge of power in his body.\nIf I could be a participant in this field, I think I would be an online gaming player because playing games with others not only brings pleasure but also earns money. It sounds very amazing and relaxing. If I have spare time, I will try to shoot a vlog about my daily life or record meaningful moments. Overall, I hope audiences can get a smile after seeing my video, or that it could be a light for someone's depression. Maybe there will be some bad comments about me or my video, but if my video can make others happy, it will be worth enduring trolls' comments and attacks.",
-      "note": "worth to afford 應為 worth enduring；cutting/decide 不平行；which...it 關係子句多餘代名詞；achivement 拼字與外送平台那篇同一字再度拼錯，跨篇確認。"
-    },
-    {
-      "id": "regret",
-      "title": "人生最大的遺憾（Regret 四分類）",
-      "date": "2026-08-23",
-      "score": 6,
-      "prompt": "依 Daniel H. Pink《The Power of Regret》四種遺憾分類，寫出自己最深的遺憾及背景前因後果；第二段說明重來一次會怎麼做。",
-      "original": "Looking back, many regret full of my life. If you ask me, what is the biggest regret in my life? I think that it would be not hardworking enough in English. When I was junior high schooll student, I will fall asleep in English classes because I thought that English was a boring and useless in the future. Although English teacher always emphasize English was important, I feel anxious about these stable expression. Until I graduade in senior high school, I realized how this suject important is. With words rate of difficult rising, I can;t even read the question in the exam. Every words like birds surround my messy brain. In addition, When I looking about aanything, which relate to English, I will feel sleepy and lazy. These pravious habit always effect my study efficient. Those bad hobits spend my prasious studying time to having transform.\nIf I can return to the past, I would slap on my face and force me to stay awake. What's more, I will bring my interesting way, which I use in the future, to effectively change my bad perception about Englishs word just depend on: craming to remenber. However, Life didn't have regert medicine, I just trying to be better on my way.",
-      "corrected": "〔第1句語意待確認〕Looking back, my life is full of regrets. If you ask me, what is the biggest regret in my life? I think it would be that I was not hardworking enough in English. When I was a junior high school student, I would fall asleep in English classes because I thought that English would be boring and useless in the future. Although the English teacher always emphasized English was important, I felt anxious about 〔語意待確認：these stable expressions〕. Until I graduated in senior high school, I realized how important this subject was. As 〔語意待確認：words rate of difficult〕 rose, I couldn't even read the questions in the exam. Every word surrounded my messy brain like birds. In addition, when I looked at anything related to English, I would feel sleepy and lazy. These previous habits always affected my study efficiency. 〔語意待確認：Those bad habits spent my precious studying time to having transform.〕\nIf I could return to the past, I would slap myself in the face and force myself to stay awake. What's more, I would bring 〔語意待確認：my interesting way, which I use in the future〕 to effectively change my bad perception about English words, which just depended on cramming to remember. However, life doesn't have regret medicine; I am just trying to be better in my own way.",
-      "note": "拼字問題本批最密集（10處以上）；反身代名詞遺漏首次觀察（slap myself / force myself）；四處語意不明待向學生確認。原始批改日期以今天登錄。"
-    },
-    {
-      "id": "banquet",
-      "title": "聚餐用餐方式：合菜 vs 吃到飽",
-      "date": "2026-07-05",
-      "score": 7,
-      "prompt": "以「聚會用餐」為主題，描述10人合菜與吃到飽自助餐兩種用餐方式各有何特色，並說明自己聚餐時比較喜歡哪一種。",
-      "original": "In Taiwan, manys people will choose a 10-course banquet, because the meal is more splendid and cheaper, although an all-you-can-eat buffet has various dishes, but guests will walk often. It will hard to chat to others. For me, I think I will choose a 10-course banquest, The mayor motivate is when I engage in a friend gathering or others. It means I want to get new friends or to listen something intresting things from my friends. In my concern, the all-you-can-eat buffet is the worse choice for gathering because the eating time pressure and the peer glance to what when you go to get second round, it is the reason that I don't like to choise the all-you-can-eat buffet. However, if the reunion don't have madam and under the four people, I think the all-you-can-eat buffet will be the best choise. In conclusion, I think two type of reunion has each advantage and disadvantage, it according to the gathering's people and the gender of visiters. But the priority considering is how know well to each other.",
-      "corrected": "In Taiwan, many people choose a 10-course banquet because the meal is more splendid and cheaper. Although an all-you-can-eat buffet has various dishes, guests will walk around often, and it will be hard to chat with others. For me, I think I will choose a 10-course banquet. My major motive is that when I attend a gathering with friends, it means I want to make new friends or listen to something interesting from my friends. In my opinion, the all-you-can-eat buffet is the worse choice for gatherings because of the eating time pressure and 〔語意待確認：the peer glance to what when you go to get a second round〕. That is the reason I don't like to choose the all-you-can-eat buffet. However, if the reunion doesn't have 〔語意待確認：madam〕 and is under four people, I think the all-you-can-eat buffet will be the best choice. In conclusion, I think the two types of reunion each have their own advantages and disadvantages; it depends on the gathering's people. But the priority to consider is how well people know each other.",
-      "note": "although...but 冗贅；In my concern 代替 In my opinion；motivate/motive、considering/consideration 詞性混淆；choise 拼字三次。原始批改日期以今天登錄，待老師確認實際批改時間。"
-    },
-    {
-      "id": "campsite",
-      "title": "露營地比較：Campsite A vs Campsite B",
-      "date": "2026-07-12",
-      "score": 5,
-      "prompt": "依表格描述兩個露營地各有何特色，並說明會想去哪個營地露營及理由。",
-      "original": "In these picture, the campsite B look more attractive, but I think I will choise campsite A. Campsite B's advanture is very visable that high quality equipment, and the clear public space, although thease things are attractive, it can't experience the reality happy in the camping. The campsite A that it seem ugly and look like a homeless man, but it is the place that can near the nature. I can image that I lay on the grass and listen to the voice that wind slay the tree and see the star on the sky. Even if I have a bad life, the star will always stay with me. However, if I don't want to experience the misery that washing my body with the cold water and fighting with the starve musgito, I will choose campsite B. After all, my pockage must agree.\nMake a includetion, I think if you want to near the nature and experience the real camping life, you can choice campsite A, you will broaden the new world and pround of yourself after the camping's suffering, but if you just want to experience the astmostance of camping you can chooice campsite B, it is the most easy and happy for you, but if I have enough money I will buy the expensive talent and go to the place that don't have any noise from the city, camping with my friends, and we will talk secrets around the fire accompany the star in the sky.",
-      "corrected": "In these pictures, campsite B looks more attractive, but I think I will choose campsite A. Campsite B's advantage is that it is very visible in its high-quality equipment and clear public space. Although these things are attractive, 〔語意待確認：it can't experience the reality happy in the camping〕. Campsite A seems ugly and looks like a homeless camp, but it is the place that can be near nature. I can imagine that I lie on the grass and listen to the wind swaying the trees, and see the stars in the sky. Even if I have a bad life, the stars will always stay with me. However, if I don't want to experience the misery of washing my body with cold water and fighting with starving mosquitoes, I will choose campsite B. After all, my pocket must agree.\nIn conclusion, I think if you want to be near nature and experience real camping life, you can choose campsite A — you will broaden your world and be proud of yourself after the camping's hardship. But if you just want to experience the atmosphere of camping, you can choose campsite B; it is the easiest and happiest option for you. But if I have enough money, I will buy an expensive tent and go to a place without any noise from the city, camping with my friends, and we will talk secrets around the fire, accompanied by the stars in the sky.",
-      "note": "這批 8 篇中拼字扭曲最嚴重（includetion, astmostance）；第二段是單一巨型 run-on（串連 5 個以上獨立子句）；choise/choice/chooice 同篇三種拼法；the star 應為複數 stars 出現三次。原始批改日期以今天登錄，待老師確認實際批改時間。"
-    },
-    {
-      "id": "amusement",
-      "title": "假期出遊：遊樂園 vs 野餐",
-      "date": "2026-08-16",
-      "score": 7,
-      "prompt": "描述遊樂園與野餐兩個場景的特色，並說明自己會選擇哪個旅遊場景及理由。",
-      "original": "The picture presents a sharp contract between left and right, In the left picture, there are many amusement measure like roller coaster, merry-go-around and ferris wheel, etc. It will be a good resort for people who under sixteen years old. These place can provide thrilling and pleasment for them. In addition, merry-go-around is fit to young people and family, which can boost their relationship. In the right picture, although it can boost the relationship too, it lack exciting and stimulate. Instead of that, this place offer peace and nature, there are many food on the picnic blanket. This place can be a prasious spots to someone who want to slow their life down or to find the calmness.\nFrom my perspective, I think I will pick the place in right picture because as a someone that fear to height, amusment park will never be a good choise of mind. In addition, as a Taiwanese, every field trips aalways include amusmant park. I'm sick of being a photographer when my friends go to play amusements measure. In contract, I can chat with friends and discuss common topic. It will make my not-alone and relaxed. Furthermore, my life full of preasure, I don't think that thrilling measure will be a good cure, which can treat my tired heart. However I trust the nature can effectively heal my tired heart.",
-      "corrected": "The picture presents a sharp contrast between left and right. In the left picture, there are many amusement facilities like a roller coaster, a merry-go-round, and a ferris wheel, etc. It will be a good place for people who are under sixteen years old. This place can provide thrills and pleasure for them. In addition, the merry-go-round is suitable for young people and families, which can boost their relationship. In the right picture, although it can boost the relationship too, it lacks excitement and stimulation. Instead, this place offers peace and nature, and there is a lot of food on the picnic blanket. This place can be a precious spot for someone who wants to slow their life down or find calmness.\nFrom my perspective, I will pick the place in the right picture because, as someone who fears heights, an amusement park will never be a good choice for me. In addition, as a Taiwanese, every field trip always includes an amusement park. I'm sick of being a photographer when my friends go to play on the amusement rides. In contrast, I can chat with friends and discuss common topics here. It will make me feel not alone and relaxed. Furthermore, my life is full of pressure, and I don't think thrilling rides will be a good cure to treat my tired heart. However, I trust that nature can effectively heal my tired heart.",
-      "note": "新的相似詞混淆 contract/contrast 兩次；measure 誤用代替設施/活動三次，屬詞彙誤用非拼字；代名詞格位錯誤 make my 應為 make me；prasious 拼字與露營那篇同一字再度拼錯，跨篇確認。"
-    },
-    {
-      "id": "friendshipRegret",
-      "title": "遺憾：與摯友的爭執（學生仿寫 regret 主題）",
-      "date": "2026-08-30",
-      "score": 8,
-      "prompt": "依 regret 範文主題仿寫，描述人際遺憾（Connection Regret）：與摯友的一次爭執及前因後果，第二段說明重來一次會怎麼做及預期改變。",
-      "original": "looking back, meny regrets are full of my life. I always plagued by those unforgettable decisions when I was lay on the bed. One of my biggest regret is having a big argument with my best friends. When I was a junior high school student, I have a good friend who graduated from the same school as me. Although we are just friend, we are more like family. Back than, I naively thought nothing can tear us apart. However, we had a big argument over a small decision. At that time, he have a crush on a girl who is our common friend. I originally feel happy to him. Until others tell my that he depand that exposing our secret to create subject with her. I feel incredible because I couldn't believe he would betray best friend for love. I immediately argue this event with him, and breaking off his friendship. We haven't been touch since than.\nEven now, I finally understand his feeling when was fall in love. If I could have more patience and tolerant, maybe It wouldn't cause this bad end. If I can return back, I think I would patiently listened to him and expressed my thought. I expeted we can keep this relationship after this sincere communicaton. Even though it can't come ture. At least we had some peaceful ending in this relationship.",
-      "corrected": "Looking back, my life is full of many regrets. I am always plagued by those unforgettable decisions when I am lying on the bed. One of my biggest regrets is having a big argument with my best friend. When I was a junior high school student, I had a good friend who graduated from the same school as me. Although we were just friends, we were more like family. Back then, I naively thought nothing could tear us apart. However, we had a big argument over 〔語意待確認：a small decision〕. At that time, he had a crush on a girl who was our common friend. I originally felt happy for him. Until others told me that he depended on exposing our secret 〔語意待確認：to create a subject with her〕. I felt incredulous because I couldn't believe he would betray his best friend for love. I immediately argued about this matter with him, and broke off our friendship. We haven't been in touch since then.\nEven now, I finally understand his feelings when he was falling in love. If I could have had more patience and tolerance, maybe it wouldn't have caused this bad ending. If I could return to the past, I think I would have patiently listened to him and expressed my thoughts. I expected we could keep this relationship after this sincere communication. Even though it couldn't come true, at least we would have had a peaceful ending in this relationship.",
-      "note": "內容/組織是這批以來最扎實的一次（有分段、第二段完整回答「怎麼做」跟「預期改變」）。文法句構與字彙拼字錯誤密度仍高：過去式敘事中大量現在式殘留是這批密度最高之一；incredible→incredulous 是選字錯誤而非拼字，且剛好把情緒意思說反；his friendship→our friendship 代名詞指涉錯誤；than/then 同音混淆兩次；tolerant→tolerance 詞性混淆；Even though...true. 是 though 子句句號斷句造成的片段，與先前確認過的 if 子句片段同類。"
-    }
-  ]
+      "note": "令人驚嘆的 vs. 不敢置信的（意思幾乎相反）"
+     },
+     {
+      "wrong": "interesting（當名詞用）",
+      "correct": "interest",
+      "count": 1,
+      "note": "形容詞誤用為名詞"
+     },
+     {
+      "wrong": "exciting / stimulate（當名詞用）",
+      "correct": "excitement / stimulation",
+      "count": 2,
+      "note": "形容詞、動詞誤用為名詞"
+     }
+    ]
+   }
+  },
+  {
+   "cat": "篇章結構",
+   "desc": "客觀描述段落誤植主觀意見；2026-09-06 為更嚴重的變體：圖片描述段完全未描述圖片，改用「如果你走進寵物友善餐廳會看到…」的假設通則替代。場景判讀（寵物友善餐廳）本身合理且題目允許，問題在於未從圖中具體人事物推得該判讀",
+   "date": "2026-09-06",
+   "count": 3,
+   "id": "w7",
+   "explain": {
+    "rule": "題目通常要求「先客觀描述，再給個人意見」分兩段處理。寫客觀描述段落時，先問自己：這句話是在講圖表/情境本身的內容，還是已經在講「我」的想法？如果太早出現 I think / In my opinion，代表跳段了。",
+    "examples": [
+     "客觀段落應該像：The chart shows that 76.9% of students spend money on making friends.（描述數據）",
+     "而不是一開始就寫：I think making friends is important to me.（提早進入主觀意見）"
+    ]
+   }
+  },
+  {
+   "cat": "its/it's 混淆",
+   "desc": "所有格 its 與縮寫 it's 混用",
+   "date": "2026-07-12",
+   "count": 3,
+   "id": "w8",
+   "explain": {
+    "rule": "its（無撇號）是所有格，「它的」；it's（有撇號）是 it is 或 it has 的縮寫。判斷方法：把 it's 展開成 it is，唸起來通順就是 it's，不通順就是 its。",
+    "examples": [
+     "✗ its delivery fee is cheap and it's cheap → 應為：its delivery fee is cheap",
+     "✓ It's raining today.（It is raining）",
+     "✓ The dog wagged its tail.（牠的尾巴）"
+    ]
+   }
+  },
+  {
+   "cat": "run-on / 逗號連接句",
+   "desc": "多個獨立子句以逗號直接連接，未使用句號或連接詞；並含以 But/Because 開頭的不完整片段句",
+   "date": "2026-09-06",
+   "count": 15,
+   "id": "w9",
+   "explain": {
+    "rule": "兩個各自能獨立成句的子句，不能只用逗號連接（這叫 comma splice）。要嘛用句號分開、用分號、或加連接詞（and, but, because, so...）。",
+    "examples": [
+     "✗ It was raining, we stayed home. → ✓ It was raining, so we stayed home. / It was raining. We stayed home.",
+     "✗ I like it, it is cheap. → ✓ I like it because it is cheap."
+    ]
+   }
+  },
+  {
+   "cat": "worth to V 結構錯誤",
+   "desc": "應為 worth + V-ing，如 worth to afford 應為 worth enduring",
+   "date": "2026-08-02",
+   "count": 2,
+   "id": "w10",
+   "explain": {
+    "rule": "worth 後面接動詞時，要用動名詞（V-ing），不能用 to V。「值得做某事」= worth V-ing。",
+    "examples": [
+     "✗ It is worth to try. → ✓ It is worth trying.",
+     "✗ worth to afford → ✓ worth enduring"
+    ]
+   }
+  },
+  {
+   "cat": "介係詞搭配",
+   "desc": "如 chat to（應為with）、interest to（應為in）、fit to（應為for）、impression to（應為on）、on a restaurant（應為 in/at）",
+   "date": "2026-09-06",
+   "count": 7,
+   "id": "w11",
+   "explain": {
+    "rule": "很多動詞、形容詞後面固定搭配特定介係詞，這種是「固定用法」要當作一個整體背，不能用中文邏輯去猜。",
+    "examples": [
+     "chat with someone（不是 chat to）",
+     "fit for someone（不是 fit to）",
+     "interested in something（不是 interested to）"
+    ]
+   }
+  },
+  {
+   "cat": "be動詞遺漏",
+   "desc": "如 I still be present、it will hard to、is prepare 等",
+   "date": "2026-07-05",
+   "count": 8,
+   "id": "w12",
+   "explain": {
+    "rule": "當句子的動詞是「形容詞」或「Ving/p.p.」時，前面一定要有 be 動詞（am/is/are/was/were）撐住句子，不能省略。",
+    "examples": [
+     "✗ I still be present. → ✓ I am still present.",
+     "✗ It will hard to chat. → ✓ It will be hard to chat."
+    ]
+   }
+  },
+  {
+   "cat": "詞性混淆",
+   "desc": "motivate/motive、considering/consideration、efficient/efficiency 等；tolerant/tolerance",
+   "date": "2026-09-06",
+   "count": 7,
+   "id": "w13",
+   "explain": {
+    "type": "wordlist",
+    "words": [
+     {
+      "wrong": "motivate",
+      "correct": "motive",
+      "count": 1,
+      "note": "動詞誤用為名詞（動機）"
+     },
+     {
+      "wrong": "considering",
+      "correct": "consideration",
+      "count": 1,
+      "note": "分詞誤用為名詞"
+     },
+     {
+      "wrong": "efficient",
+      "correct": "efficiency",
+      "count": 1,
+      "note": "形容詞誤用為名詞"
+     },
+     {
+      "wrong": "tolerant",
+      "correct": "tolerance",
+      "count": 1,
+      "note": "形容詞誤用為名詞"
+     },
+     {
+      "wrong": "harmony",
+      "correct": "harmonious",
+      "count": 1,
+      "note": "名詞誤用為形容詞（peaceful and harmony）"
+     }
+    ]
+   }
+  },
+  {
+   "cat": "關係子句多餘主詞代名詞",
+   "desc": "如 that it seem、that it use、which...it，跨三篇出現，2026/08 正式確認",
+   "date": "2026-07-12",
+   "count": 3,
+   "id": "w14",
+   "explain": {
+    "rule": "用 that / which / who 開頭的關係子句，句子裡已經包含了主詞的角色，後面不能再重複加一個 it / he 等代名詞。",
+    "examples": [
+     "✗ Yawoo that it use no-contact service → ✓ Yawoo, which uses no-contact service",
+     "✗ the theme, which people will like it → ✓ the theme, which people will like"
+    ]
+   }
+  },
+  {
+   "cat": "最高級誤用",
+   "desc": "most X 應為 X-est，如 most clear 應為 clearest、most easy 應為 easiest",
+   "date": "2026-07-12",
+   "count": 2,
+   "id": "w15",
+   "explain": {
+    "rule": "形容詞最高級的判斷依「音節數」：1-2 音節的字，字尾直接加 -est；3 音節（含）以上的字，前面加 most，不能加 -est。",
+    "examples": [
+     "1音節：clear → clearest（不是 most clear）",
+     "2音節：easy → easiest（不是 most easy）",
+     "3音節以上：beautiful → most beautiful；important → most important"
+    ]
+   }
+  },
+  {
+   "cat": "不定詞/動名詞不平行",
+   "desc": "如 to get and keeping、cutting and decide",
+   "date": "2026-07-19",
+   "count": 2,
+   "id": "w16",
+   "explain": {
+    "rule": "當兩個動詞用 and 連接、共用同一個結構時，前後的動詞形式要一致（都是 to V，或都是 V-ing），不能一個 to V 一個 V-ing。",
+    "examples": [
+     "✗ to get new friends and keeping the friendship → ✓ to get new friends and keep the friendship",
+     "✗ cutting video and decide the theme → ✓ cutting video and deciding the theme"
+    ]
+   }
+  },
+  {
+   "cat": "代名詞格位錯誤",
+   "desc": "As me recall 應為 As I；make my 應為 make me",
+   "date": "2026-07-26",
+   "count": 2,
+   "id": "w17",
+   "explain": {
+    "rule": "代名詞在句子中當主詞要用主格（I, he, she），當受詞或介係詞後面要用受格（me, him, her）。",
+    "examples": [
+     "✗ As me recall → ✓ As I recall",
+     "✗ It will make my not-alone → ✓ It will make me feel not alone"
+    ]
+   }
+  },
+  {
+   "cat": "可數/不可數混淆",
+   "desc": "如 many food 應為 much food",
+   "date": "2026-08-16",
+   "count": 1,
+   "id": "w18",
+   "explain": {
+    "rule": "不可數名詞（如 food, money, advice）前面不能用 many，要用 much 或 a lot of；也不能加 s 變複數。",
+    "examples": [
+     "✗ many food → ✓ much food / a lot of food",
+     "✗ many advices → ✓ much advice / some advice"
+    ]
+   }
+  },
+  {
+   "cat": "冠詞誤加（抽象/泛指名詞）",
+   "desc": "the friendship、the nature 等抽象或泛指名詞前誤加 the",
+   "date": "2026-07-19",
+   "count": 3,
+   "id": "w19",
+   "explain": {
+    "rule": "當抽象名詞（friendship, nature, happiness）是泛指、不特定某一個時，前面不加 the。只有在特指「某一種、某一次」的狀況才加 the。",
+    "examples": [
+     "✗ the friendship is important → ✓ friendship is important（泛指友情這個概念）",
+     "✗ trust the nature → ✓ trust nature"
+    ]
+   }
+  },
+  {
+   "cat": "句首該大寫卻用小寫",
+   "desc": "與句中誤大寫並存出現，顯示大小寫規則尚未真正掌握，而非單純粗心",
+   "date": "2026-07-19",
+   "count": 2,
+   "id": "w20"
+  },
+  {
+   "cat": "詞彙誤用",
+   "desc": "以 measure 代替「設施/活動」一詞，非拼字問題，需口頭直接教正確說法；pet-setting（疑為 pet seating / pet-sitting）、discrease negative review to people 語意不成立",
+   "date": "2026-09-06",
+   "count": 5,
+   "id": "w21",
+   "explain": {
+    "rule": "有些字看起來好像可以用，但實際上不是英語母語者會用的詞，這種不是拼字或文法問題，是選錯字，需要直接記住正確的說法。",
+    "examples": [
+     "✗ amusement measure → ✓ amusement facilities / rides（遊樂設施）",
+     "✗ thrilling measure → ✓ thrilling rides / activities"
+    ]
+   }
+  },
+  {
+   "cat": "反身代名詞遺漏",
+   "desc": "slap on my face 應為 slap myself；force me 應為 force myself（新觀察，尚待再次確認）；themself 應為 themselves（形式錯誤）",
+   "date": "2026-09-06",
+   "count": 3,
+   "id": "w22",
+   "explain": {
+    "rule": "當動作的對象就是自己時，要用反身代名詞（myself, yourself, himself...），不能只用一般代名詞或介係詞代替。",
+    "examples": [
+     "✗ slap on my face → ✓ slap myself in the face",
+     "✗ force me to stay awake → ✓ force myself to stay awake"
+    ]
+   }
+  },
+  {
+   "cat": "語意不明（待口頭確認）",
+   "desc": "多篇皆有結構打結、無法確定原意的句子，依標準不猜測，列出待老師詢問學生",
+   "date": "2026-09-06",
+   "count": 11,
+   "id": "w23",
+   "explain": {
+    "rule": "這類句子不是單一文法點的問題，而是整句邏輯、指涉對象或想表達的意思本身不清楚。這種情況建議直接口頭問學生「這句你原本想講什麼」，不要用猜的去改，避免曲解原意。",
+    "examples": [
+     "例如「the peer glance to what when you go to get second round」——結構跟邏輯都需要學生親自澄清才能準確修正"
+    ]
+   }
+  },
+  {
+   "cat": "than/then 同音混淆",
+   "desc": "than 與 then 混用，同一篇出現兩次（Back than 應為 Back then；We haven't been touch since than 應為 since then）",
+   "date": "2026-08-30",
+   "count": 2,
+   "id": "w24",
+   "explain": {
+    "rule": "than 用在「比較」（than 前後常有比較級形容詞，如 more...than, better than）；then 用在「時間先後」（然後、當時）。唸出來發音不同，但因為長得像常打錯。",
+    "examples": [
+     "✓ Back then, I thought nothing could tear us apart.（那時候）",
+     "✓ He is taller than me.（比…更高）"
+    ]
+   }
+  },
+  {
+   "cat": "代名詞指涉錯誤",
+   "desc": "指稱對象前後不一致，如 breaking off his friendship 應為 our friendship（這段友情是雙方的，不是單方的）；同篇也出現 my best friends 與全文單一朋友的敘事對象數量不一致",
+   "date": "2026-08-30",
+   "count": 1,
+   "id": "w25",
+   "explain": {
+    "rule": "代名詞（his/her/their/our...）要跟它所指的對象一致。寫之前先確認：這件事情/這段關係是屬於誰的？是單方的還是雙方共有的？",
+    "examples": [
+     "✗ breaking off his friendship（這段友情是雙方的） → ✓ breaking off our friendship",
+     "確認全文的敘事對象是單數還是複數，代名詞要跟著一致"
+    ]
+   }
+  },
+  {
+   "cat": "複數 -s 遺漏",
+   "desc": "可數名詞在明確為複數的語境仍用單數：many accident、those incident、negative review、uncontrable condition",
+   "date": "2026-09-06",
+   "count": 4,
+   "id": "w26",
+   "explain": {
+    "rule": "英文可數名詞只要不是「一個」，字尾就必須加 -s，這是強制的，不能靠上下文省略。特別注意 many / those / a lot of / several 後面一定接複數。",
+    "examples": [
+     "✗ many accident → ✓ many accidents",
+     "✗ those incident → ✓ those incidents",
+     "✗ reduce negative review → ✓ reduce negative reviews"
+    ]
+   }
+  },
+  {
+   "cat": "助動詞後動詞形式錯誤（will been）",
+   "desc": "will been 出現兩次，應為 will be；顯示 be 動詞的三態（be / was / been）與助動詞的搭配規則不穩",
+   "date": "2026-09-06",
+   "count": 2,
+   "id": "w27",
+   "explain": {
+    "rule": "will / can / should 等情態助動詞後面一律接動詞原形，be 動詞的原形是 be。been 只能跟在 have/has/had 後面（have been），或被動的 has been done。",
+    "examples": [
+     "✗ that will been a disaster → ✓ that will be a disaster",
+     "✓ It has been a disaster.（完成式才用 been）"
+    ]
+   }
+  },
+  {
+   "cat": "冠詞遺漏（單數可數名詞）",
+   "desc": "單數可數名詞前少了 a/an/the：I am not pets hater、go to the restaurant（泛指應為 a restaurant）、see the sight like this picture",
+   "date": "2026-09-06",
+   "count": 3,
+   "id": "w28",
+   "explain": {
+    "rule": "單數可數名詞前面「一定」要有限定詞（a/an/the/my/this…），沒有例外。泛指某一類事物時用 a/an，不是零冠詞。這點與先前的「冠詞誤加」剛好相反，代表冠詞系統整體尚未建立。",
+    "examples": [
+     "✗ I am not pets hater → ✓ I am not a pet hater",
+     "✗ When I go to the restaurant（泛指任何一家）→ ✓ When I go to a restaurant"
+    ]
+   }
+  }
+ ],
+ "portfolio": [
+  {
+   "id": "foodDelivery",
+   "title": "食物外送平台比較（UBirds / Yawoo / Foodbear）",
+   "date": "2026-07-12",
+   "score": 8,
+   "prompt": "依表格描述三個食物外送平台特色，並說明自己是否會使用、會選哪個平臺及原因。",
+   "original": "After the Covid 19 trend, more and more food delivery services website appears like a gress. In these picture, these website are using own wan to survice in delivery war. For example, the UBird's feture is they have wide goods and spend 100$ geting the delivery fee free these two ways can attract students or others people who don't have much budget. Another is Yawoo that it use the way is the no contact service and specialtic times make delivery fee free. I think the not touch services can be the attractive way to appeal the people who easily feel shy in the communication, but the specialtic times make delivery fee free is not the best way to draw peoples who will become the regular visitor even if it's delivery fee just cost $24. The last one is Food bear it is the website that it has the most clear intention for the high spend costumers. The Foodbear coolabrate with the high rate restaurant and it's delivery fee is the most expensive in these three delivery website.\nFor me, I won't use the food delivery website because I enjoy that exploring in the street find some new restaurants. In this progress, although I will trapped by some dishes that not taste good, I still be present when I find treasure restaurants. It is a sence of achivement, like a pirate find the treasure. However, if I want to be a couch potato, I will use food delivery services, and I wil choose the UBirds because I am not a rich man.",
+   "corrected": "After the Covid-19 trend, more and more food delivery service websites have appeared like grass. In this picture, these websites are using their own way to survive in the delivery war. For example, UBird's feature is that they have a wide range of goods and offer free delivery when you spend $100 — these two ways can attract students or other people who don't have much budget. Another is Yawoo, which uses no-contact delivery and offers free delivery during specific hours. I think the no-contact service can be an attractive way to appeal to people who easily feel shy in communication, but the specific-hour free delivery is not the best way to draw people who will become regular visitors, even though its delivery fee only costs $24. The last one is Foodbear, which has the clearest intention of targeting high-spending customers. Foodbear collaborates with high-end restaurants, and its delivery fee is the most expensive among these three delivery websites.\nFor me, I won't use food delivery websites because I enjoy exploring the streets to find new restaurants. In this process, although I will be disappointed by some dishes that don't taste good, 〔語意待確認：I am still present when I find treasure restaurants〕. It is a sense of achievement, like a pirate finding treasure. However, if I want to be a couch potato, I will use food delivery services, and I will choose UBirds because I am not a rich man.",
+   "note": "its/it's 混淆兩次；progress/process 混淆；關係子句多餘代名詞（that it use / that it has）首次觀察到的雛形；最高級 most clear 應為 clearest。"
+  },
+  {
+   "id": "pocketMoney",
+   "title": "日本高中生零用錢用途",
+   "date": "2026-07-19",
+   "score": 6,
+   "prompt": "依圖表描述日本高中生零用錢用途現象，並以自己為例說明零用錢使用方式及與圖表之異同。",
+   "original": "In this picture, Most of the pocket money is used to getting friends or having fun on their own interest. In this 3C era, Social medias are common, so getting new friends is not the difficult ivent nowadays. Along with the number of friends increase, the cost will increase, too. On the other hands, numbers of friends increasing will let pocket money spend on interest and trend, In my opinion, most of my friends are have the same interest with me, so we can get a conversation. If the interest is the electricity with friends, the trend of meme is the grease in the conversation to strangers. For the meme is common in the world, if strangers have seen this meme before you can talk about this famous meme with others. You won't be embrassed. and Make up can give strangers a good impression to other, it will increase the rate of getting friends. so the cost of these things are necessary. The cost from thos things is unexpected.\nIn my angle, my pocket money cost tablet maybe will similar like this picture. But the different on it is that savings rate will be higher than the snack and interest. Maybe it is the feture of Taiwanese, The adult will always let us to save money in the bank, include pocket money, lucky money and so forth. But the inchange thing is I will spend much money to get the new friends and keeping the friendship. Regardless of what era you are, the friendship is still the important thing.",
+   "corrected": "In this picture, most of the pocket money is used to get friends or to have fun based on their own interests. In this 3C era, social media is common, so getting new friends is not a difficult thing nowadays. Along with the increasing number of friends, the cost will increase too. On the other hand, an increasing number of friends will let pocket money be spent on interests and trends. In my opinion, most of my friends have the same interests as me, so we can have a conversation. If the interest is the electricity between friends, the trend of memes is the grease in conversations with strangers. Since memes are common in the world, if strangers have seen a meme before, you can talk about this famous meme with others. You won't be embarrassed. Also, makeup can give strangers a good impression, and it will increase the chance of making friends. So the cost of these things is necessary. The cost of those things is unexpected.\nIn my opinion, my pocket money spending might be similar to this picture. But the difference is that my savings rate will be higher than the snack and interest categories. Maybe it is a feature of Taiwanese culture — adults always let us save money in the bank, including pocket money, lucky money, and so forth. But the unchanged thing is that I will spend a lot of money to make new friends and keep the friendship. Regardless of what era you are in, friendship is still an important thing.",
+   "note": "句首該大寫卻用小寫（and Make up / so the cost）與句中誤大寫（Social, The, Make）並存；In my angle 代替 In my opinion；不定詞/動名詞不平行（to get...and keeping）；抽象名詞前冠詞誤加（the friendship）。"
+  },
+  {
+   "id": "teamwork",
+   "title": "分工合作與校運會接力賽",
+   "date": "2026-07-26",
+   "score": 10,
+   "prompt": "說明分工合作的好處（或壞處），並舉自己或他人團體合作的經驗支持看法。",
+   "original": "Nowadays, having team-work ability has been the neccesary thing, not only working in workplaces, but also studying in the school. Cooperating with others can arrange right peoples to right ways. It can effectively increase efficient. And It's the good way to got a progress. When You converse about shortcoming in the team conversation, Your classmate or colleague will give the objective addvice to you. Therefore, You can notice your own weakness, and you can improve it with specific addvise. However, these all things are based on that you have good cooperators. If your team have peoples who is lazy or not effort. It will cause others teamate must handle their work, and that will waste the time, which you depand cooperation to save. As a result, it even have better working in ownself.\nAs me recall, It's the school sports day. Every one is prepare to exhibit sports ability in this day. And the most popular thing is relay race, every one effort to run one the way. Suddenlly, our class runner is trumble. Everyone is care about his condition, but he still finish the race. When he come back, everyone didn't complain. Everyone encourage others teamates, and give some addvise, which can boost the speed. At the end, even if we don't have a good grade, but I saw the best race team in the world. As the saying goes \"Teamwork is the most powerful energy in this world\", I eventually understand until that day, because when I saw that everyone effort to do something, I will have the endless power exploring my body.",
+   "corrected": "Nowadays, having teamwork ability has become a necessary thing, not only for working in workplaces but also for studying in school. Cooperating with others can assign the right people to the right roles. It can effectively increase efficiency, and it's a good way to make progress. When you talk about your shortcomings in a team discussion, your classmates or colleagues will give you objective advice. Therefore, you can notice your own weaknesses and improve them with specific advice. However, all these things are based on the fact that you have good cooperators. If your team has people who are lazy or not hardworking, it will cause other teammates to handle their work, which will waste the time that cooperation was meant to save. As a result, it is even better to work by yourself.\nAs I recall, it was the school sports day. Everyone was preparing to show their sports ability that day, and the most popular event was the relay race — everyone made an effort to run all the way. Suddenly, our class runner stumbled. Everyone cared about his condition, but he still finished the race. When he came back, no one complained. Everyone encouraged their teammates and gave advice that could boost their speed. In the end, even though we didn't get a good grade, I saw the best race team in the world. As the saying goes, \"Teamwork is the most powerful energy in this world.\" I finally understood this on that day, because when I saw everyone making an effort to do something, I had endless power exploding inside me.",
+   "note": "You/Your 句中大寫三次；effort 當動詞三次；addvice/addvise 拼字混用三次；although/even if...but 冗贅；if 子句句號斷句造成片段；代名詞格位錯誤 As me recall。內容敘事生動，是這批裡content分數最高的一篇。"
+  },
+  {
+   "id": "youtuber",
+   "title": "成為 YouTuber",
+   "date": "2026-08-02",
+   "score": 9,
+   "prompt": "描述圖片中 YouTuber 在做的事情及可能原因；說明若自己成為 YouTuber 會做什麼內容及目標。",
+   "original": "Nowadays, Youtuber has been a populer dream to many teenagers in this erea. For example, the man in this picture is introducing the food under the photography, and many eyephones surround him. Maybe he just trying to practice the expression and draft before he started to make a photography. Either he just a online gaming Youtuber, and suddenly introduce the goods from advertiser. Anyway, I think that he will start to become a Youtuber, it must based on mess of interesting and passion for whatever he is doing under the photography. Even if cutting video and decide the theme, which people will like it, are the boring prossess in the way of being Youtuber. However, watching the increasing of likes and subscribes, the achivement will be the power surge in his body.\nIf I can be the particapant of this field, I think that I will be an online player because playing games with others, which not only acquire pleasant, but also earn money. It sound very amazing and chill. If I have unnecessary time, I will try to shoot a vlog to my daily life, or record meanaful moment. Everything discussed above, I hope audiences can acquire a simle after seeing my video, or it could be a light to someone's depression. Maybe it will have some bad comment to me or my video, but If my video can make happy to others, It will be worth to afford troll's comment and attack.",
+   "corrected": "Nowadays, being a Youtuber has become a popular dream for many teenagers in this era. For example, the man in this picture is introducing food in front of the camera, and 〔語意待確認：many eyephones surround him〕. Maybe he is just trying to practice his expressions and script before he starts filming. Or he is just an online gaming Youtuber who suddenly introduces goods from an advertiser. Anyway, I think that if he decides to become a Youtuber, it must be based on a mix of interest and passion for whatever he is doing on camera. Even cutting videos and deciding on themes that people will like are boring processes on the way to being a Youtuber. However, watching the increase in likes and subscribers, the sense of achievement will feel like a surge of power in his body.\nIf I could be a participant in this field, I think I would be an online gaming player because playing games with others not only brings pleasure but also earns money. It sounds very amazing and relaxing. If I have spare time, I will try to shoot a vlog about my daily life or record meaningful moments. Overall, I hope audiences can get a smile after seeing my video, or that it could be a light for someone's depression. Maybe there will be some bad comments about me or my video, but if my video can make others happy, it will be worth enduring trolls' comments and attacks.",
+   "note": "worth to afford 應為 worth enduring；cutting/decide 不平行；which...it 關係子句多餘代名詞；achivement 拼字與外送平台那篇同一字再度拼錯，跨篇確認。"
+  },
+  {
+   "id": "regret",
+   "title": "人生最大的遺憾（Regret 四分類）",
+   "date": "2026-08-23",
+   "score": 6,
+   "prompt": "依 Daniel H. Pink《The Power of Regret》四種遺憾分類，寫出自己最深的遺憾及背景前因後果；第二段說明重來一次會怎麼做。",
+   "original": "Looking back, many regret full of my life. If you ask me, what is the biggest regret in my life? I think that it would be not hardworking enough in English. When I was junior high schooll student, I will fall asleep in English classes because I thought that English was a boring and useless in the future. Although English teacher always emphasize English was important, I feel anxious about these stable expression. Until I graduade in senior high school, I realized how this suject important is. With words rate of difficult rising, I can;t even read the question in the exam. Every words like birds surround my messy brain. In addition, When I looking about aanything, which relate to English, I will feel sleepy and lazy. These pravious habit always effect my study efficient. Those bad hobits spend my prasious studying time to having transform.\nIf I can return to the past, I would slap on my face and force me to stay awake. What's more, I will bring my interesting way, which I use in the future, to effectively change my bad perception about Englishs word just depend on: craming to remenber. However, Life didn't have regert medicine, I just trying to be better on my way.",
+   "corrected": "〔第1句語意待確認〕Looking back, my life is full of regrets. If you ask me, what is the biggest regret in my life? I think it would be that I was not hardworking enough in English. When I was a junior high school student, I would fall asleep in English classes because I thought that English would be boring and useless in the future. Although the English teacher always emphasized English was important, I felt anxious about 〔語意待確認：these stable expressions〕. Until I graduated in senior high school, I realized how important this subject was. As 〔語意待確認：words rate of difficult〕 rose, I couldn't even read the questions in the exam. Every word surrounded my messy brain like birds. In addition, when I looked at anything related to English, I would feel sleepy and lazy. These previous habits always affected my study efficiency. 〔語意待確認：Those bad habits spent my precious studying time to having transform.〕\nIf I could return to the past, I would slap myself in the face and force myself to stay awake. What's more, I would bring 〔語意待確認：my interesting way, which I use in the future〕 to effectively change my bad perception about English words, which just depended on cramming to remember. However, life doesn't have regret medicine; I am just trying to be better in my own way.",
+   "note": "拼字問題本批最密集（10處以上）；反身代名詞遺漏首次觀察（slap myself / force myself）；四處語意不明待向學生確認。原始批改日期以今天登錄。"
+  },
+  {
+   "id": "banquet",
+   "title": "聚餐用餐方式：合菜 vs 吃到飽",
+   "date": "2026-07-05",
+   "score": 7,
+   "prompt": "以「聚會用餐」為主題，描述10人合菜與吃到飽自助餐兩種用餐方式各有何特色，並說明自己聚餐時比較喜歡哪一種。",
+   "original": "In Taiwan, manys people will choose a 10-course banquet, because the meal is more splendid and cheaper, although an all-you-can-eat buffet has various dishes, but guests will walk often. It will hard to chat to others. For me, I think I will choose a 10-course banquest, The mayor motivate is when I engage in a friend gathering or others. It means I want to get new friends or to listen something intresting things from my friends. In my concern, the all-you-can-eat buffet is the worse choice for gathering because the eating time pressure and the peer glance to what when you go to get second round, it is the reason that I don't like to choise the all-you-can-eat buffet. However, if the reunion don't have madam and under the four people, I think the all-you-can-eat buffet will be the best choise. In conclusion, I think two type of reunion has each advantage and disadvantage, it according to the gathering's people and the gender of visiters. But the priority considering is how know well to each other.",
+   "corrected": "In Taiwan, many people choose a 10-course banquet because the meal is more splendid and cheaper. Although an all-you-can-eat buffet has various dishes, guests will walk around often, and it will be hard to chat with others. For me, I think I will choose a 10-course banquet. My major motive is that when I attend a gathering with friends, it means I want to make new friends or listen to something interesting from my friends. In my opinion, the all-you-can-eat buffet is the worse choice for gatherings because of the eating time pressure and 〔語意待確認：the peer glance to what when you go to get a second round〕. That is the reason I don't like to choose the all-you-can-eat buffet. However, if the reunion doesn't have 〔語意待確認：madam〕 and is under four people, I think the all-you-can-eat buffet will be the best choice. In conclusion, I think the two types of reunion each have their own advantages and disadvantages; it depends on the gathering's people. But the priority to consider is how well people know each other.",
+   "note": "although...but 冗贅；In my concern 代替 In my opinion；motivate/motive、considering/consideration 詞性混淆；choise 拼字三次。原始批改日期以今天登錄，待老師確認實際批改時間。"
+  },
+  {
+   "id": "campsite",
+   "title": "露營地比較：Campsite A vs Campsite B",
+   "date": "2026-07-12",
+   "score": 5,
+   "prompt": "依表格描述兩個露營地各有何特色，並說明會想去哪個營地露營及理由。",
+   "original": "In these picture, the campsite B look more attractive, but I think I will choise campsite A. Campsite B's advanture is very visable that high quality equipment, and the clear public space, although thease things are attractive, it can't experience the reality happy in the camping. The campsite A that it seem ugly and look like a homeless man, but it is the place that can near the nature. I can image that I lay on the grass and listen to the voice that wind slay the tree and see the star on the sky. Even if I have a bad life, the star will always stay with me. However, if I don't want to experience the misery that washing my body with the cold water and fighting with the starve musgito, I will choose campsite B. After all, my pockage must agree.\nMake a includetion, I think if you want to near the nature and experience the real camping life, you can choice campsite A, you will broaden the new world and pround of yourself after the camping's suffering, but if you just want to experience the astmostance of camping you can chooice campsite B, it is the most easy and happy for you, but if I have enough money I will buy the expensive talent and go to the place that don't have any noise from the city, camping with my friends, and we will talk secrets around the fire accompany the star in the sky.",
+   "corrected": "In these pictures, campsite B looks more attractive, but I think I will choose campsite A. Campsite B's advantage is that it is very visible in its high-quality equipment and clear public space. Although these things are attractive, 〔語意待確認：it can't experience the reality happy in the camping〕. Campsite A seems ugly and looks like a homeless camp, but it is the place that can be near nature. I can imagine that I lie on the grass and listen to the wind swaying the trees, and see the stars in the sky. Even if I have a bad life, the stars will always stay with me. However, if I don't want to experience the misery of washing my body with cold water and fighting with starving mosquitoes, I will choose campsite B. After all, my pocket must agree.\nIn conclusion, I think if you want to be near nature and experience real camping life, you can choose campsite A — you will broaden your world and be proud of yourself after the camping's hardship. But if you just want to experience the atmosphere of camping, you can choose campsite B; it is the easiest and happiest option for you. But if I have enough money, I will buy an expensive tent and go to a place without any noise from the city, camping with my friends, and we will talk secrets around the fire, accompanied by the stars in the sky.",
+   "note": "這批 8 篇中拼字扭曲最嚴重（includetion, astmostance）；第二段是單一巨型 run-on（串連 5 個以上獨立子句）；choise/choice/chooice 同篇三種拼法；the star 應為複數 stars 出現三次。原始批改日期以今天登錄，待老師確認實際批改時間。"
+  },
+  {
+   "id": "amusement",
+   "title": "假期出遊：遊樂園 vs 野餐",
+   "date": "2026-08-16",
+   "score": 7,
+   "prompt": "描述遊樂園與野餐兩個場景的特色，並說明自己會選擇哪個旅遊場景及理由。",
+   "original": "The picture presents a sharp contract between left and right, In the left picture, there are many amusement measure like roller coaster, merry-go-around and ferris wheel, etc. It will be a good resort for people who under sixteen years old. These place can provide thrilling and pleasment for them. In addition, merry-go-around is fit to young people and family, which can boost their relationship. In the right picture, although it can boost the relationship too, it lack exciting and stimulate. Instead of that, this place offer peace and nature, there are many food on the picnic blanket. This place can be a prasious spots to someone who want to slow their life down or to find the calmness.\nFrom my perspective, I think I will pick the place in right picture because as a someone that fear to height, amusment park will never be a good choise of mind. In addition, as a Taiwanese, every field trips aalways include amusmant park. I'm sick of being a photographer when my friends go to play amusements measure. In contract, I can chat with friends and discuss common topic. It will make my not-alone and relaxed. Furthermore, my life full of preasure, I don't think that thrilling measure will be a good cure, which can treat my tired heart. However I trust the nature can effectively heal my tired heart.",
+   "corrected": "The picture presents a sharp contrast between left and right. In the left picture, there are many amusement facilities like a roller coaster, a merry-go-round, and a ferris wheel, etc. It will be a good place for people who are under sixteen years old. This place can provide thrills and pleasure for them. In addition, the merry-go-round is suitable for young people and families, which can boost their relationship. In the right picture, although it can boost the relationship too, it lacks excitement and stimulation. Instead, this place offers peace and nature, and there is a lot of food on the picnic blanket. This place can be a precious spot for someone who wants to slow their life down or find calmness.\nFrom my perspective, I will pick the place in the right picture because, as someone who fears heights, an amusement park will never be a good choice for me. In addition, as a Taiwanese, every field trip always includes an amusement park. I'm sick of being a photographer when my friends go to play on the amusement rides. In contrast, I can chat with friends and discuss common topics here. It will make me feel not alone and relaxed. Furthermore, my life is full of pressure, and I don't think thrilling rides will be a good cure to treat my tired heart. However, I trust that nature can effectively heal my tired heart.",
+   "note": "新的相似詞混淆 contract/contrast 兩次；measure 誤用代替設施/活動三次，屬詞彙誤用非拼字；代名詞格位錯誤 make my 應為 make me；prasious 拼字與露營那篇同一字再度拼錯，跨篇確認。"
+  },
+  {
+   "id": "friendshipRegret",
+   "title": "遺憾：與摯友的爭執（學生仿寫 regret 主題）",
+   "date": "2026-08-30",
+   "score": 8,
+   "prompt": "依 regret 範文主題仿寫，描述人際遺憾（Connection Regret）：與摯友的一次爭執及前因後果，第二段說明重來一次會怎麼做及預期改變。",
+   "original": "looking back, meny regrets are full of my life. I always plagued by those unforgettable decisions when I was lay on the bed. One of my biggest regret is having a big argument with my best friends. When I was a junior high school student, I have a good friend who graduated from the same school as me. Although we are just friend, we are more like family. Back than, I naively thought nothing can tear us apart. However, we had a big argument over a small decision. At that time, he have a crush on a girl who is our common friend. I originally feel happy to him. Until others tell my that he depand that exposing our secret to create subject with her. I feel incredible because I couldn't believe he would betray best friend for love. I immediately argue this event with him, and breaking off his friendship. We haven't been touch since than.\nEven now, I finally understand his feeling when was fall in love. If I could have more patience and tolerant, maybe It wouldn't cause this bad end. If I can return back, I think I would patiently listened to him and expressed my thought. I expeted we can keep this relationship after this sincere communicaton. Even though it can't come ture. At least we had some peaceful ending in this relationship.",
+   "corrected": "Looking back, my life is full of many regrets. I am always plagued by those unforgettable decisions when I am lying on the bed. One of my biggest regrets is having a big argument with my best friend. When I was a junior high school student, I had a good friend who graduated from the same school as me. Although we were just friends, we were more like family. Back then, I naively thought nothing could tear us apart. However, we had a big argument over 〔語意待確認：a small decision〕. At that time, he had a crush on a girl who was our common friend. I originally felt happy for him. Until others told me that he depended on exposing our secret 〔語意待確認：to create a subject with her〕. I felt incredulous because I couldn't believe he would betray his best friend for love. I immediately argued about this matter with him, and broke off our friendship. We haven't been in touch since then.\nEven now, I finally understand his feelings when he was falling in love. If I could have had more patience and tolerance, maybe it wouldn't have caused this bad ending. If I could return to the past, I think I would have patiently listened to him and expressed my thoughts. I expected we could keep this relationship after this sincere communication. Even though it couldn't come true, at least we would have had a peaceful ending in this relationship.",
+   "note": "內容/組織是這批以來最扎實的一次（有分段、第二段完整回答「怎麼做」跟「預期改變」）。文法句構與字彙拼字錯誤密度仍高：過去式敘事中大量現在式殘留是這批密度最高之一；incredible→incredulous 是選字錯誤而非拼字，且剛好把情緒意思說反；his friendship→our friendship 代名詞指涉錯誤；than/then 同音混淆兩次；tolerant→tolerance 詞性混淆；Even though...true. 是 though 子句句號斷句造成的片段，與先前確認過的 if 子句片段同類。"
+  },
+  {
+   "id": "petRestaurant",
+   "title": "寵物進入一般餐廳（學測圖片描述題）",
+   "date": "2026-09-06",
+   "score": 8,
+   "prompt": "看圖作文：民眾攜寵物至一般餐廳用餐。第一段描述圖片內容（人、事、物及發生的事情）；第二段以顧客或餐廳經營者立場表達看法。至少 120 字。",
+   "original": "Nowadays, pet-friendly restaurants are all over the world. If you are people who love pets, you could go to pet-friendly restaurants. When you walk through the front door, you will see will see the sight like this picture. Every costumer harmoniously live with pets and their pets are well-behaved. They are taking a pototo with their pets. It seems very peaceful and harmony.\nNevertheless, If this situation take place on a normal restaurant, I think that will been a disaster for people who don't like pets. Even though their pets behave themself, but it still happened many accident. Eventually, it will inevitably evolve into an arguement. As far as I'm concerned, Even I am not pets hater, but I don't think that I can endure those uncontrable condition like flying fur and scattered drool and so on. When I go to the restaurant I just want to eat some delicious food, I didn't have any patience to deal with those incident. But if the restaurant can set a space, which can provide pet-setting. I think that will been a both-win way for operater and costumer. Because it can effectively attract people who like animals and it can discrease negative review to people, whoever want to enjoy their food without pets noise and flur.",
+   "corrected": "Nowadays, pet-friendly restaurants can be found all over the world. If you are a person who loves pets, you can go to a pet-friendly restaurant. When you walk through the front door, you will see a sight like the one in this picture. Every customer lives harmoniously with pets, and their pets are well-behaved. They are taking a photo with their pets. It seems very peaceful and harmonious.\nNevertheless, if this situation takes place in an ordinary restaurant, I think it will be a disaster for people who don't like pets. Even though their pets behave themselves, many accidents still happen. Eventually, it will inevitably evolve into an argument. As far as I'm concerned, even though I am not a pet hater, I don't think I can endure those uncontrollable conditions, such as flying fur and scattered drool. When I go to a restaurant, I just want to eat some delicious food; I don't have any patience to deal with those incidents. However, if the restaurant can set aside a space that provides 〔語意待確認：pet-setting，疑為 pet seating（寵物專區座位）或 pet-sitting（寵物寄放）〕, I think that will be a win-win solution for operators and customers, because it can effectively attract people who like animals and reduce negative reviews from those who want to enjoy their food without pets' noise and fur.",
+   "note": "字彙難度是這批以來最高的一次（inevitably evolve into、endure、effectively、scattered drool 皆為主動選用的高階詞），但外殼與內部零件落差極大。內容失分集中在第一段：題目問「你認為圖中呈現的是什麼景象」，期待「先描述圖中人事物→再推得判讀」，他寫成「先宣告寵物友善餐廳很普遍→你走進去會看到這種畫面」，方向相反，圖中抱狗的女子、桌上餐點、椅子上的貓、拿平板的男子全數缺席。（判讀成寵物友善餐廳本身合理，題目用「某餐廳」且直接問「你認為」，屬開放判讀，不構成扣分。）第二段立場明確（顧客立場）並提出「設寵物專區」的解法，與第一段形成一般餐廳／友善餐廳的對照推進，是全篇最有價值的部分，但被 But/Because 開頭的片段句切斷。文法舊病復發：although/even though...but 冗贅兩次、句中 If/Even 大寫、主詞動詞一致性三處、現在式敘述中混入 happened/didn't。新觀察三類：will been 兩次、複數 -s 遺漏四處、單數可數名詞冠詞遺漏三處。另有所有格撇號遺漏（pets noise → pets' noise），單次出現，先口頭提醒不另立類別。評分落在 8～9 邊界，因文法句構錯誤密度取 8。"
+  }
+ ]
 }
