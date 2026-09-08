@@ -7,11 +7,283 @@
       "count": 8,
       "id": "w0",
       "explain": {
-        "rule": "這些是「個人記憶點錯誤」，同一個字反覆拼錯，代表大腦記的是錯誤的拼法。建議做法不是死背，而是用「錯字卡」反覆手寫＋朗讀正確拼法，尤其是自己最常錯的那幾個字。",
-        "examples": [
-          "✗ prasious → ✓ precious（珍貴的）",
-          "✗ choise → ✓ choice（選擇，名詞）",
-          "✗ achivement → ✓ achievement（成就）"
+        "type": "wordlist",
+        "words": [
+          {
+            "wrong": "choise / chooice",
+            "correct": "choice",
+            "count": 5
+          },
+          {
+            "wrong": "addvice / addvise",
+            "correct": "advice",
+            "count": 3
+          },
+          {
+            "wrong": "manys / meny",
+            "correct": "many",
+            "count": 2
+          },
+          {
+            "wrong": "prasious",
+            "correct": "precious",
+            "count": 2
+          },
+          {
+            "wrong": "feture",
+            "correct": "feature",
+            "count": 2
+          },
+          {
+            "wrong": "achivement",
+            "correct": "achievement",
+            "count": 2
+          },
+          {
+            "wrong": "depand",
+            "correct": "depend",
+            "count": 2
+          },
+          {
+            "wrong": "banquest",
+            "correct": "banquet",
+            "count": 1
+          },
+          {
+            "wrong": "intresting",
+            "correct": "interesting",
+            "count": 1
+          },
+          {
+            "wrong": "advanture",
+            "correct": "advantage",
+            "count": 1
+          },
+          {
+            "wrong": "visable",
+            "correct": "visible",
+            "count": 1
+          },
+          {
+            "wrong": "thease",
+            "correct": "these",
+            "count": 1
+          },
+          {
+            "wrong": "musgito",
+            "correct": "mosquito",
+            "count": 1
+          },
+          {
+            "wrong": "pockage",
+            "correct": "pocket",
+            "count": 1
+          },
+          {
+            "wrong": "includetion",
+            "correct": "conclusion",
+            "count": 1
+          },
+          {
+            "wrong": "astmostance",
+            "correct": "atmosphere",
+            "count": 1
+          },
+          {
+            "wrong": "pround",
+            "correct": "proud",
+            "count": 1
+          },
+          {
+            "wrong": "talent",
+            "correct": "tent",
+            "count": 1
+          },
+          {
+            "wrong": "gress",
+            "correct": "grass",
+            "count": 1
+          },
+          {
+            "wrong": "wan",
+            "correct": "way",
+            "count": 1
+          },
+          {
+            "wrong": "survice",
+            "correct": "survive",
+            "count": 1
+          },
+          {
+            "wrong": "geting",
+            "correct": "getting",
+            "count": 1
+          },
+          {
+            "wrong": "coolabrate",
+            "correct": "collaborate",
+            "count": 1
+          },
+          {
+            "wrong": "sence",
+            "correct": "sense",
+            "count": 1
+          },
+          {
+            "wrong": "wil",
+            "correct": "will",
+            "count": 1
+          },
+          {
+            "wrong": "ivent",
+            "correct": "event",
+            "count": 1
+          },
+          {
+            "wrong": "embrassed",
+            "correct": "embarrassed",
+            "count": 1
+          },
+          {
+            "wrong": "thos",
+            "correct": "those",
+            "count": 1
+          },
+          {
+            "wrong": "inchange",
+            "correct": "unchanged",
+            "count": 1
+          },
+          {
+            "wrong": "neccesary",
+            "correct": "necessary",
+            "count": 1
+          },
+          {
+            "wrong": "teamate / teamates",
+            "correct": "teammate(s)",
+            "count": 1
+          },
+          {
+            "wrong": "suddenlly",
+            "correct": "suddenly",
+            "count": 1
+          },
+          {
+            "wrong": "trumble",
+            "correct": "stumble",
+            "count": 1
+          },
+          {
+            "wrong": "populer",
+            "correct": "popular",
+            "count": 1
+          },
+          {
+            "wrong": "erea",
+            "correct": "era",
+            "count": 1
+          },
+          {
+            "wrong": "particapant",
+            "correct": "participant",
+            "count": 1
+          },
+          {
+            "wrong": "meanaful",
+            "correct": "meaningful",
+            "count": 1
+          },
+          {
+            "wrong": "simle",
+            "correct": "smile",
+            "count": 1
+          },
+          {
+            "wrong": "prossess",
+            "correct": "process",
+            "count": 1
+          },
+          {
+            "wrong": "pleasment",
+            "correct": "pleasure",
+            "count": 1
+          },
+          {
+            "wrong": "amusment",
+            "correct": "amusement",
+            "count": 1
+          },
+          {
+            "wrong": "aalways",
+            "correct": "always",
+            "count": 1
+          },
+          {
+            "wrong": "preasure",
+            "correct": "pressure",
+            "count": 1
+          },
+          {
+            "wrong": "schooll",
+            "correct": "school",
+            "count": 1
+          },
+          {
+            "wrong": "graduade",
+            "correct": "graduated",
+            "count": 1
+          },
+          {
+            "wrong": "suject",
+            "correct": "subject",
+            "count": 1
+          },
+          {
+            "wrong": "aanything",
+            "correct": "anything",
+            "count": 1
+          },
+          {
+            "wrong": "pravious",
+            "correct": "previous",
+            "count": 1
+          },
+          {
+            "wrong": "hobits",
+            "correct": "habits",
+            "count": 1
+          },
+          {
+            "wrong": "englishs",
+            "correct": "English",
+            "count": 1
+          },
+          {
+            "wrong": "craming",
+            "correct": "cramming",
+            "count": 1
+          },
+          {
+            "wrong": "remenber",
+            "correct": "remember",
+            "count": 1
+          },
+          {
+            "wrong": "regert",
+            "correct": "regret",
+            "count": 1
+          },
+          {
+            "wrong": "communicaton",
+            "correct": "communication",
+            "count": 1
+          },
+          {
+            "wrong": "ture",
+            "correct": "true",
+            "count": 1
+          }
         ]
       }
     },
@@ -85,11 +357,38 @@
       "count": 7,
       "id": "w6",
       "explain": {
-        "rule": "這些字長得像、意思卻不同，選錯字會讓句意跑掉甚至說反。務必逐一確認每個字真正的意思，不要只憑印象。",
-        "examples": [
-          "progress（進展，過程的推進）vs. process（過程，步驟本身）",
-          "contract（合約；收縮）vs. contrast（對比）",
-          "incredible（令人驚嘆的）vs. incredulous（不敢置信的）——這兩個意思幾乎相反，選錯會讓情緒完全說反"
+        "type": "wordlist",
+        "words": [
+          {
+            "wrong": "contract",
+            "correct": "contrast",
+            "count": 2,
+            "note": "合約/收縮 vs. 對比"
+          },
+          {
+            "wrong": "progress",
+            "correct": "process",
+            "count": 1,
+            "note": "進展 vs. 過程"
+          },
+          {
+            "wrong": "incredible",
+            "correct": "incredulous",
+            "count": 1,
+            "note": "令人驚嘆的 vs. 不敢置信的（意思幾乎相反）"
+          },
+          {
+            "wrong": "interesting（當名詞用）",
+            "correct": "interest",
+            "count": 1,
+            "note": "形容詞誤用為名詞"
+          },
+          {
+            "wrong": "exciting / stimulate（當名詞用）",
+            "correct": "excitement / stimulation",
+            "count": 2,
+            "note": "形容詞、動詞誤用為名詞"
+          }
         ]
       }
     },
@@ -186,11 +485,32 @@
       "count": 6,
       "id": "w13",
       "explain": {
-        "rule": "同一個字根的名詞、動詞、形容詞長得很像但詞性不同，用錯詞性句子會不通順。填空前先判斷這個空格前後需要的是名詞、動詞還是形容詞。",
-        "examples": [
-          "motive（名詞，動機）vs. motivate（動詞，激勵）",
-          "efficient（形容詞，有效率的）vs. efficiency（名詞，效率）",
-          "tolerant（形容詞，寬容的）vs. tolerance（名詞，寬容）"
+        "type": "wordlist",
+        "words": [
+          {
+            "wrong": "motivate",
+            "correct": "motive",
+            "count": 1,
+            "note": "動詞誤用為名詞（動機）"
+          },
+          {
+            "wrong": "considering",
+            "correct": "consideration",
+            "count": 1,
+            "note": "分詞誤用為名詞"
+          },
+          {
+            "wrong": "efficient",
+            "correct": "efficiency",
+            "count": 1,
+            "note": "形容詞誤用為名詞"
+          },
+          {
+            "wrong": "tolerant",
+            "correct": "tolerance",
+            "count": 1,
+            "note": "形容詞誤用為名詞"
+          }
         ]
       }
     },
@@ -215,11 +535,11 @@
       "count": 2,
       "id": "w15",
       "explain": {
-        "rule": "形容詞最高級，短的字（1-2音節）字尾加 -est，不要用 most + 原級形容詞（most 只用在較長的字前面）。",
+        "rule": "形容詞最高級的判斷依「音節數」：1-2 音節的字，字尾直接加 -est；3 音節（含）以上的字，前面加 most，不能加 -est。",
         "examples": [
-          "✗ most clear → ✓ clearest",
-          "✗ most easy → ✓ easiest",
-          "✓ most beautiful（beautiful較長，用most沒問題）"
+          "1音節：clear → clearest（不是 most clear）",
+          "2音節：easy → easiest（不是 most easy）",
+          "3音節以上：beautiful → most beautiful；important → most important"
         ]
       }
     },
