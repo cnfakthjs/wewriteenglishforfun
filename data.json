@@ -2,7 +2,7 @@
  "weak": [
   {
    "cat": "拼字不穩定",
-   "desc": "同一個字反覆拼錯：choose 曾出現三種不同錯拼方式；跨篇重複出現的個人記憶點錯字：prasious(precious)、choise(choice)、achivement(achievement)、addvice/addvise（註：字表僅列已確認的字，加總 76 處，低於條目總數 91，尚未逐字重掃）",
+   "desc": "同一個字反覆拼錯：choose 曾出現三種不同錯拼方式；跨篇重複出現的個人記憶點錯字：prasious(precious)、choise(choice)、achivement(achievement)、addvice/addvise",
    "date": "2026-07-05",
    "count": 91,
    "id": "w0",
@@ -496,7 +496,7 @@
    "id": "w11",
    "explain": {
     "type": "wordlist",
-    "rule": "介係詞沒有邏輯可推，只能連同動詞或名詞一起記。他的錯誤幾乎都是把中文的方位或對象概念直譯過來（「對某人的印象」→ impression to），要練的是把「動詞＋介係詞」當成一個單位背下來。",
+    "rule": "介係詞沒有邏輯可推，只能連同動詞或名詞一起記。這些錯誤幾乎都是把中文的方位或對象概念直譯過來（「對某人的印象」→ impression to），要練的是把「動詞＋介係詞」當成一個單位背下來。",
     "words": [
      {
       "wrong": "chat to others",
@@ -613,7 +613,7 @@
    "id": "w13",
    "explain": {
     "type": "wordlist",
-    "rule": "他知道這個字的意思，但拿了錯的詞性去用。最集中的是「形容詞當名詞」（exciting、pleasant、thrilling 當名詞）和「名詞當動詞或形容詞」（choice 當動詞、harmony 當形容詞）。背單字時要連詞性一起背，尤其 -ing 結尾的字幾乎都是形容詞，不能直接當名詞用。",
+    "rule": "這個字的意思是對的，但拿了錯的詞性去用。最集中的是「形容詞當名詞」（exciting、pleasant、thrilling 當名詞）和「名詞當動詞或形容詞」（choice 當動詞、harmony 當形容詞）。背單字時要連詞性一起背，尤其 -ing 結尾的字幾乎都是形容詞，不能直接當名詞用。",
     "words": [
      {
       "wrong": "exciting／stimulate（當名詞）",
@@ -821,19 +821,19 @@
    "id": "w21",
    "explain": {
     "type": "wordlist",
-    "rule": "選了一個真實存在、拼寫正確的英文字，但那個字的意思不是他要的。拼字檢查抓不到，文法也通，閱卷者只會覺得「這句在講什麼」。特別注意 measure 和 viewpoint 這兩個——他有穩定的自創對應（measure＝遊樂設施、viewpoint＝景點），各出現三次，需要直接口頭給正確字。",
+    "rule": "選了一個真實存在、拼寫正確的英文字，但那個字的意思不是要表達的意思。拼字檢查抓不到，文法也通，閱卷者只會覺得「這句在講什麼」。特別注意 measure 和 viewpoint 這兩個——已形成穩定的自創對應（measure＝遊樂設施、viewpoint＝景點），各出現多次，需要直接口頭給正確字。",
     "words": [
      {
       "wrong": "measure",
       "correct": "ride／facility／attraction",
       "count": 3,
-      "note": "08/16，他固定用來指「遊樂設施」"
+      "note": "08/16，固定用來指「遊樂設施」"
      },
      {
       "wrong": "viewpoint",
       "correct": "attraction／scenic spot",
       "count": 2,
-      "note": "08/09，他固定用來指「景點」；viewpoint 是觀點或觀景台"
+      "note": "08/09，固定用來指「景點」；viewpoint 是觀點或觀景台"
      },
      {
       "wrong": "photography",
@@ -1002,7 +1002,7 @@
    "count": 42,
    "id": "w26",
    "explain": {
-    "rule": "兩個方向的錯誤同時存在，代表他不是「忘記加 s」，而是沒有在下筆時判斷這個名詞此刻是幾個。規則本身很簡單：可數名詞不是一個就加 s；many/those/several/one of 後面一定複數；people 本身已是複數不再加 s。難的是養成每寫一個名詞就順手判斷數量的習慣。",
+    "rule": "兩個方向的錯誤同時存在，代表問題不是「忘記加 s」，而是下筆時沒有判斷這個名詞此刻是幾個。規則本身很簡單：可數名詞不是一個就加 s；many/those/several/one of 後面一定複數；people 本身已是複數不再加 s。難的是養成每寫一個名詞就順手判斷數量的習慣。",
     "examples": [
      "✗ many accident → ✓ many accidents",
      "✗ one of my biggest regret → ✓ one of my biggest regrets",
@@ -1018,7 +1018,7 @@
    "count": 10,
    "id": "w27",
    "explain": {
-    "rule": "will/can/would 等助動詞後面、以及 to 後面，一律接動詞原形，沒有例外。been 只能跟在 have/has/had 之後。這類錯誤多半發生在他想表達比較複雜的時態時，越想用力越容易亂。",
+    "rule": "will/can/would 等助動詞後面、以及 to 後面，一律接動詞原形，沒有例外。been 只能跟在 have/has/had 之後。這類錯誤多半發生在想表達比較複雜的時態時，越用力越容易亂。",
     "examples": [
      "✗ that will been a disaster → ✓ that will be a disaster",
      "✗ It's a good way to got a progress → ✓ ...to get through the process",
@@ -1048,7 +1048,7 @@
    "count": 7,
    "id": "w29",
    "explain": {
-    "rule": "與 run-on 方向相反：run-on 是「該斷不斷」，這個是「不該斷卻斷」。成因是中文的「如果…」「因為…」「雖然…」單獨講出來可以自成一句（例：「因為它可以吸引愛動物的人啊」），英文不行——附屬子句永遠只是半句，必須與主要子句同處一個句子內。9/06 的例子顯示他其實想得到主要子句（就在下一句 I think that will be a win-win solution），只是提早點了句號，代表問題在斷句直覺而非造句能力。建議機械式練習：給 10 個 If / Because / Even though 開頭的半句，只要求補完後半。",
+    "rule": "與 run-on 方向相反：run-on 是「該斷不斷」，這個是「不該斷卻斷」。成因是中文的「如果…」「因為…」「雖然…」單獨講出來可以自成一句（例：「因為它可以吸引愛動物的人啊」），英文不行——附屬子句永遠只是半句，必須與主要子句同處一個句子內。建議機械式練習：給 10 個 If／Because／Even though 開頭的半句，只要求補完後半。",
     "examples": [
      "✗ But if the restaurant can set aside a space. I think that will be a win-win solution.",
      "✓ But if the restaurant can set aside a space, I think that will be a win-win solution.",
@@ -1243,7 +1243,7 @@
    "prompt": "看圖作文：民眾攜寵物至一般餐廳用餐。第一段描述圖片內容（人、事、物及發生的事情）；第二段以顧客或餐廳經營者立場表達看法。至少 120 字。",
    "original": "Nowadays, pet-friendly restaurants are all over the world. If you are people who love pets, you could go to pet-friendly restaurants. When you walk through the front door, you will see will see the sight like this picture. Every costumer harmoniously live with pets and their pets are well-behaved. They are taking a pototo with their pets. It seems very peaceful and harmony.\nNevertheless, If this situation take place on a normal restaurant, I think that will been a disaster for people who don't like pets. Even though their pets behave themself, but it still happened many accident. Eventually, it will inevitably evolve into an arguement. As far as I'm concerned, Even I am not pets hater, but I don't think that I can endure those uncontrable condition like flying fur and scattered drool and so on. When I go to the restaurant I just want to eat some delicious food, I didn't have any patience to deal with those incident. But if the restaurant can set a space, which can provide pet-setting. I think that will been a both-win way for operater and costumer. Because it can effectively attract people who like animals and it can discrease negative review to people, whoever want to enjoy their food without pets noise and flur.",
    "corrected": "Nowadays, pet-friendly restaurants can be found all over the world. If you are a person who loves pets, you can go to a pet-friendly restaurant. When you walk through the front door, you will see a sight like the one in this picture. Every customer lives harmoniously with pets, and their pets are well-behaved. They are taking a photo with their pets. It seems very peaceful and harmonious.\nNevertheless, if this situation takes place in an ordinary restaurant, I think it will be a disaster for people who don't like pets. Even though their pets behave themselves, many accidents still happen. Eventually, it will inevitably evolve into an argument. As far as I'm concerned, even though I am not a pet hater, I don't think I can endure those uncontrollable conditions, such as flying fur and scattered drool. When I go to a restaurant, I just want to eat some delicious food; I don't have any patience to deal with those incidents. However, if the restaurant can set aside a space that provides 〔語意待確認：pet-setting，疑為 pet seating（寵物專區座位）或 pet-sitting（寵物寄放）〕, I think that will be a win-win solution for operators and customers, because it can effectively attract people who like animals and reduce negative reviews from those who want to enjoy their food without pets' noise and fur.",
-   "note": "字彙難度是這批以來最高的一次（inevitably evolve into、endure、effectively、scattered drool 皆為主動選用的高階詞），但外殼與內部零件落差極大。內容失分集中在第一段：題目問「你認為圖中呈現的是什麼景象」，期待「先描述圖中人事物→再推得判讀」，他寫成「先宣告寵物友善餐廳很普遍→你走進去會看到這種畫面」，方向相反，圖中抱狗的女子、桌上餐點、椅子上的貓、拿平板的男子全數缺席。（判讀成寵物友善餐廳本身合理，題目用「某餐廳」且直接問「你認為」，屬開放判讀，不構成扣分。）第二段立場明確（顧客立場）並提出「設寵物專區」的解法，與第一段形成一般餐廳／友善餐廳的對照推進，是全篇最有價值的部分，但被 But/Because 開頭的片段句切斷。文法舊病復發：although/even though...but 冗贅兩次、句中 If/Even 大寫、主詞動詞一致性三處、現在式敘述中混入 happened/didn't。新觀察三類：will been 兩次、複數 -s 遺漏四處、單數可數名詞冠詞遺漏三處。另有所有格撇號遺漏（pets noise → pets' noise），單次出現，先口頭提醒不另立類別。評分落在 8～9 邊界，因文法句構錯誤密度取 8。"
+   "note": "字彙難度是這批以來最高的一次（inevitably evolve into、endure、effectively、scattered drool 皆為主動選用的高階詞），但外殼與內部零件落差極大。內容失分集中在第一段：題目問「你認為圖中呈現的是什麼景象」，期待「先描述圖中人事物→再推得判讀」，這篇寫成「先宣告寵物友善餐廳很普遍→走進去會看到這種畫面」，方向相反，圖中抱狗的女子、桌上餐點、椅子上的貓、拿平板的男子全數缺席。（判讀成寵物友善餐廳本身合理，題目用「某餐廳」且直接問「你認為」，屬開放判讀，不構成扣分。）第二段立場明確（顧客立場）並提出「設寵物專區」的解法，與第一段形成一般餐廳／友善餐廳的對照推進，是全篇最有價值的部分，但被 But／Because 開頭的片段句切斷。文法舊病復發：although／even though...but 冗贅兩次、句中 If／Even 大寫、主詞動詞一致性三處、現在式敘述中混入 happened／didn't。新觀察三類：will been 兩次、複數 -s 遺漏四處、單數可數名詞冠詞遺漏三處。另有所有格撇號遺漏（pets noise → pets' noise），單次出現，先口頭提醒不另立類別。評分落在 8～9 邊界，因文法句構錯誤密度取 8。"
   },
   {
    "id": "onlineReviews",
@@ -1253,7 +1253,7 @@
    "prompt": "現代人用餐、旅遊或購物前常透過網路評論（Google、IG 等）決定餐廳、景點或商品。第一段詳述這種做法的優缺點；第二段說明你是否會透過網路評論來做決定，並舉自己或親友的經驗為例。至少 120 字。",
    "original": "Nowadays, Using 3C product has been a common phenomenon. Every people used to check comments from digital app like Google and IG. These comments will easily effect cosumers to choice viewpoint or restaurant. This phenomenon will introduce more and more famous restaurants and interesting viewpoint to us, let us have a reference, when we have passions to having outdoor adventures. I have only scratched the surface, These comments also can promote must-visit spot for you. In addition, It can be a good tool for you to avoid spots which will trap tourist. Nevertheless, It's inadvantages are visable. It will let many stores been destory by malicious comments, many operater bother this event. Besides, some spots will buy comments, which can help them build a good reputation on social media, This behavior will disrupt us to find worthwhile spots.\nFrom what I remember, I seldom reference comments when I was determining to have an outdoor adventure. From my perspective, These comments are subjective. I don't want these subjective opinion to effect my choice. Every viewpoints have worth place for me. Even though it has a one-star rating. I will still like a famous YouTuber「Coo」to explore the worst place, which having been rating one star from Internat. I think that it will be my unforgetable memory for me, which proof the reality of online reviews.",
    "corrected": "Nowadays, using electronic devices has become a common phenomenon. Most people are used to checking comments on digital apps such as Google and IG. These comments easily affect how consumers choose an attraction or a restaurant. This phenomenon introduces more and more famous restaurants and interesting attractions to us, giving us a reference when we feel like going on outdoor adventures. What is more, these comments can promote must-visit spots for us. In addition, they can be a good tool for avoiding spots that trap tourists. Nevertheless, their disadvantages are also visible. Malicious comments can destroy many stores, and many operators are bothered by this. Besides, some spots buy comments, which helps them build a good reputation on social media, and this behavior prevents us from finding worthwhile spots.\nFrom what I remember, I seldom refer to comments when I decide to go on an outdoor adventure. From my perspective, these comments are subjective, and I don't want these subjective opinions to affect my choice. Every attraction has something worthwhile for me, even though it may have a one-star rating. Like a famous YouTuber, \"Coo,\" I would still like to explore the worst places, which have been rated one star on the Internet. I think it will become an unforgettable memory for me, one that proves how real online reviews are.",
-   "note": "（本篇由老師自行逐句批改，此處僅記錄整體觀察與統計。）第一段的優缺點鋪陳其實是這批以來組織最好的一段：先講優點（推薦名店、避開陷阱），再用 Nevertheless 轉到缺點（惡意評論、買評論），轉折詞使用正確且分工清楚。第二段是失分處：題目明確要求「舉自己或親友的經驗為例」，他舉的是自己看的 YouTuber，既非自己也非親友，屬於未完整回應題目要求；且第二段長度明顯不足，例子只有一句帶過。\n語言層面錯誤密度極高（約 230 字內 42 處）。最突出的是單複數，單篇 9 處（3C product、Every people、digital app、viewpoint、must-visit spot、tourist、operater、opinion、Every viewpoints），是全數據中單篇最高。句中不當大寫 6 處（Using / These ×2 / It / It's / This）也是單篇最高。\n本篇首度確立「動詞句型／搭配錯誤」為獨立弱點：disrupt us to find（應為 prevent us from finding）、bother this event、effect consumers to choice、like a YouTuber to explore，單篇 4 處。\n另注意「I have only scratched the surface」一句語意突兀，在此處無法成立（該慣用語意為「我只談到皮毛」，與上下文不接），修正稿改為 What is more。此句宜口頭確認他原本想表達什麼。"
+   "note": "（本篇由老師自行逐句批改，此處僅記錄整體觀察與統計。）第一段的優缺點鋪陳是這批以來組織最好的一段：先講優點（推薦名店、避開陷阱），再用 Nevertheless 轉到缺點（惡意評論、買評論），轉折詞使用正確且分工清楚。第二段是失分處：題目明確要求「舉自己或親友的經驗為例」，舉的卻是一位 YouTuber，既非自己也非親友，屬於未完整回應題目要求；且第二段長度明顯不足，例子只有一句帶過。\n語言層面錯誤密度極高（約 230 字內 42 處）。最突出的是單複數，單篇 9 處（3C product、Every people、digital app、viewpoint、must-visit spot、tourist、operater、opinion、Every viewpoints），是全數據中單篇最高。句中不當大寫 6 處（Using／These ×2／It／It's／This）也是單篇最高。\n本篇首度確立「動詞句型／搭配錯誤」為獨立弱點：disrupt us to find（應為 prevent us from finding）、bother this event、like a YouTuber to explore，單篇 3 處。\n另注意「I have only scratched the surface」一句語意突兀，在此處無法成立（該慣用語意為「我只談到皮毛」，與上下文不接），修正稿改為 What is more。此句宜口頭確認原本想表達什麼。"
   }
  ]
 }
