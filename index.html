@@ -290,7 +290,6 @@ function renderWeak(){
     const hasExplain = !!w.explain;
     return `
     <div class="card ${hasExplain?'clickable':''}" ${hasExplain?`onclick="openExplain('${w.id}')"`:''}>
-      ${hasExplain?'<span class="hint-arrow">查看解說 →</span>':''}
       <span class="count-badge">共出現 ${w.count} 次</span>
       <h3>${w.cat}</h3>
       <div class="meta">首次記錄：${w.date}</div>
@@ -307,7 +306,6 @@ function renderTrend(){
     const hasExplain = !!w.explain;
     return `
     <div class="card teal ${hasExplain?'clickable':''}" ${hasExplain?`onclick="openExplain('${w.id}')"`:''}>
-      ${hasExplain?'<span class="hint-arrow">查看解說 →</span>':''}
       <span class="count-badge">${w.count} 次</span>
       <h3>${w.cat}</h3>
       <div class="small">${w.desc}</div>
@@ -320,12 +318,21 @@ function openExplain(id){
   const w = weakData.find(x=>x.id===id);
   if(!w || !w.explain) return;
   document.getElementById("modal-title").textContent = w.cat;
-  document.getElementById("modal-body").innerHTML = `
-    <h4>規則說明</h4>
-    <p>${w.explain.rule}</p>
-    <h4>例句對照</h4>
-    <ul>${w.explain.examples.map(e=>`<li>${e}</li>`).join("")}</ul>
-  `;
+
+  if(w.explain.type === "wordlist"){
+    const rows = [...w.explain.words].sort((a,b)=> b.count - a.count);
+    document.getElementById("modal-body").innerHTML = `
+      <h4>錯誤／正確對照（依出現次數排序）</h4>
+      <ul>${rows.map(x=>`<li><b>${x.wrong}</b> → ${x.correct}　<span style="color:var(--ink-soft);">(${x.count}次${x.note? '，'+x.note : ''})</span></li>`).join("")}</ul>
+    `;
+  }else{
+    document.getElementById("modal-body").innerHTML = `
+      <h4>規則說明</h4>
+      <p>${w.explain.rule}</p>
+      <h4>例句對照</h4>
+      <ul>${w.explain.examples.map(e=>`<li>${e}</li>`).join("")}</ul>
+    `;
+  }
   document.getElementById("modal-overlay").classList.add("open");
 }
 function closeExplain(){
