@@ -18,13 +18,11 @@ README.md    ← 本文件
 
 ## 以後怎麼新增一篇新作文（不用重寫 index.html）
 
-1. 把學生的新作文原文傳給 Claude，請它批改
-2. 請 Claude 幫忙把這篇的資料整理成 `data.json` 裡 `portfolio` 陣列的格式（`id`、`title`、`date`、`score`、`prompt`、`original`、`corrected`、`note`），Claude 會直接給你更新後的完整 `data.json`
-3. 如果這篇有新的錯誤類型，也請 Claude 一併更新 `weak` 陣列裡的弱點紀錄
+1. 批改
+2. Claude 幫忙把這篇的資料整理成 `data.json` 裡 `portfolio` 陣列的格式（`id`、`title`、`date`、`score`、`prompt`、`original`、`corrected`、`note`），Claude 會直接給你更新後的完整 `data.json`
+3. 更新弱點紀錄（`weak`）
 4. 把新的 `data.json` 上傳到 GitHub repo，**取代**舊的檔案（GitHub 網頁介面：進到 repo → 點 `data.json` → 右上角鉛筆圖示編輯，或用 Upload files 覆蓋上傳）
 5. Commit 之後，Vercel 因為已經接好這個 GitHub repo，**會自動重新部署**，不需要重新跑一次 Vercel 的設定流程，網址也不會變
-
-`index.html` 本身除非要改版面或功能，否則完全不用動。
 
 ## data.json 資料格式
 
@@ -53,12 +51,6 @@ README.md    ← 本文件
 - `robots.txt` 禁止搜尋引擎爬取整站
 - `index.html` 的 `<head>` 內含 `<meta name="robots" content="noindex, nofollow, noarchive">`，即使被爬蟲讀到也不會被索引
 - 部署時 GitHub repo 名稱與 Vercel 專案名稱都應避免使用任何跟學生、補習班、英文寫作相關的可辨識字眼
-
-**注意**：以上防護只能降低「被搜尋引擎或路人意外找到」的機率，**無法做到真正的存取限制**。網址本身只要外流出去，任何人都能打開查看。這份工具目前假設分享對象範圍有限，且作文內容本身不含姓名等可辨識個資。
-
-## 技術限制
-
-`window.storage` 是 Claude Artifact 環境專屬的 API，這份公開部署版**不使用它**，資料改由 `data.json` 提供，網頁上也移除了新增/刪除表單（純顯示，避免訪客誤以為按了新增會真的存檔）。
 
 ## 版本紀錄
 
