@@ -169,6 +169,53 @@ button.del{
   font-size:11px;
 }
 .loading{padding:40px;text-align:center;color:var(--ink-soft);}
+
+.clickable{cursor:pointer;position:relative;}
+.clickable:hover{border-left-color:var(--gold);}
+.hint-arrow{
+  position:absolute;
+  right:16px;
+  top:16px;
+  font-size:12px;
+  color:var(--gold);
+}
+.modal-overlay{
+  display:none;
+  position:fixed;
+  inset:0;
+  background:rgba(38,36,31,0.55);
+  z-index:100;
+  align-items:center;
+  justify-content:center;
+  padding:20px;
+}
+.modal-overlay.open{display:flex;}
+.modal-box{
+  background:var(--card);
+  max-width:600px;
+  width:100%;
+  max-height:80vh;
+  overflow-y:auto;
+  border-radius:4px;
+  border-top:4px solid var(--gold);
+  padding:24px 28px;
+  position:relative;
+}
+.modal-close{
+  position:absolute;
+  top:14px;
+  right:14px;
+  background:none;
+  border:none;
+  font-size:18px;
+  cursor:pointer;
+  color:var(--ink-soft);
+}
+.modal-box h3{margin:0 0 14px;font-size:19px;}
+.modal-box h4{margin:14px 0 6px;font-size:13px;color:var(--ink-soft);text-transform:uppercase;letter-spacing:1px;}
+.modal-box p{margin:0 0 4px;font-size:15px;line-height:1.7;}
+.modal-box ul{margin:4px 0 0;padding-left:20px;}
+.modal-box li{font-size:14px;line-height:1.8;color:var(--teal);}
 </style>
 </head>
 <body>
@@ -203,8 +250,15 @@ button.del{
   <section id="portfolio" class="tab">
     <div id="portfolio-list"></div>
   </section>
-
 </main>
+
+<div id="modal-overlay" class="modal-overlay" onclick="if(event.target===this) closeExplain()">
+  <div class="modal-box">
+    <button class="modal-close" onclick="closeExplain()">✕</button>
+    <h3 id="modal-title"></h3>
+    <div id="modal-body"></div>
+  </div>
+</div>
 
 <script>
 let weakData = [];
@@ -232,27 +286,50 @@ async function loadAll(){
 function renderWeak(){
   const list = document.getElementById("weak-list");
   const sorted = [...weakData].sort((a,b)=> b.date.localeCompare(a.date));
-  list.innerHTML = sorted.map(w=>`
-    <div class="card">
+  list.innerHTML = sorted.map(w=>{
+    const hasExplain = !!w.explain;
+    return `
+    <div class="card ${hasExplain?'clickable':''}" ${hasExplain?`onclick="openExplain('${w.id}')"`:''}>
+      ${hasExplain?'<span class="hint-arrow">查看解說 →</span>':''}
       <span class="count-badge">共出現 ${w.count} 次</span>
       <h3>${w.cat}</h3>
       <div class="meta">首次記錄：${w.date}</div>
       <div class="small">${w.desc}</div>
     </div>
-  `).join("");
+  `;}).join("");
 }
 
 /* ---------- 持續弱點總覽 ---------- */
 function renderTrend(){
   const list = document.getElementById("trend-list");
   const sorted = [...weakData].sort((a,b)=> b.count - a.count);
-  list.innerHTML = sorted.map(w=>`
-    <div class="card teal">
+  list.innerHTML = sorted.map(w=>{
+    const hasExplain = !!w.explain;
+    return `
+    <div class="card teal ${hasExplain?'clickable':''}" ${hasExplain?`onclick="openExplain('${w.id}')"`:''}>
+      ${hasExplain?'<span class="hint-arrow">查看解說 →</span>':''}
       <span class="count-badge">${w.count} 次</span>
       <h3>${w.cat}</h3>
       <div class="small">${w.desc}</div>
     </div>
-  `).join("");
+  `;}).join("");
+}
+
+/* ---------- 解說彈窗 ---------- */
+function openExplain(id){
+  const w = weakData.find(x=>x.id===id);
+  if(!w || !w.explain) return;
+  document.getElementById("modal-title").textContent = w.cat;
+  document.getElementById("modal-body").innerHTML = `
+    <h4>規則說明</h4>
+    <p>${w.explain.rule}</p>
+    <h4>例句對照</h4>
+    <ul>${w.explain.examples.map(e=>`<li>${e}</li>`).join("")}</ul>
+  `;
+  document.getElementById("modal-overlay").classList.add("open");
+}
+function closeExplain(){
+  document.getElementById("modal-overlay").classList.remove("open");
 }
 
 /* ---------- 進步趨勢 ---------- */
