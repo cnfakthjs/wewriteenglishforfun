@@ -458,9 +458,9 @@
   },
   {
    "cat": "run-on / 逗號連接句",
-   "desc": "多個獨立子句以逗號直接連接，未使用句號或連接詞；並含以 But/Because 開頭的不完整片段句",
+   "desc": "多個獨立子句以逗號直接連接，未使用句號或連接詞（如 When I go to a restaurant I just want to eat..., I don't have any patience...）",
    "date": "2026-09-06",
-   "count": 15,
+   "count": 13,
    "id": "w9",
    "explain": {
     "rule": "兩個各自能獨立成句的子句，不能只用逗號連接（這叫 comma splice）。要嘛用句號分開、用分號、或加連接詞（and, but, because, so...）。",
@@ -756,6 +756,22 @@
     "examples": [
      "✗ I am not pets hater → ✓ I am not a pet hater",
      "✗ When I go to the restaurant（泛指任何一家）→ ✓ When I go to a restaurant"
+    ]
+   }
+  },
+  {
+   "cat": "附屬子句片段（主要子句遺漏）",
+   "desc": "以 If / Because / Even though 等附屬連接詞開頭的子句被當成完整句子、後面直接句號，主要子句遺漏或被切到下一句。跨三篇出現：7/26「If your team have peoples who is lazy...」、8/30「Even though it can't come ture.」、9/06「But if the restaurant can set a space...」與「Because it can effectively attract...」",
+   "date": "2026-09-06",
+   "count": 4,
+   "id": "w29",
+   "explain": {
+    "rule": "與 run-on 方向相反：run-on 是「該斷不斷」，這個是「不該斷卻斷」。成因是中文的「如果…」「因為…」「雖然…」單獨講出來可以自成一句（例：「因為它可以吸引愛動物的人啊」），英文不行——附屬子句永遠只是半句，必須與主要子句同處一個句子內。9/06 的例子顯示他其實想得到主要子句（就在下一句 I think that will be a win-win solution），只是提早點了句號，代表問題在斷句直覺而非造句能力。建議機械式練習：給 10 個 If / Because / Even though 開頭的半句，只要求補完後半。",
+    "examples": [
+     "✗ But if the restaurant can set aside a space. I think that will be a win-win solution.",
+     "✓ But if the restaurant can set aside a space, I think that will be a win-win solution.",
+     "✗ Because it can effectively attract people who like animals.",
+     "✓ ..., because it can effectively attract people who like animals."
     ]
    }
   }
