@@ -170,16 +170,6 @@ button.del{
 }
 .loading{padding:40px;text-align:center;color:var(--ink-soft);}
 
-.freshness{
-  display:inline-block;
-  font-size:11px;
-  padding:1px 8px;
-  border-radius:10px;
-  margin-left:8px;
-  vertical-align:1px;
-}
-.freshness.hot{background:var(--red-soft);color:var(--red);}
-.freshness.cool{background:var(--teal-soft);color:var(--teal);}
 
 .clickable{cursor:pointer;position:relative;}
 .clickable:hover{border-left-color:var(--gold);}
@@ -293,29 +283,17 @@ async function loadAll(){
   renderPortfolio();
 }
 
-/* ---------- 新舊程度：距離最近一次犯錯隔了幾篇作文 ---------- */
-function freshness(w){
-  const last = w.lastSeen || w.date;           // 舊資料沒有 lastSeen 就退回用 date
-  const since = portfolioData.filter(p => p.date > last).length;
-  return since === 0
-    ? { last, html:`<span class="freshness hot">最新一篇仍出現</span>` }
-    : { last, html:`<span class="freshness cool">已 ${since} 篇未出現</span>` };
-}
-
 /* ---------- 弱點追蹤（唯讀顯示） ---------- */
 function renderWeak(){
   const list = document.getElementById("weak-list");
-  // 依「最近一次出現」由新到舊排序，還在犯的排最前面
-  const sorted = [...weakData].sort((a,b)=>
-    (b.lastSeen || b.date).localeCompare(a.lastSeen || a.date));
+  const sorted = [...weakData].sort((a,b)=> b.date.localeCompare(a.date));
   list.innerHTML = sorted.map(w=>{
     const hasExplain = !!w.explain;
-    const f = freshness(w);
     return `
     <div class="card ${hasExplain?'clickable':''}" ${hasExplain?`onclick="openExplain('${w.id}')"`:''}>
       <span class="count-badge">共出現 ${w.count} 次</span>
       <h3>${w.cat}</h3>
-      <div class="meta">首次記錄：${w.date} · 最近出現：${f.last}${f.html}</div>
+      <div class="meta">首次記錄：${w.date}</div>
       <div class="small">${w.desc}</div>
     </div>
   `;}).join("");
@@ -330,7 +308,7 @@ function renderTrend(){
     return `
     <div class="card teal ${hasExplain?'clickable':''}" ${hasExplain?`onclick="openExplain('${w.id}')"`:''}>
       <span class="count-badge">${w.count} 次</span>
-      <h3>${w.cat}${freshness(w).html}</h3>
+      <h3>${w.cat}</h3>
       <div class="small">${w.desc}</div>
     </div>
   `;}).join("");
