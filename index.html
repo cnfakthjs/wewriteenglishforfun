@@ -216,7 +216,12 @@ button.del{
 .modal-box h4{margin:14px 0 6px;font-size:13px;color:var(--ink-soft);text-transform:uppercase;letter-spacing:1px;}
 .modal-box p{margin:0 0 4px;font-size:15px;line-height:1.7;}
 .modal-box ul{margin:4px 0 0;padding-left:20px;}
-.modal-box li{font-size:14px;line-height:1.8;color:var(--teal);}
+.modal-box li{font-size:14px;line-height:1.8;color:var(--ink);}
+.modal-box li.ex-wrong{color:var(--red);}
+.modal-box li.ex-right{color:var(--teal);}
+.wl-wrong{color:var(--red);font-weight:bold;}
+.wl-right{color:var(--teal);}
+.wl-meta{color:var(--ink-soft);font-size:12px;}
 </style>
 </head>
 <body>
@@ -320,20 +325,36 @@ function openExplain(id){
   if(!w || !w.explain) return;
   document.getElementById("modal-title").textContent = w.cat;
 
-  if(w.explain.type === "wordlist"){
-    const rows = [...w.explain.words].sort((a,b)=> b.count - a.count);
-    document.getElementById("modal-body").innerHTML = `
-      <h4>錯誤／正確對照（依出現次數排序）</h4>
-      <ul>${rows.map(x=>`<li><b>${x.wrong}</b> → ${x.correct}　<span style="color:var(--ink-soft);">(${x.count}次${x.note? '，'+x.note : ''})</span></li>`).join("")}</ul>
-    `;
-  }else{
-    document.getElementById("modal-body").innerHTML = `
-      <h4>規則說明</h4>
-      <p>${w.explain.rule}</p>
-      <h4>例句對照</h4>
-      <ul>${w.explain.examples.map(e=>`<li>${e}</li>`).join("")}</ul>
-    `;
+  const parts = [];
+
+  // 規則說明（字表型也可以有）
+  if(w.explain.rule){
+    parts.push(`<h4>規則說明</h4><p>${w.explain.rule}</p>`);
   }
+
+  // 錯誤／正確對照字表：錯的紅、對的藍綠
+  if(w.explain.words){
+    const rows = [...w.explain.words].sort((a,b)=> b.count - a.count);
+    parts.push(`
+      <h4>錯誤／正確對照（依出現次數排序）</h4>
+      <ul>${rows.map(x=>
+        `<li><span class="wl-wrong">${x.wrong}</span> → <span class="wl-right">${x.correct}</span>
+         <span class="wl-meta">（${x.count} 次${x.note ? '，'+x.note : ''}）</span></li>`
+      ).join("")}</ul>`);
+  }
+
+  // 例句：以 ✗ 開頭標紅，✓ 開頭標藍綠
+  if(w.explain.examples){
+    parts.push(`
+      <h4>例句對照</h4>
+      <ul>${w.explain.examples.map(e=>{
+        const cls = e.trim().startsWith("✗") ? "ex-wrong"
+                  : e.trim().startsWith("✓") ? "ex-right" : "";
+        return `<li class="${cls}">${e}</li>`;
+      }).join("")}</ul>`);
+  }
+
+  document.getElementById("modal-body").innerHTML = parts.join("");
   document.getElementById("modal-overlay").classList.add("open");
 }
 function closeExplain(){
