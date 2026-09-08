@@ -2,7 +2,7 @@
  "weak": [
   {
    "cat": "拼字不穩定",
-   "desc": "同一個字反覆拼錯：choose 曾出現三種不同錯拼方式；跨篇重複出現的個人記憶點錯字：prasious(precious)、choise(choice)、achivement(achievement)、addvice/addvise",
+   "desc": "同一個字反覆拼錯：choose 曾出現三種不同錯拼方式；跨篇重複出現的個人記憶點錯字：prasious(precious)、choise(choice)、achivement(achievement)、addvice/addvise（註：字表僅列已確認的字，加總 76 處，低於條目總數 91，尚未逐字重掃）",
    "date": "2026-07-05",
    "count": 91,
    "id": "w0",
@@ -395,6 +395,12 @@
     "type": "wordlist",
     "words": [
      {
+      "wrong": "effect（當動詞）",
+      "correct": "affect",
+      "count": 3,
+      "note": "effect 是名詞「影響、效果」；affect 才是動詞「影響」。08/09 兩次、08/23 一次"
+     },
+     {
       "wrong": "contract",
       "correct": "contrast",
       "count": 2,
@@ -403,27 +409,25 @@
      {
       "wrong": "progress",
       "correct": "process",
-      "count": 1,
-      "note": "進展 vs. 過程"
+      "count": 2,
+      "note": "進展 vs. 過程；07/12、07/26 各一次"
      },
      {
       "wrong": "incredible",
       "correct": "incredulous",
       "count": 1,
       "note": "令人驚嘆的 vs. 不敢置信的（意思幾乎相反）"
-     },
-     {
-      "wrong": "interesting（當名詞用）",
-      "correct": "interest",
-      "count": 1,
-      "note": "形容詞誤用為名詞"
-     },
-     {
-      "wrong": "exciting / stimulate（當名詞用）",
-      "correct": "excitement / stimulation",
-      "count": 2,
-      "note": "形容詞、動詞誤用為名詞"
      }
+    ],
+    "rule": "這類錯誤選錯的是「字」不是「形式」，所以拼字檢查抓不到，句子文法也是通的，只有意思悄悄跑掉。最危險的是 incredible／incredulous 這種——意思幾乎相反，讀者會完全誤解。",
+    "examples": [
+     "✗ These pravious habit always effect my study efficient",
+     "✓ These previous habits always affect my study efficiency（affect 才是動詞）",
+     "✓ The comments had a strong effect on my choice.（effect 是名詞，常搭 have an effect on）",
+     "✗ The picture presents a sharp contract between left and right",
+     "✓ The picture presents a sharp contrast between left and right",
+     "✗ I feel incredible because I couldn't believe he would betray me",
+     "✓ I felt incredulous because I couldn't believe he would betray me（incredible 是「了不起的」，意思相反）"
     ]
    }
   },
@@ -491,11 +495,99 @@
    "count": 13,
    "id": "w11",
    "explain": {
-    "rule": "很多動詞、形容詞後面固定搭配特定介係詞，這種是「固定用法」要當作一個整體背，不能用中文邏輯去猜。",
+    "type": "wordlist",
+    "rule": "介係詞沒有邏輯可推，只能連同動詞或名詞一起記。他的錯誤幾乎都是把中文的方位或對象概念直譯過來（「對某人的印象」→ impression to），要練的是把「動詞＋介係詞」當成一個單位背下來。",
+    "words": [
+     {
+      "wrong": "chat to others",
+      "correct": "chat with others",
+      "count": 1,
+      "note": "07/05"
+     },
+     {
+      "wrong": "listen something",
+      "correct": "listen to something",
+      "count": 1,
+      "note": "07/05"
+     },
+     {
+      "wrong": "the star on the sky",
+      "correct": "in the sky",
+      "count": 1,
+      "note": "07/12"
+     },
+     {
+      "wrong": "impression to other",
+      "correct": "impression on others",
+      "count": 1,
+      "note": "07/19"
+     },
+     {
+      "wrong": "in this day",
+      "correct": "on this day",
+      "count": 1,
+      "note": "07/26"
+     },
+     {
+      "wrong": "shoot a vlog to my daily life",
+      "correct": "about my daily life",
+      "count": 1,
+      "note": "08/02"
+     },
+     {
+      "wrong": "bad comment to me",
+      "correct": "about／on me",
+      "count": 1,
+      "note": "08/02"
+     },
+     {
+      "wrong": "fit to young people",
+      "correct": "fit for young people",
+      "count": 1,
+      "note": "08/16"
+     },
+     {
+      "wrong": "fear to height",
+      "correct": "afraid of heights",
+      "count": 1,
+      "note": "08/16"
+     },
+     {
+      "wrong": "graduade in senior high school",
+      "correct": "graduate from",
+      "count": 1,
+      "note": "08/23"
+     },
+     {
+      "wrong": "looking about anything",
+      "correct": "looking at anything",
+      "count": 1,
+      "note": "08/23"
+     },
+     {
+      "wrong": "feel happy to him",
+      "correct": "happy for him",
+      "count": 1,
+      "note": "08/30"
+     },
+     {
+      "wrong": "take place on a restaurant",
+      "correct": "in／at a restaurant",
+      "count": 1,
+      "note": "09/06"
+     }
+    ],
     "examples": [
-     "chat with someone（不是 chat to）",
-     "fit for someone（不是 fit to）",
-     "interested in something（不是 interested to）"
+     "✗ It will hard to chat to others",
+     "✓ It will be hard to chat with others",
+     "✗ Make up can give strangers a good impression to other",
+     "✓ Makeup can give others a good impression of you",
+     "✗ merry-go-around is fit to young people",
+     "✓ a merry-go-round is suitable for young children",
+     "✗ as a someone that fear to height",
+     "✓ as someone who is afraid of heights",
+     "✗ Until I graduade in senior high school",
+     "✓ Until I graduated from senior high school"
     ]
    }
   },
@@ -521,37 +613,111 @@
    "id": "w13",
    "explain": {
     "type": "wordlist",
+    "rule": "他知道這個字的意思，但拿了錯的詞性去用。最集中的是「形容詞當名詞」（exciting、pleasant、thrilling 當名詞）和「名詞當動詞或形容詞」（choice 當動詞、harmony 當形容詞）。背單字時要連詞性一起背，尤其 -ing 結尾的字幾乎都是形容詞，不能直接當名詞用。",
     "words": [
      {
-      "wrong": "motivate",
-      "correct": "motive",
-      "count": 1,
-      "note": "動詞誤用為名詞（動機）"
+      "wrong": "exciting／stimulate（當名詞）",
+      "correct": "excitement／stimulation",
+      "count": 2,
+      "note": "08/16"
      },
      {
-      "wrong": "considering",
-      "correct": "consideration",
+      "wrong": "thrilling（當名詞）",
+      "correct": "thrill(s)",
       "count": 1,
-      "note": "分詞誤用為名詞"
+      "note": "08/16"
      },
      {
-      "wrong": "efficient",
+      "wrong": "pleasant（當名詞）",
+      "correct": "pleasure",
+      "count": 1,
+      "note": "08/02"
+     },
+     {
+      "wrong": "interesting（當名詞）",
+      "correct": "interest",
+      "count": 1,
+      "note": "08/02"
+     },
+     {
+      "wrong": "subscribes（當名詞）",
+      "correct": "subscribers",
+      "count": 1,
+      "note": "08/02"
+     },
+     {
+      "wrong": "efficient（當名詞）",
       "correct": "efficiency",
-      "count": 1,
-      "note": "形容詞誤用為名詞"
+      "count": 2,
+      "note": "07/26、08/23"
      },
      {
-      "wrong": "tolerant",
-      "correct": "tolerance",
-      "count": 1,
-      "note": "形容詞誤用為名詞"
+      "wrong": "choice（當動詞）",
+      "correct": "choose",
+      "count": 2,
+      "note": "07/12、08/09"
      },
      {
-      "wrong": "harmony",
+      "wrong": "harmony（當形容詞）",
       "correct": "harmonious",
       "count": 1,
-      "note": "名詞誤用為形容詞（peaceful and harmony）"
+      "note": "09/06"
+     },
+     {
+      "wrong": "motivate（當名詞）",
+      "correct": "motive",
+      "count": 1,
+      "note": "07/05"
+     },
+     {
+      "wrong": "different（當名詞）",
+      "correct": "difference",
+      "count": 1,
+      "note": "07/19"
+     },
+     {
+      "wrong": "difficult（當名詞）",
+      "correct": "difficulty",
+      "count": 1,
+      "note": "08/23"
+     },
+     {
+      "wrong": "tolerant（當名詞）",
+      "correct": "tolerance",
+      "count": 1,
+      "note": "08/30"
+     },
+     {
+      "wrong": "proof（當動詞）",
+      "correct": "prove",
+      "count": 1,
+      "note": "08/09"
+     },
+     {
+      "wrong": "the reality happy",
+      "correct": "real happiness",
+      "count": 1,
+      "note": "07/12"
+     },
+     {
+      "wrong": "the starve musgito",
+      "correct": "starving mosquitoes",
+      "count": 1,
+      "note": "07/12"
      }
+    ],
+    "examples": [
+     "【核心規則：-ing 結尾多半是形容詞，不能直接當名詞用】",
+     "✗ it lack exciting and stimulate",
+     "✓ it lacks excitement and stimulation",
+     "✗ These place can provide thrilling and pleasment",
+     "✓ These places can provide thrills and pleasure",
+     "✗ playing games can acquire pleasant",
+     "✓ playing games can bring pleasure",
+     "✗ It can effectively increase efficient",
+     "✓ It can effectively increase efficiency",
+     "✗ you can choice campsite A",
+     "✓ you can choose campsite A"
     ]
    }
   },
@@ -651,13 +817,126 @@
    "cat": "詞彙誤用",
    "desc": "以 measure 代替「設施/活動」一詞，非拼字問題，需口頭直接教正確說法；pet-setting（疑為 pet seating / pet-sitting）、discrease negative review to people 語意不成立",
    "date": "2026-07-12",
-   "count": 20,
+   "count": 21,
    "id": "w21",
    "explain": {
-    "rule": "有些字看起來好像可以用，但實際上不是英語母語者會用的詞，這種不是拼字或文法問題，是選錯字，需要直接記住正確的說法。",
+    "type": "wordlist",
+    "rule": "選了一個真實存在、拼寫正確的英文字，但那個字的意思不是他要的。拼字檢查抓不到，文法也通，閱卷者只會覺得「這句在講什麼」。特別注意 measure 和 viewpoint 這兩個——他有穩定的自創對應（measure＝遊樂設施、viewpoint＝景點），各出現三次，需要直接口頭給正確字。",
+    "words": [
+     {
+      "wrong": "measure",
+      "correct": "ride／facility／attraction",
+      "count": 3,
+      "note": "08/16，他固定用來指「遊樂設施」"
+     },
+     {
+      "wrong": "viewpoint",
+      "correct": "attraction／scenic spot",
+      "count": 2,
+      "note": "08/09，他固定用來指「景點」；viewpoint 是觀點或觀景台"
+     },
+     {
+      "wrong": "photography",
+      "correct": "camera",
+      "count": 2,
+      "note": "08/02，photography 是攝影這門技藝，不是相機"
+     },
+     {
+      "wrong": "talent",
+      "correct": "tent",
+      "count": 1,
+      "note": "07/12，帳篷"
+     },
+     {
+      "wrong": "slay（wind slay the tree）",
+      "correct": "sway",
+      "count": 1,
+      "note": "07/12"
+     },
+     {
+      "wrong": "voice（風的聲音）",
+      "correct": "sound",
+      "count": 1,
+      "note": "07/12，voice 專指人或動物的嗓音"
+     },
+     {
+      "wrong": "accompany the star",
+      "correct": "beneath the stars",
+      "count": 1,
+      "note": "07/12"
+     },
+     {
+      "wrong": "grease in the conversation",
+      "correct": "icebreaker",
+      "count": 1,
+      "note": "07/19"
+     },
+     {
+      "wrong": "exploring my body",
+      "correct": "exploding",
+      "count": 1,
+      "note": "07/26"
+     },
+     {
+      "wrong": "Either he just...",
+      "correct": "Or he may just be...",
+      "count": 1,
+      "note": "08/02，Either 不能單獨引導句子"
+     },
+     {
+      "wrong": "unnecessary time",
+      "correct": "spare time",
+      "count": 1,
+      "note": "08/02，想講「多餘的時間」"
+     },
+     {
+      "wrong": "afford troll's comment",
+      "correct": "put up with／endure",
+      "count": 1,
+      "note": "08/02，afford 是負擔得起費用"
+     },
+     {
+      "wrong": "create subject with her",
+      "correct": "start a conversation topic",
+      "count": 1,
+      "note": "08/30"
+     },
+     {
+      "wrong": "return back",
+      "correct": "return／go back",
+      "count": 1,
+      "note": "08/30，return 已含 back"
+     },
+     {
+      "wrong": "both-win",
+      "correct": "win-win",
+      "count": 1,
+      "note": "09/06"
+     },
+     {
+      "wrong": "pet-setting",
+      "correct": "pet seating？（待確認）",
+      "count": 1,
+      "note": "09/06，語意不明"
+     },
+     {
+      "wrong": "used to check（指現在的習慣）",
+      "correct": "are used to checking",
+      "count": 1,
+      "note": "08/09，used to V 是過去的習慣"
+     }
+    ],
     "examples": [
-     "✗ amusement measure → ✓ amusement facilities / rides（遊樂設施）",
-     "✗ thrilling measure → ✓ thrilling rides / activities"
+     "✗ there are many amusement measure like roller coaster",
+     "✓ there are many amusement rides, such as roller coasters",
+     "✗ I'm sick of being a photographer when my friends go to play amusements measure",
+     "✓ I'm tired of being the photographer while my friends go on the rides",
+     "✗ These comments will effect cosumers to choice viewpoint or restaurant",
+     "✓ These comments affect how consumers choose an attraction or a restaurant",
+     "✗ the man is introducing the food under the photography",
+     "✓ the man is introducing the food in front of the camera",
+     "✗ It will be worth to afford troll's comment",
+     "✓ It will be worth putting up with trolls' comments"
     ]
    }
   },
@@ -780,18 +1059,87 @@
   },
   {
    "cat": "動詞句型／搭配錯誤",
-   "desc": "動詞後面接錯結構，非單字選錯而是句型記錯：disrupt us to find（應為 prevent us from finding）、let us to save、cause...must handle、make happy to others、spend 100$ geting、spend time to having transform、be used to getting 與 used to get 混用、argue this event with him",
+   "desc": "動詞後面接錯結構，非單字選錯而是句型記錯：disrupt us to find（應為 prevent us from finding）、let us to save、cause...must handle、make happy to others、spend 100$ geting、be used to getting 與 used to get 混用",
    "date": "2026-07-12",
-   "count": 11,
+   "count": 10,
    "id": "w30",
    "explain": {
-    "rule": "這類錯誤的成因不是不認識這個動詞，而是「知道意思、不知道它後面要接什麼」。英文每個動詞的後接結構是固定的，必須連同結構一起背，不能只背中文意思。例如 prevent 的中文是「阻止」，但不能說 prevent sb to V，只能說 prevent sb from V-ing。這比拼字更該優先處理——拼錯字閱卷者看得懂，句型錯了句子會直接讀不通。建議記單字時一律連句型記：prevent sb from V-ing、cause sb to V、spend 時間/金錢 (on) V-ing、let sb V（原形）、make sb + 形容詞。",
+    "type": "wordlist",
+    "rule": "成因不是不認識這個動詞，而是「知道意思、不知道它後面要接什麼」。英文每個動詞的後接結構是固定的，必須連同結構一起背，不能只背中文意思——prevent 的中文是「阻止」，但不能說 prevent sb to V，只能說 prevent sb from V-ing。這比拼字更該優先處理：拼錯字閱卷者看得懂，句型錯了句子會直接讀不通。",
+    "words": [
+     {
+      "wrong": "disrupt us to find",
+      "correct": "prevent／stop us from finding",
+      "count": 1,
+      "note": "08/09"
+     },
+     {
+      "wrong": "bother this event",
+      "correct": "are bothered by this",
+      "count": 1,
+      "note": "08/09"
+     },
+     {
+      "wrong": "like a YouTuber to explore",
+      "correct": "like a YouTuber, I would explore",
+      "count": 1,
+      "note": "08/09"
+     },
+     {
+      "wrong": "let us to save money",
+      "correct": "let us save（let ＋ 原形）",
+      "count": 1,
+      "note": "07/19"
+     },
+     {
+      "wrong": "is used to getting friends",
+      "correct": "be used to V-ing ≠ used to V",
+      "count": 1,
+      "note": "07/19"
+     },
+     {
+      "wrong": "cause others teamate must handle",
+      "correct": "cause sb to V",
+      "count": 1,
+      "note": "07/26"
+     },
+     {
+      "wrong": "make happy to others",
+      "correct": "make others happy（make ＋ 受詞 ＋ 形容詞）",
+      "count": 1,
+      "note": "08/02"
+     },
+     {
+      "wrong": "spend 100$ geting",
+      "correct": "spend 錢 on／in V-ing",
+      "count": 1,
+      "note": "07/12"
+     },
+     {
+      "wrong": "spend my time to having transform",
+      "correct": "spend time V-ing",
+      "count": 1,
+      "note": "08/23"
+     },
+     {
+      "wrong": "argue this event with him",
+      "correct": "argue with sb about sth",
+      "count": 1,
+      "note": "08/30"
+     }
+    ],
     "examples": [
-     "✗ This behavior will disrupt us to find worthwhile spots.",
-     "✓ This behavior prevents us from finding worthwhile spots.",
-     "✗ The adult will always let us to save money. → ✓ ...let us save money.",
-     "✗ It will cause others teamate must handle their work. → ✓ It will cause other teammates to handle their work.",
-     "✗ If my video can make happy to others → ✓ ...can make others happy"
+     "【背動詞時連句型一起背，不要只背中文意思】",
+     "✗ This behavior will disrupt us to find worthwhile spots",
+     "✓ This behavior prevents us from finding worthwhile spots",
+     "✗ The adult will always let us to save money",
+     "✓ Adults always let us save money（let ＋ 受詞 ＋ 原形）",
+     "✗ It will cause others teamate must handle their work",
+     "✓ It will cause other teammates to handle their work（cause ＋ 受詞 ＋ to V）",
+     "✗ If my video can make happy to others",
+     "✓ If my video can make others happy（make ＋ 受詞 ＋ 形容詞）",
+     "✗ spend 100$ geting the delivery fee free",
+     "✓ spend $100 on getting free delivery（spend ＋ 錢 ＋ on V-ing）"
     ]
    }
   }
