@@ -4,7 +4,7 @@
    "cat": "拼字不穩定",
    "desc": "同一個字反覆拼錯：choose 曾出現三種不同錯拼方式；跨篇重複出現的個人記憶點錯字：prasious(precious)、choise(choice)、achivement(achievement)、addvice/addvise",
    "date": "2026-07-05",
-   "count": 84,
+   "count": 91,
    "id": "w0",
    "explain": {
     "type": "wordlist",
@@ -340,7 +340,7 @@
    "cat": "主詞動詞一致性",
    "desc": "如 team have、website appears、every words surround 等",
    "date": "2026-07-05",
-   "count": 23,
+   "count": 24,
    "id": "w2",
    "explain": {
     "rule": "動詞要跟主詞的人稱、單複數一致。單數主詞（he/she/it/單一名詞）動詞加 -s；複數主詞或 I/you/we/they 動詞不加 -s。集合名詞（team, family）通常當單數看待。",
@@ -354,14 +354,14 @@
    "cat": "句中不當大寫",
    "desc": "You/Your/If/It/When/Life/The 等字在句中被誤大寫，已確認為系統性錯誤，非單一字詞問題；本篇 If、Even 各一次",
    "date": "2026-07-05",
-   "count": 18,
+   "count": 24,
    "id": "w3"
   },
   {
    "cat": "時態混用",
    "desc": "敘事段落中過去式與現在式（含 will）混用",
    "date": "2026-07-26",
-   "count": 19,
+   "count": 20,
    "id": "w4",
    "explain": {
     "rule": "描述過去發生的事，整段都要用過去式，不要中途切換回現在式或未來式（will）。可以先確認「這件事是不是已經發生過」，是的話全程用過去式。",
@@ -389,7 +389,7 @@
    "cat": "相似詞混淆",
    "desc": "efficient/effective、progress/process、contract/contrast、interesting/interest、exciting/stimulate 當名詞用；incredible/incredulous（選錯字導致情緒意思說反，非拼字問題）",
    "date": "2026-07-12",
-   "count": 6,
+   "count": 8,
    "id": "w6",
    "explain": {
     "type": "wordlist",
@@ -431,7 +431,7 @@
    "cat": "篇章結構",
    "desc": "客觀描述段落誤植主觀意見；2026-09-06 為更嚴重的變體：圖片描述段完全未描述圖片，改用「如果你走進寵物友善餐廳會看到…」的假設通則替代。場景判讀（寵物友善餐廳）本身合理且題目允許，問題在於未從圖中具體人事物推得該判讀",
    "date": "2026-07-05",
-   "count": 3,
+   "count": 4,
    "id": "w7",
    "explain": {
     "rule": "題目通常要求「先客觀描述，再給個人意見」分兩段處理。寫客觀描述段落時，先問自己：這句話是在講圖表/情境本身的內容，還是已經在講「我」的想法？如果太早出現 I think / In my opinion，代表跳段了。",
@@ -445,7 +445,7 @@
    "cat": "its/it's 混淆",
    "desc": "所有格 its 與縮寫 it's 混用",
    "date": "2026-07-12",
-   "count": 2,
+   "count": 3,
    "id": "w8",
    "explain": {
     "rule": "its（無撇號）是所有格，「它的」；it's（有撇號）是 it is 或 it has 的縮寫。判斷方法：把 it's 展開成 it is，唸起來通順就是 it's，不通順就是 its。",
@@ -460,7 +460,7 @@
    "cat": "run-on / 逗號連接句",
    "desc": "多個獨立子句以逗號直接連接，未使用句號或連接詞（如 When I go to a restaurant I just want to eat..., I don't have any patience...）",
    "date": "2026-07-05",
-   "count": 14,
+   "count": 18,
    "id": "w9",
    "explain": {
     "rule": "兩個各自能獨立成句的子句，不能只用逗號連接（這叫 comma splice）。要嘛用句號分開、用分號、或加連接詞（and, but, because, so...）。",
@@ -517,7 +517,7 @@
    "cat": "詞性混淆",
    "desc": "motivate/motive、considering/consideration、efficient/efficiency 等；tolerant/tolerance",
    "date": "2026-07-05",
-   "count": 16,
+   "count": 18,
    "id": "w13",
    "explain": {
     "type": "wordlist",
@@ -650,8 +650,8 @@
   {
    "cat": "詞彙誤用",
    "desc": "以 measure 代替「設施/活動」一詞，非拼字問題，需口頭直接教正確說法；pet-setting（疑為 pet seating / pet-sitting）、discrease negative review to people 語意不成立",
-   "date": "2026-08-16",
-   "count": 19,
+   "date": "2026-07-12",
+   "count": 20,
    "id": "w21",
    "explain": {
     "rule": "有些字看起來好像可以用，但實際上不是英語母語者會用的詞，這種不是拼字或文法問題，是選錯字，需要直接記住正確的說法。",
@@ -679,7 +679,7 @@
    "cat": "語意不明（待口頭確認）",
    "desc": "多篇皆有結構打結、無法確定原意的句子，依標準不猜測，列出待老師詢問學生",
    "date": "2026-07-05",
-   "count": 33,
+   "count": 36,
    "id": "w23",
    "explain": {
     "rule": "這類句子不是單一文法點的問題，而是整句邏輯、指涉對象或想表達的意思本身不清楚。這種情況建議直接口頭問學生「這句你原本想講什麼」，不要用猜的去改，避免曲解原意。",
@@ -705,7 +705,7 @@
   {
    "cat": "代名詞指涉錯誤",
    "desc": "指稱對象前後不一致，如 breaking off his friendship 應為 our friendship（這段友情是雙方的，不是單方的）；同篇也出現 my best friends 與全文單一朋友的敘事對象數量不一致",
-   "date": "2026-08-30",
+   "date": "2026-07-12",
    "count": 2,
    "id": "w25",
    "explain": {
@@ -719,8 +719,8 @@
   {
    "cat": "單複數形式錯誤",
    "desc": "可數名詞的單複數形式錯誤，遺漏與誤加都有：many accident、Every words、one of my biggest regret（該複數卻單數）；peoples、manys、others people、Social medias、On the other hands（不該複數卻加 s）",
-   "date": "2026-09-06",
-   "count": 33,
+   "date": "2026-07-05",
+   "count": 42,
    "id": "w26",
    "explain": {
     "rule": "兩個方向的錯誤同時存在，代表他不是「忘記加 s」，而是沒有在下筆時判斷這個名詞此刻是幾個。規則本身很簡單：可數名詞不是一個就加 s；many/those/several/one of 後面一定複數；people 本身已是複數不再加 s。難的是養成每寫一個名詞就順手判斷數量的習慣。",
@@ -735,8 +735,8 @@
   {
    "cat": "動詞形式錯誤（助動詞／不定詞後）",
    "desc": "助動詞或 to 後面沒有接原形：will been（×2）、to got a progress、to having transform、would listened、was lay on the bed、when was fall in love",
-   "date": "2026-09-06",
-   "count": 8,
+   "date": "2026-07-26",
+   "count": 10,
    "id": "w27",
    "explain": {
     "rule": "will/can/would 等助動詞後面、以及 to 後面，一律接動詞原形，沒有例外。been 只能跟在 have/has/had 之後。這類錯誤多半發生在他想表達比較複雜的時態時，越想用力越容易亂。",
@@ -751,8 +751,8 @@
   {
    "cat": "冠詞遺漏（單數可數名詞）",
    "desc": "單數可數名詞前少了 a/an/the：I am not pets hater、go to the restaurant（泛指應為 a restaurant）、see the sight like this picture",
-   "date": "2026-09-06",
-   "count": 6,
+   "date": "2026-08-02",
+   "count": 7,
    "id": "w28",
    "explain": {
     "rule": "單數可數名詞前面「一定」要有限定詞（a/an/the/my/this…），沒有例外。泛指某一類事物時用 a/an，不是零冠詞。這點與先前的「冠詞誤加」剛好相反，代表冠詞系統整體尚未建立。",
@@ -765,8 +765,8 @@
   {
    "cat": "附屬子句片段（主要子句遺漏）",
    "desc": "以 If / Because / Even though 等附屬連接詞開頭的子句被當成完整句子、後面直接句號，主要子句遺漏或被切到下一句。跨三篇出現：7/26「If your team have peoples who is lazy...」、8/30「Even though it can't come ture.」、9/06「But if the restaurant can set a space...」與「Because it can effectively attract...」",
-   "date": "2026-09-06",
-   "count": 6,
+   "date": "2026-07-26",
+   "count": 7,
    "id": "w29",
    "explain": {
     "rule": "與 run-on 方向相反：run-on 是「該斷不斷」，這個是「不該斷卻斷」。成因是中文的「如果…」「因為…」「雖然…」單獨講出來可以自成一句（例：「因為它可以吸引愛動物的人啊」），英文不行——附屬子句永遠只是半句，必須與主要子句同處一個句子內。9/06 的例子顯示他其實想得到主要子句（就在下一句 I think that will be a win-win solution），只是提早點了句號，代表問題在斷句直覺而非造句能力。建議機械式練習：給 10 個 If / Because / Even though 開頭的半句，只要求補完後半。",
@@ -775,6 +775,23 @@
      "✓ But if the restaurant can set aside a space, I think that will be a win-win solution.",
      "✗ Because it can effectively attract people who like animals.",
      "✓ ..., because it can effectively attract people who like animals."
+    ]
+   }
+  },
+  {
+   "cat": "動詞句型／搭配錯誤",
+   "desc": "動詞後面接錯結構，非單字選錯而是句型記錯：disrupt us to find（應為 prevent us from finding）、let us to save、cause...must handle、make happy to others、spend 100$ geting、spend time to having transform、be used to getting 與 used to get 混用、argue this event with him",
+   "date": "2026-07-12",
+   "count": 11,
+   "id": "w30",
+   "explain": {
+    "rule": "這類錯誤的成因不是不認識這個動詞，而是「知道意思、不知道它後面要接什麼」。英文每個動詞的後接結構是固定的，必須連同結構一起背，不能只背中文意思。例如 prevent 的中文是「阻止」，但不能說 prevent sb to V，只能說 prevent sb from V-ing。這比拼字更該優先處理——拼錯字閱卷者看得懂，句型錯了句子會直接讀不通。建議記單字時一律連句型記：prevent sb from V-ing、cause sb to V、spend 時間/金錢 (on) V-ing、let sb V（原形）、make sb + 形容詞。",
+    "examples": [
+     "✗ This behavior will disrupt us to find worthwhile spots.",
+     "✓ This behavior prevents us from finding worthwhile spots.",
+     "✗ The adult will always let us to save money. → ✓ ...let us save money.",
+     "✗ It will cause others teamate must handle their work. → ✓ It will cause other teammates to handle their work.",
+     "✗ If my video can make happy to others → ✓ ...can make others happy"
     ]
    }
   }
@@ -879,6 +896,16 @@
    "original": "Nowadays, pet-friendly restaurants are all over the world. If you are people who love pets, you could go to pet-friendly restaurants. When you walk through the front door, you will see will see the sight like this picture. Every costumer harmoniously live with pets and their pets are well-behaved. They are taking a pototo with their pets. It seems very peaceful and harmony.\nNevertheless, If this situation take place on a normal restaurant, I think that will been a disaster for people who don't like pets. Even though their pets behave themself, but it still happened many accident. Eventually, it will inevitably evolve into an arguement. As far as I'm concerned, Even I am not pets hater, but I don't think that I can endure those uncontrable condition like flying fur and scattered drool and so on. When I go to the restaurant I just want to eat some delicious food, I didn't have any patience to deal with those incident. But if the restaurant can set a space, which can provide pet-setting. I think that will been a both-win way for operater and costumer. Because it can effectively attract people who like animals and it can discrease negative review to people, whoever want to enjoy their food without pets noise and flur.",
    "corrected": "Nowadays, pet-friendly restaurants can be found all over the world. If you are a person who loves pets, you can go to a pet-friendly restaurant. When you walk through the front door, you will see a sight like the one in this picture. Every customer lives harmoniously with pets, and their pets are well-behaved. They are taking a photo with their pets. It seems very peaceful and harmonious.\nNevertheless, if this situation takes place in an ordinary restaurant, I think it will be a disaster for people who don't like pets. Even though their pets behave themselves, many accidents still happen. Eventually, it will inevitably evolve into an argument. As far as I'm concerned, even though I am not a pet hater, I don't think I can endure those uncontrollable conditions, such as flying fur and scattered drool. When I go to a restaurant, I just want to eat some delicious food; I don't have any patience to deal with those incidents. However, if the restaurant can set aside a space that provides 〔語意待確認：pet-setting，疑為 pet seating（寵物專區座位）或 pet-sitting（寵物寄放）〕, I think that will be a win-win solution for operators and customers, because it can effectively attract people who like animals and reduce negative reviews from those who want to enjoy their food without pets' noise and fur.",
    "note": "字彙難度是這批以來最高的一次（inevitably evolve into、endure、effectively、scattered drool 皆為主動選用的高階詞），但外殼與內部零件落差極大。內容失分集中在第一段：題目問「你認為圖中呈現的是什麼景象」，期待「先描述圖中人事物→再推得判讀」，他寫成「先宣告寵物友善餐廳很普遍→你走進去會看到這種畫面」，方向相反，圖中抱狗的女子、桌上餐點、椅子上的貓、拿平板的男子全數缺席。（判讀成寵物友善餐廳本身合理，題目用「某餐廳」且直接問「你認為」，屬開放判讀，不構成扣分。）第二段立場明確（顧客立場）並提出「設寵物專區」的解法，與第一段形成一般餐廳／友善餐廳的對照推進，是全篇最有價值的部分，但被 But/Because 開頭的片段句切斷。文法舊病復發：although/even though...but 冗贅兩次、句中 If/Even 大寫、主詞動詞一致性三處、現在式敘述中混入 happened/didn't。新觀察三類：will been 兩次、複數 -s 遺漏四處、單數可數名詞冠詞遺漏三處。另有所有格撇號遺漏（pets noise → pets' noise），單次出現，先口頭提醒不另立類別。評分落在 8～9 邊界，因文法句構錯誤密度取 8。"
+  },
+  {
+   "id": "onlineReviews",
+   "title": "網路評論作為決策依據（優缺點＋個人經驗）",
+   "date": "2026-08-09",
+   "score": 8,
+   "prompt": "現代人用餐、旅遊或購物前常透過網路評論（Google、IG 等）決定餐廳、景點或商品。第一段詳述這種做法的優缺點；第二段說明你是否會透過網路評論來做決定，並舉自己或親友的經驗為例。至少 120 字。",
+   "original": "Nowadays, Using 3C product has been a common phenomenon. Every people used to check comments from digital app like Google and IG. These comments will easily effect cosumers to choice viewpoint or restaurant. This phenomenon will introduce more and more famous restaurants and interesting viewpoint to us, let us have a reference, when we have passions to having outdoor adventures. I have only scratched the surface, These comments also can promote must-visit spot for you. In addition, It can be a good tool for you to avoid spots which will trap tourist. Nevertheless, It's inadvantages are visable. It will let many stores been destory by malicious comments, many operater bother this event. Besides, some spots will buy comments, which can help them build a good reputation on social media, This behavior will disrupt us to find worthwhile spots.\nFrom what I remember, I seldom reference comments when I was determining to have an outdoor adventure. From my perspective, These comments are subjective. I don't want these subjective opinion to effect my choice. Every viewpoints have worth place for me. Even though it has a one-star rating. I will still like a famous YouTuber「Coo」to explore the worst place, which having been rating one star from Internat. I think that it will be my unforgetable memory for me, which proof the reality of online reviews.",
+   "corrected": "Nowadays, using electronic devices has become a common phenomenon. Most people are used to checking comments on digital apps such as Google and IG. These comments easily affect how consumers choose an attraction or a restaurant. This phenomenon introduces more and more famous restaurants and interesting attractions to us, giving us a reference when we feel like going on outdoor adventures. What is more, these comments can promote must-visit spots for us. In addition, they can be a good tool for avoiding spots that trap tourists. Nevertheless, their disadvantages are also visible. Malicious comments can destroy many stores, and many operators are bothered by this. Besides, some spots buy comments, which helps them build a good reputation on social media, and this behavior prevents us from finding worthwhile spots.\nFrom what I remember, I seldom refer to comments when I decide to go on an outdoor adventure. From my perspective, these comments are subjective, and I don't want these subjective opinions to affect my choice. Every attraction has something worthwhile for me, even though it may have a one-star rating. Like a famous YouTuber, \"Coo,\" I would still like to explore the worst places, which have been rated one star on the Internet. I think it will become an unforgettable memory for me, one that proves how real online reviews are.",
+   "note": "（本篇由老師自行逐句批改，此處僅記錄整體觀察與統計。）第一段的優缺點鋪陳其實是這批以來組織最好的一段：先講優點（推薦名店、避開陷阱），再用 Nevertheless 轉到缺點（惡意評論、買評論），轉折詞使用正確且分工清楚。第二段是失分處：題目明確要求「舉自己或親友的經驗為例」，他舉的是自己看的 YouTuber，既非自己也非親友，屬於未完整回應題目要求；且第二段長度明顯不足，例子只有一句帶過。\n語言層面錯誤密度極高（約 230 字內 42 處）。最突出的是單複數，單篇 9 處（3C product、Every people、digital app、viewpoint、must-visit spot、tourist、operater、opinion、Every viewpoints），是全數據中單篇最高。句中不當大寫 6 處（Using / These ×2 / It / It's / This）也是單篇最高。\n本篇首度確立「動詞句型／搭配錯誤」為獨立弱點：disrupt us to find（應為 prevent us from finding）、bother this event、effect consumers to choice、like a YouTuber to explore，單篇 4 處。\n另注意「I have only scratched the surface」一句語意突兀，在此處無法成立（該慣用語意為「我只談到皮毛」，與上下文不接），修正稿改為 What is more。此句宜口頭確認他原本想表達什麼。"
   }
  ]
 }
