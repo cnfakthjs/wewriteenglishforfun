@@ -3,184 +3,357 @@
     {
       "cat": "拼字不穩定",
       "desc": "同一個字反覆拼錯：choose 曾出現三種不同錯拼方式；跨篇重複出現的個人記憶點錯字：prasious(precious)、choise(choice)、achivement(achievement)、addvice/addvise",
-      "date": "2026-07-11",
+      "date": "2026-07-05",
       "count": 8,
-      "id": "w0"
+      "id": "w0",
+      "explain": {
+        "rule": "這些是「個人記憶點錯誤」，同一個字反覆拼錯，代表大腦記的是錯誤的拼法。建議做法不是死背，而是用「錯字卡」反覆手寫＋朗讀正確拼法，尤其是自己最常錯的那幾個字。",
+        "examples": [
+          "✗ prasious → ✓ precious（珍貴的）",
+          "✗ choise → ✓ choice（選擇，名詞）",
+          "✗ achivement → ✓ achievement（成就）"
+        ]
+      }
     },
     {
-      "cat": "中式калque",
+      "cat": "中式直譯（Calque）",
       "desc": "although...but 冗贅並用；In my concern/angle 代替 In my opinion",
-      "date": "2026-07-11",
+      "date": "2026-07-05",
       "count": 5,
-      "id": "w1"
+      "id": "w1",
+      "explain": {
+        "rule": "這種錯誤是直接把中文的思考邏輯或搭配方式套進英文，英文母語者不會這樣講。要練習的不是文法，而是「換句話說」的能力——想到中文詞先問自己「英文母語者真的會這樣講嗎」，而不是逐字翻譯。",
+        "examples": [
+          "✗ In my concern / In my angle → ✓ In my opinion（依我看）",
+          "✗ although...but 同時使用 → ✓ 兩個連接詞只能擇一：Although X, Y. 或 X, but Y."
+        ]
+      }
     },
     {
       "cat": "主詞動詞一致性",
       "desc": "如 team have、website appears、every words surround 等",
-      "date": "2026-07-11",
+      "date": "2026-07-05",
       "count": 9,
-      "id": "w2"
+      "id": "w2",
+      "explain": {
+        "rule": "動詞要跟主詞的人稱、單複數一致。單數主詞（he/she/it/單一名詞）動詞加 -s；複數主詞或 I/you/we/they 動詞不加 -s。集合名詞（team, family）通常當單數看待。",
+        "examples": [
+          "✗ The team have a plan. → ✓ The team has a plan.",
+          "✗ Every word surround me. → ✓ Every word surrounds me."
+        ]
+      }
     },
     {
       "cat": "句中不當大寫",
       "desc": "You/Your/If/It/When/Life/The 等字在句中被誤大寫，已確認為系統性錯誤，非單一字詞問題",
-      "date": "2026-07-11",
+      "date": "2026-07-05",
       "count": 10,
       "id": "w3"
     },
     {
       "cat": "時態混用",
       "desc": "敘事段落中過去式與現在式（含 will）混用",
-      "date": "2026-07-11",
+      "date": "2026-07-26",
       "count": 7,
-      "id": "w4"
+      "id": "w4",
+      "explain": {
+        "rule": "描述過去發生的事，整段都要用過去式，不要中途切換回現在式或未來式（will）。可以先確認「這件事是不是已經發生過」，是的話全程用過去式。",
+        "examples": [
+          "✗ When I was young, I will fall asleep in class. → ✓ ...I would fall asleep in class.",
+          "✗ He come back and everyone didn't complain. → ✓ He came back..."
+        ]
+      }
     },
     {
       "cat": "effort 當動詞誤用",
       "desc": "如 everyone effort to do something，已確認為穩定重複錯誤",
       "date": "2026-07-26",
       "count": 3,
-      "id": "w5"
+      "id": "w5",
+      "explain": {
+        "rule": "effort 是名詞（努力，一份心力），不是動詞。「努力做某事」要用 make an effort to V 或直接用動詞 try / work hard。",
+        "examples": [
+          "✗ Everyone effort to run. → ✓ Everyone makes an effort to run.",
+          "✗ I effort to learn English. → ✓ I try hard to learn English."
+        ]
+      }
     },
     {
       "cat": "相似詞混淆",
       "desc": "efficient/effective、progress/process、contract/contrast、interesting/interest、exciting/stimulate 當名詞用；incredible/incredulous（選錯字導致情緒意思說反，非拼字問題）",
       "date": "2026-07-12",
       "count": 7,
-      "id": "w6"
+      "id": "w6",
+      "explain": {
+        "rule": "這些字長得像、意思卻不同，選錯字會讓句意跑掉甚至說反。務必逐一確認每個字真正的意思，不要只憑印象。",
+        "examples": [
+          "progress（進展，過程的推進）vs. process（過程，步驟本身）",
+          "contract（合約；收縮）vs. contrast（對比）",
+          "incredible（令人驚嘆的）vs. incredulous（不敢置信的）——這兩個意思幾乎相反，選錯會讓情緒完全說反"
+        ]
+      }
     },
     {
       "cat": "篇章結構",
       "desc": "客觀描述段落誤植主觀意見",
-      "date": "2026-07-12",
+      "date": "2026-07-05",
       "count": 2,
-      "id": "w7"
+      "id": "w7",
+      "explain": {
+        "rule": "題目通常要求「先客觀描述，再給個人意見」分兩段處理。寫客觀描述段落時，先問自己：這句話是在講圖表/情境本身的內容，還是已經在講「我」的想法？如果太早出現 I think / In my opinion，代表跳段了。",
+        "examples": [
+          "客觀段落應該像：The chart shows that 76.9% of students spend money on making friends.（描述數據）",
+          "而不是一開始就寫：I think making friends is important to me.（提早進入主觀意見）"
+        ]
+      }
     },
     {
       "cat": "its/it's 混淆",
       "desc": "所有格 its 與縮寫 it's 混用",
       "date": "2026-07-12",
       "count": 3,
-      "id": "w8"
+      "id": "w8",
+      "explain": {
+        "rule": "its（無撇號）是所有格，「它的」；it's（有撇號）是 it is 或 it has 的縮寫。判斷方法：把 it's 展開成 it is，唸起來通順就是 it's，不通順就是 its。",
+        "examples": [
+          "✗ its delivery fee is cheap and it's cheap → 應為：its delivery fee is cheap",
+          "✓ It's raining today.（It is raining）",
+          "✓ The dog wagged its tail.（牠的尾巴）"
+        ]
+      }
     },
     {
       "cat": "run-on / 逗號連接句",
       "desc": "多個獨立子句以逗號直接連接，未使用句號或連接詞",
-      "date": "2026-07-11",
+      "date": "2026-07-05",
       "count": 12,
-      "id": "w9"
+      "id": "w9",
+      "explain": {
+        "rule": "兩個各自能獨立成句的子句，不能只用逗號連接（這叫 comma splice）。要嘛用句號分開、用分號、或加連接詞（and, but, because, so...）。",
+        "examples": [
+          "✗ It was raining, we stayed home. → ✓ It was raining, so we stayed home. / It was raining. We stayed home.",
+          "✗ I like it, it is cheap. → ✓ I like it because it is cheap."
+        ]
+      }
     },
     {
       "cat": "worth to V 結構錯誤",
       "desc": "應為 worth + V-ing，如 worth to afford 應為 worth enduring",
-      "date": "2026-07-26",
+      "date": "2026-08-02",
       "count": 2,
-      "id": "w10"
+      "id": "w10",
+      "explain": {
+        "rule": "worth 後面接動詞時，要用動名詞（V-ing），不能用 to V。「值得做某事」= worth V-ing。",
+        "examples": [
+          "✗ It is worth to try. → ✓ It is worth trying.",
+          "✗ worth to afford → ✓ worth enduring"
+        ]
+      }
     },
     {
       "cat": "介係詞搭配",
       "desc": "如 chat to（應為with）、interest to（應為in）、fit to（應為for）、impression to（應為on）",
-      "date": "2026-07-11",
+      "date": "2026-07-05",
       "count": 6,
-      "id": "w11"
+      "id": "w11",
+      "explain": {
+        "rule": "很多動詞、形容詞後面固定搭配特定介係詞，這種是「固定用法」要當作一個整體背，不能用中文邏輯去猜。",
+        "examples": [
+          "chat with someone（不是 chat to）",
+          "fit for someone（不是 fit to）",
+          "interested in something（不是 interested to）"
+        ]
+      }
     },
     {
       "cat": "be動詞遺漏",
       "desc": "如 I still be present、it will hard to、is prepare 等",
-      "date": "2026-07-11",
+      "date": "2026-07-05",
       "count": 8,
-      "id": "w12"
+      "id": "w12",
+      "explain": {
+        "rule": "當句子的動詞是「形容詞」或「Ving/p.p.」時，前面一定要有 be 動詞（am/is/are/was/were）撐住句子，不能省略。",
+        "examples": [
+          "✗ I still be present. → ✓ I am still present.",
+          "✗ It will hard to chat. → ✓ It will be hard to chat."
+        ]
+      }
     },
     {
       "cat": "詞性混淆",
       "desc": "motivate/motive、considering/consideration、efficient/efficiency 等；tolerant/tolerance",
-      "date": "2026-07-26",
+      "date": "2026-07-05",
       "count": 6,
-      "id": "w13"
+      "id": "w13",
+      "explain": {
+        "rule": "同一個字根的名詞、動詞、形容詞長得很像但詞性不同，用錯詞性句子會不通順。填空前先判斷這個空格前後需要的是名詞、動詞還是形容詞。",
+        "examples": [
+          "motive（名詞，動機）vs. motivate（動詞，激勵）",
+          "efficient（形容詞，有效率的）vs. efficiency（名詞，效率）",
+          "tolerant（形容詞，寬容的）vs. tolerance（名詞，寬容）"
+        ]
+      }
     },
     {
       "cat": "關係子句多餘主詞代名詞",
       "desc": "如 that it seem、that it use、which...it，跨三篇出現，2026/08 正式確認",
-      "date": "2026-08-23",
+      "date": "2026-07-12",
       "count": 3,
-      "id": "w14"
+      "id": "w14",
+      "explain": {
+        "rule": "用 that / which / who 開頭的關係子句，句子裡已經包含了主詞的角色，後面不能再重複加一個 it / he 等代名詞。",
+        "examples": [
+          "✗ Yawoo that it use no-contact service → ✓ Yawoo, which uses no-contact service",
+          "✗ the theme, which people will like it → ✓ the theme, which people will like"
+        ]
+      }
     },
     {
       "cat": "最高級誤用",
       "desc": "most X 應為 X-est，如 most clear 應為 clearest、most easy 應為 easiest",
-      "date": "2026-08-23",
+      "date": "2026-07-12",
       "count": 2,
-      "id": "w15"
+      "id": "w15",
+      "explain": {
+        "rule": "形容詞最高級，短的字（1-2音節）字尾加 -est，不要用 most + 原級形容詞（most 只用在較長的字前面）。",
+        "examples": [
+          "✗ most clear → ✓ clearest",
+          "✗ most easy → ✓ easiest",
+          "✓ most beautiful（beautiful較長，用most沒問題）"
+        ]
+      }
     },
     {
       "cat": "不定詞/動名詞不平行",
       "desc": "如 to get and keeping、cutting and decide",
-      "date": "2026-08-23",
+      "date": "2026-07-19",
       "count": 2,
-      "id": "w16"
+      "id": "w16",
+      "explain": {
+        "rule": "當兩個動詞用 and 連接、共用同一個結構時，前後的動詞形式要一致（都是 to V，或都是 V-ing），不能一個 to V 一個 V-ing。",
+        "examples": [
+          "✗ to get new friends and keeping the friendship → ✓ to get new friends and keep the friendship",
+          "✗ cutting video and decide the theme → ✓ cutting video and deciding the theme"
+        ]
+      }
     },
     {
       "cat": "代名詞格位錯誤",
       "desc": "As me recall 應為 As I；make my 應為 make me",
-      "date": "2026-08-23",
+      "date": "2026-07-26",
       "count": 2,
-      "id": "w17"
+      "id": "w17",
+      "explain": {
+        "rule": "代名詞在句子中當主詞要用主格（I, he, she），當受詞或介係詞後面要用受格（me, him, her）。",
+        "examples": [
+          "✗ As me recall → ✓ As I recall",
+          "✗ It will make my not-alone → ✓ It will make me feel not alone"
+        ]
+      }
     },
     {
       "cat": "可數/不可數混淆",
       "desc": "如 many food 應為 much food",
-      "date": "2026-08-23",
+      "date": "2026-08-16",
       "count": 1,
-      "id": "w18"
+      "id": "w18",
+      "explain": {
+        "rule": "不可數名詞（如 food, money, advice）前面不能用 many，要用 much 或 a lot of；也不能加 s 變複數。",
+        "examples": [
+          "✗ many food → ✓ much food / a lot of food",
+          "✗ many advices → ✓ much advice / some advice"
+        ]
+      }
     },
     {
       "cat": "冠詞誤加（抽象/泛指名詞）",
       "desc": "the friendship、the nature 等抽象或泛指名詞前誤加 the",
-      "date": "2026-08-23",
+      "date": "2026-07-19",
       "count": 3,
-      "id": "w19"
+      "id": "w19",
+      "explain": {
+        "rule": "當抽象名詞（friendship, nature, happiness）是泛指、不特定某一個時，前面不加 the。只有在特指「某一種、某一次」的狀況才加 the。",
+        "examples": [
+          "✗ the friendship is important → ✓ friendship is important（泛指友情這個概念）",
+          "✗ trust the nature → ✓ trust nature"
+        ]
+      }
     },
     {
       "cat": "句首該大寫卻用小寫",
       "desc": "與句中誤大寫並存出現，顯示大小寫規則尚未真正掌握，而非單純粗心",
-      "date": "2026-08-23",
+      "date": "2026-07-19",
       "count": 2,
       "id": "w20"
     },
     {
       "cat": "詞彙誤用",
       "desc": "以 measure 代替「設施/活動」一詞，非拼字問題，需口頭直接教正確說法",
-      "date": "2026-08-23",
+      "date": "2026-08-16",
       "count": 3,
-      "id": "w21"
+      "id": "w21",
+      "explain": {
+        "rule": "有些字看起來好像可以用，但實際上不是英語母語者會用的詞，這種不是拼字或文法問題，是選錯字，需要直接記住正確的說法。",
+        "examples": [
+          "✗ amusement measure → ✓ amusement facilities / rides（遊樂設施）",
+          "✗ thrilling measure → ✓ thrilling rides / activities"
+        ]
+      }
     },
     {
       "cat": "反身代名詞遺漏",
       "desc": "slap on my face 應為 slap myself；force me 應為 force myself（新觀察，尚待再次確認）",
       "date": "2026-08-23",
       "count": 2,
-      "id": "w22"
+      "id": "w22",
+      "explain": {
+        "rule": "當動作的對象就是自己時，要用反身代名詞（myself, yourself, himself...），不能只用一般代名詞或介係詞代替。",
+        "examples": [
+          "✗ slap on my face → ✓ slap myself in the face",
+          "✗ force me to stay awake → ✓ force myself to stay awake"
+        ]
+      }
     },
     {
       "cat": "語意不明（待口頭確認）",
       "desc": "多篇皆有結構打結、無法確定原意的句子，依標準不猜測，列出待老師詢問學生",
-      "date": "2026-07-11",
+      "date": "2026-07-05",
       "count": 9,
-      "id": "w23"
+      "id": "w23",
+      "explain": {
+        "rule": "這類句子不是單一文法點的問題，而是整句邏輯、指涉對象或想表達的意思本身不清楚。這種情況建議直接口頭問學生「這句你原本想講什麼」，不要用猜的去改，避免曲解原意。",
+        "examples": [
+          "例如「the peer glance to what when you go to get second round」——結構跟邏輯都需要學生親自澄清才能準確修正"
+        ]
+      }
     },
     {
       "cat": "than/then 同音混淆",
       "desc": "than 與 then 混用，同一篇出現兩次（Back than 應為 Back then；We haven't been touch since than 應為 since then）",
-      "date": "2026-09-08",
+      "date": "2026-08-30",
       "count": 2,
-      "id": "w24"
+      "id": "w24",
+      "explain": {
+        "rule": "than 用在「比較」（than 前後常有比較級形容詞，如 more...than, better than）；then 用在「時間先後」（然後、當時）。唸出來發音不同，但因為長得像常打錯。",
+        "examples": [
+          "✓ Back then, I thought nothing could tear us apart.（那時候）",
+          "✓ He is taller than me.（比…更高）"
+        ]
+      }
     },
     {
       "cat": "代名詞指涉錯誤",
       "desc": "指稱對象前後不一致，如 breaking off his friendship 應為 our friendship（這段友情是雙方的，不是單方的）；同篇也出現 my best friends 與全文單一朋友的敘事對象數量不一致",
-      "date": "2026-09-08",
+      "date": "2026-08-30",
       "count": 1,
-      "id": "w25"
+      "id": "w25",
+      "explain": {
+        "rule": "代名詞（his/her/their/our...）要跟它所指的對象一致。寫之前先確認：這件事情/這段關係是屬於誰的？是單方的還是雙方共有的？",
+        "examples": [
+          "✗ breaking off his friendship（這段友情是雙方的） → ✓ breaking off our friendship",
+          "確認全文的敘事對象是單數還是複數，代名詞要跟著一致"
+        ]
+      }
     }
   ],
   "portfolio": [
