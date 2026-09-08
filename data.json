@@ -4,8 +4,7 @@
    "cat": "拼字不穩定",
    "desc": "同一個字反覆拼錯：choose 曾出現三種不同錯拼方式；跨篇重複出現的個人記憶點錯字：prasious(precious)、choise(choice)、achivement(achievement)、addvice/addvise",
    "date": "2026-07-05",
-   "lastSeen": "2026-09-06",
-   "count": 15,
+   "count": 84,
    "id": "w0",
    "explain": {
     "type": "wordlist",
@@ -21,13 +20,18 @@
       "count": 3
      },
      {
-      "wrong": "manys / meny",
-      "correct": "many",
-      "count": 2
-     },
-     {
       "wrong": "prasious",
       "correct": "precious",
+      "count": 3
+     },
+     {
+      "wrong": "costumer",
+      "correct": "customer",
+      "count": 3
+     },
+     {
+      "wrong": "manys / meny",
+      "correct": "many",
       "count": 2
      },
      {
@@ -43,11 +47,6 @@
      {
       "wrong": "depand",
       "correct": "depend",
-      "count": 2
-     },
-     {
-      "wrong": "costumer",
-      "correct": "customer",
       "count": 2
      },
      {
@@ -327,8 +326,7 @@
    "cat": "中式直譯（Calque）",
    "desc": "although...but 冗贅並用；In my concern/angle 代替 In my opinion；even though...but、Even I am not...but 再次出現（累計 4 次同型）",
    "date": "2026-07-05",
-   "lastSeen": "2026-09-06",
-   "count": 7,
+   "count": 6,
    "id": "w1",
    "explain": {
     "rule": "這種錯誤是直接把中文的思考邏輯或搭配方式套進英文，英文母語者不會這樣講。要練習的不是文法，而是「換句話說」的能力——想到中文詞先問自己「英文母語者真的會這樣講嗎」，而不是逐字翻譯。",
@@ -342,8 +340,7 @@
    "cat": "主詞動詞一致性",
    "desc": "如 team have、website appears、every words surround 等",
    "date": "2026-07-05",
-   "lastSeen": "2026-09-06",
-   "count": 12,
+   "count": 23,
    "id": "w2",
    "explain": {
     "rule": "動詞要跟主詞的人稱、單複數一致。單數主詞（he/she/it/單一名詞）動詞加 -s；複數主詞或 I/you/we/they 動詞不加 -s。集合名詞（team, family）通常當單數看待。",
@@ -357,16 +354,14 @@
    "cat": "句中不當大寫",
    "desc": "You/Your/If/It/When/Life/The 等字在句中被誤大寫，已確認為系統性錯誤，非單一字詞問題；本篇 If、Even 各一次",
    "date": "2026-07-05",
-   "lastSeen": "2026-09-06",
-   "count": 12,
+   "count": 18,
    "id": "w3"
   },
   {
    "cat": "時態混用",
    "desc": "敘事段落中過去式與現在式（含 will）混用",
    "date": "2026-07-26",
-   "lastSeen": "2026-09-06",
-   "count": 9,
+   "count": 19,
    "id": "w4",
    "explain": {
     "rule": "描述過去發生的事，整段都要用過去式，不要中途切換回現在式或未來式（will）。可以先確認「這件事是不是已經發生過」，是的話全程用過去式。",
@@ -380,7 +375,6 @@
    "cat": "effort 當動詞誤用",
    "desc": "如 everyone effort to do something，已確認為穩定重複錯誤",
    "date": "2026-07-26",
-   "lastSeen": "2026-07-26",
    "count": 3,
    "id": "w5",
    "explain": {
@@ -395,8 +389,7 @@
    "cat": "相似詞混淆",
    "desc": "efficient/effective、progress/process、contract/contrast、interesting/interest、exciting/stimulate 當名詞用；incredible/incredulous（選錯字導致情緒意思說反，非拼字問題）",
    "date": "2026-07-12",
-   "lastSeen": "2026-07-12",
-   "count": 7,
+   "count": 6,
    "id": "w6",
    "explain": {
     "type": "wordlist",
@@ -438,7 +431,6 @@
    "cat": "篇章結構",
    "desc": "客觀描述段落誤植主觀意見；2026-09-06 為更嚴重的變體：圖片描述段完全未描述圖片，改用「如果你走進寵物友善餐廳會看到…」的假設通則替代。場景判讀（寵物友善餐廳）本身合理且題目允許，問題在於未從圖中具體人事物推得該判讀",
    "date": "2026-07-05",
-   "lastSeen": "2026-09-06",
    "count": 3,
    "id": "w7",
    "explain": {
@@ -453,8 +445,7 @@
    "cat": "its/it's 混淆",
    "desc": "所有格 its 與縮寫 it's 混用",
    "date": "2026-07-12",
-   "lastSeen": "2026-07-12",
-   "count": 3,
+   "count": 2,
    "id": "w8",
    "explain": {
     "rule": "its（無撇號）是所有格，「它的」；it's（有撇號）是 it is 或 it has 的縮寫。判斷方法：把 it's 展開成 it is，唸起來通順就是 it's，不通順就是 its。",
@@ -469,8 +460,7 @@
    "cat": "run-on / 逗號連接句",
    "desc": "多個獨立子句以逗號直接連接，未使用句號或連接詞（如 When I go to a restaurant I just want to eat..., I don't have any patience...）",
    "date": "2026-07-05",
-   "lastSeen": "2026-09-06",
-   "count": 13,
+   "count": 14,
    "id": "w9",
    "explain": {
     "rule": "兩個各自能獨立成句的子句，不能只用逗號連接（這叫 comma splice）。要嘛用句號分開、用分號、或加連接詞（and, but, because, so...）。",
@@ -484,8 +474,7 @@
    "cat": "worth to V 結構錯誤",
    "desc": "應為 worth + V-ing，如 worth to afford 應為 worth enduring",
    "date": "2026-08-02",
-   "lastSeen": "2026-08-02",
-   "count": 2,
+   "count": 1,
    "id": "w10",
    "explain": {
     "rule": "worth 後面接動詞時，要用動名詞（V-ing），不能用 to V。「值得做某事」= worth V-ing。",
@@ -499,8 +488,7 @@
    "cat": "介係詞搭配",
    "desc": "如 chat to（應為with）、interest to（應為in）、fit to（應為for）、impression to（應為on）、on a restaurant（應為 in/at）",
    "date": "2026-07-05",
-   "lastSeen": "2026-09-06",
-   "count": 7,
+   "count": 13,
    "id": "w11",
    "explain": {
     "rule": "很多動詞、形容詞後面固定搭配特定介係詞，這種是「固定用法」要當作一個整體背，不能用中文邏輯去猜。",
@@ -515,8 +503,7 @@
    "cat": "be動詞遺漏",
    "desc": "如 I still be present、it will hard to、is prepare 等",
    "date": "2026-07-05",
-   "lastSeen": "2026-07-05",
-   "count": 8,
+   "count": 15,
    "id": "w12",
    "explain": {
     "rule": "當句子的動詞是「形容詞」或「Ving/p.p.」時，前面一定要有 be 動詞（am/is/are/was/were）撐住句子，不能省略。",
@@ -530,8 +517,7 @@
    "cat": "詞性混淆",
    "desc": "motivate/motive、considering/consideration、efficient/efficiency 等；tolerant/tolerance",
    "date": "2026-07-05",
-   "lastSeen": "2026-09-06",
-   "count": 7,
+   "count": 16,
    "id": "w13",
    "explain": {
     "type": "wordlist",
@@ -573,8 +559,7 @@
    "cat": "關係子句多餘主詞代名詞",
    "desc": "如 that it seem、that it use、which...it，跨三篇出現，2026/08 正式確認",
    "date": "2026-07-12",
-   "lastSeen": "2026-07-12",
-   "count": 3,
+   "count": 4,
    "id": "w14",
    "explain": {
     "rule": "用 that / which / who 開頭的關係子句，句子裡已經包含了主詞的角色，後面不能再重複加一個 it / he 等代名詞。",
@@ -588,8 +573,7 @@
    "cat": "最高級誤用",
    "desc": "most X 應為 X-est，如 most clear 應為 clearest、most easy 應為 easiest",
    "date": "2026-07-12",
-   "lastSeen": "2026-07-12",
-   "count": 2,
+   "count": 3,
    "id": "w15",
    "explain": {
     "rule": "形容詞最高級的判斷依「音節數」：1-2 音節的字，字尾直接加 -est；3 音節（含）以上的字，前面加 most，不能加 -est。",
@@ -604,8 +588,7 @@
    "cat": "不定詞/動名詞不平行",
    "desc": "如 to get and keeping、cutting and decide",
    "date": "2026-07-19",
-   "lastSeen": "2026-07-19",
-   "count": 2,
+   "count": 5,
    "id": "w16",
    "explain": {
     "rule": "當兩個動詞用 and 連接、共用同一個結構時，前後的動詞形式要一致（都是 to V，或都是 V-ing），不能一個 to V 一個 V-ing。",
@@ -619,8 +602,7 @@
    "cat": "代名詞格位錯誤",
    "desc": "As me recall 應為 As I；make my 應為 make me",
    "date": "2026-07-26",
-   "lastSeen": "2026-07-26",
-   "count": 2,
+   "count": 3,
    "id": "w17",
    "explain": {
     "rule": "代名詞在句子中當主詞要用主格（I, he, she），當受詞或介係詞後面要用受格（me, him, her）。",
@@ -634,7 +616,6 @@
    "cat": "可數/不可數混淆",
    "desc": "如 many food 應為 much food",
    "date": "2026-08-16",
-   "lastSeen": "2026-08-16",
    "count": 1,
    "id": "w18",
    "explain": {
@@ -649,8 +630,7 @@
    "cat": "冠詞誤加（抽象/泛指名詞）",
    "desc": "the friendship、the nature 等抽象或泛指名詞前誤加 the",
    "date": "2026-07-19",
-   "lastSeen": "2026-07-19",
-   "count": 3,
+   "count": 7,
    "id": "w19",
    "explain": {
     "rule": "當抽象名詞（friendship, nature, happiness）是泛指、不特定某一個時，前面不加 the。只有在特指「某一種、某一次」的狀況才加 the。",
@@ -664,16 +644,14 @@
    "cat": "句首該大寫卻用小寫",
    "desc": "與句中誤大寫並存出現，顯示大小寫規則尚未真正掌握，而非單純粗心",
    "date": "2026-07-19",
-   "lastSeen": "2026-07-19",
-   "count": 2,
+   "count": 3,
    "id": "w20"
   },
   {
    "cat": "詞彙誤用",
    "desc": "以 measure 代替「設施/活動」一詞，非拼字問題，需口頭直接教正確說法；pet-setting（疑為 pet seating / pet-sitting）、discrease negative review to people 語意不成立",
    "date": "2026-08-16",
-   "lastSeen": "2026-09-06",
-   "count": 5,
+   "count": 19,
    "id": "w21",
    "explain": {
     "rule": "有些字看起來好像可以用，但實際上不是英語母語者會用的詞，這種不是拼字或文法問題，是選錯字，需要直接記住正確的說法。",
@@ -687,7 +665,6 @@
    "cat": "反身代名詞遺漏",
    "desc": "slap on my face 應為 slap myself；force me 應為 force myself（新觀察，尚待再次確認）；themself 應為 themselves（形式錯誤）",
    "date": "2026-08-23",
-   "lastSeen": "2026-09-06",
    "count": 3,
    "id": "w22",
    "explain": {
@@ -702,8 +679,7 @@
    "cat": "語意不明（待口頭確認）",
    "desc": "多篇皆有結構打結、無法確定原意的句子，依標準不猜測，列出待老師詢問學生",
    "date": "2026-07-05",
-   "lastSeen": "2026-09-06",
-   "count": 11,
+   "count": 33,
    "id": "w23",
    "explain": {
     "rule": "這類句子不是單一文法點的問題，而是整句邏輯、指涉對象或想表達的意思本身不清楚。這種情況建議直接口頭問學生「這句你原本想講什麼」，不要用猜的去改，避免曲解原意。",
@@ -716,7 +692,6 @@
    "cat": "than/then 同音混淆",
    "desc": "than 與 then 混用，同一篇出現兩次（Back than 應為 Back then；We haven't been touch since than 應為 since then）",
    "date": "2026-08-30",
-   "lastSeen": "2026-08-30",
    "count": 2,
    "id": "w24",
    "explain": {
@@ -731,8 +706,7 @@
    "cat": "代名詞指涉錯誤",
    "desc": "指稱對象前後不一致，如 breaking off his friendship 應為 our friendship（這段友情是雙方的，不是單方的）；同篇也出現 my best friends 與全文單一朋友的敘事對象數量不一致",
    "date": "2026-08-30",
-   "lastSeen": "2026-08-30",
-   "count": 1,
+   "count": 2,
    "id": "w25",
    "explain": {
     "rule": "代名詞（his/her/their/our...）要跟它所指的對象一致。寫之前先確認：這件事情/這段關係是屬於誰的？是單方的還是雙方共有的？",
@@ -743,33 +717,34 @@
    }
   },
   {
-   "cat": "複數 -s 遺漏",
-   "desc": "可數名詞在明確為複數的語境仍用單數：many accident、those incident、negative review、uncontrable condition",
+   "cat": "單複數形式錯誤",
+   "desc": "可數名詞的單複數形式錯誤，遺漏與誤加都有：many accident、Every words、one of my biggest regret（該複數卻單數）；peoples、manys、others people、Social medias、On the other hands（不該複數卻加 s）",
    "date": "2026-09-06",
-   "lastSeen": "2026-09-06",
-   "count": 4,
+   "count": 33,
    "id": "w26",
    "explain": {
-    "rule": "英文可數名詞只要不是「一個」，字尾就必須加 -s，這是強制的，不能靠上下文省略。特別注意 many / those / a lot of / several 後面一定接複數。",
+    "rule": "兩個方向的錯誤同時存在，代表他不是「忘記加 s」，而是沒有在下筆時判斷這個名詞此刻是幾個。規則本身很簡單：可數名詞不是一個就加 s；many/those/several/one of 後面一定複數；people 本身已是複數不再加 s。難的是養成每寫一個名詞就順手判斷數量的習慣。",
     "examples": [
      "✗ many accident → ✓ many accidents",
-     "✗ those incident → ✓ those incidents",
-     "✗ reduce negative review → ✓ reduce negative reviews"
+     "✗ one of my biggest regret → ✓ one of my biggest regrets",
+     "✗ arrange right peoples → ✓ arrange the right people（people 已是複數）",
+     "✗ On the other hands → ✓ On the other hand"
     ]
    }
   },
   {
-   "cat": "助動詞後動詞形式錯誤（will been）",
-   "desc": "will been 出現兩次，應為 will be；顯示 be 動詞的三態（be / was / been）與助動詞的搭配規則不穩",
+   "cat": "動詞形式錯誤（助動詞／不定詞後）",
+   "desc": "助動詞或 to 後面沒有接原形：will been（×2）、to got a progress、to having transform、would listened、was lay on the bed、when was fall in love",
    "date": "2026-09-06",
-   "lastSeen": "2026-09-06",
-   "count": 2,
+   "count": 8,
    "id": "w27",
    "explain": {
-    "rule": "will / can / should 等情態助動詞後面一律接動詞原形，be 動詞的原形是 be。been 只能跟在 have/has/had 後面（have been），或被動的 has been done。",
+    "rule": "will/can/would 等助動詞後面、以及 to 後面，一律接動詞原形，沒有例外。been 只能跟在 have/has/had 之後。這類錯誤多半發生在他想表達比較複雜的時態時，越想用力越容易亂。",
     "examples": [
      "✗ that will been a disaster → ✓ that will be a disaster",
-     "✓ It has been a disaster.（完成式才用 been）"
+     "✗ It's a good way to got a progress → ✓ ...to get through the process",
+     "✗ I would patiently listened → ✓ I would patiently listen",
+     "✗ when I was lay on the bed → ✓ when I was lying on the bed"
     ]
    }
   },
@@ -777,8 +752,7 @@
    "cat": "冠詞遺漏（單數可數名詞）",
    "desc": "單數可數名詞前少了 a/an/the：I am not pets hater、go to the restaurant（泛指應為 a restaurant）、see the sight like this picture",
    "date": "2026-09-06",
-   "lastSeen": "2026-09-06",
-   "count": 3,
+   "count": 6,
    "id": "w28",
    "explain": {
     "rule": "單數可數名詞前面「一定」要有限定詞（a/an/the/my/this…），沒有例外。泛指某一類事物時用 a/an，不是零冠詞。這點與先前的「冠詞誤加」剛好相反，代表冠詞系統整體尚未建立。",
@@ -792,8 +766,7 @@
    "cat": "附屬子句片段（主要子句遺漏）",
    "desc": "以 If / Because / Even though 等附屬連接詞開頭的子句被當成完整句子、後面直接句號，主要子句遺漏或被切到下一句。跨三篇出現：7/26「If your team have peoples who is lazy...」、8/30「Even though it can't come ture.」、9/06「But if the restaurant can set a space...」與「Because it can effectively attract...」",
    "date": "2026-09-06",
-   "lastSeen": "2026-09-06",
-   "count": 4,
+   "count": 6,
    "id": "w29",
    "explain": {
     "rule": "與 run-on 方向相反：run-on 是「該斷不斷」，這個是「不該斷卻斷」。成因是中文的「如果…」「因為…」「雖然…」單獨講出來可以自成一句（例：「因為它可以吸引愛動物的人啊」），英文不行——附屬子句永遠只是半句，必須與主要子句同處一個句子內。9/06 的例子顯示他其實想得到主要子句（就在下一句 I think that will be a win-win solution），只是提早點了句號，代表問題在斷句直覺而非造句能力。建議機械式練習：給 10 個 If / Because / Even though 開頭的半句，只要求補完後半。",
