@@ -1,0 +1,254 @@
+{
+  "weak": [
+    {
+      "cat": "拼字不穩定",
+      "desc": "同一個字反覆拼錯：choose 曾出現三種不同錯拼方式；跨篇重複出現的個人記憶點錯字：prasious(precious)、choise(choice)、achivement(achievement)、addvice/addvise",
+      "date": "2026-07-11",
+      "count": 8,
+      "id": "w0"
+    },
+    {
+      "cat": "中式калque",
+      "desc": "although...but 冗贅並用；In my concern/angle 代替 In my opinion",
+      "date": "2026-07-11",
+      "count": 5,
+      "id": "w1"
+    },
+    {
+      "cat": "主詞動詞一致性",
+      "desc": "如 team have、website appears、every words surround 等",
+      "date": "2026-07-11",
+      "count": 9,
+      "id": "w2"
+    },
+    {
+      "cat": "句中不當大寫",
+      "desc": "You/Your/If/It/When/Life/The 等字在句中被誤大寫，已確認為系統性錯誤，非單一字詞問題",
+      "date": "2026-07-11",
+      "count": 10,
+      "id": "w3"
+    },
+    {
+      "cat": "時態混用",
+      "desc": "敘事段落中過去式與現在式（含 will）混用",
+      "date": "2026-07-11",
+      "count": 7,
+      "id": "w4"
+    },
+    {
+      "cat": "effort 當動詞誤用",
+      "desc": "如 everyone effort to do something，已確認為穩定重複錯誤",
+      "date": "2026-07-26",
+      "count": 3,
+      "id": "w5"
+    },
+    {
+      "cat": "相似詞混淆",
+      "desc": "efficient/effective、progress/process、contract/contrast、interesting/interest、exciting/stimulate 當名詞用",
+      "date": "2026-07-12",
+      "count": 6,
+      "id": "w6"
+    },
+    {
+      "cat": "篇章結構",
+      "desc": "客觀描述段落誤植主觀意見",
+      "date": "2026-07-12",
+      "count": 2,
+      "id": "w7"
+    },
+    {
+      "cat": "its/it's 混淆",
+      "desc": "所有格 its 與縮寫 it's 混用",
+      "date": "2026-07-12",
+      "count": 3,
+      "id": "w8"
+    },
+    {
+      "cat": "run-on / 逗號連接句",
+      "desc": "多個獨立子句以逗號直接連接，未使用句號或連接詞",
+      "date": "2026-07-11",
+      "count": 12,
+      "id": "w9"
+    },
+    {
+      "cat": "worth to V 結構錯誤",
+      "desc": "應為 worth + V-ing，如 worth to afford 應為 worth enduring",
+      "date": "2026-07-26",
+      "count": 2,
+      "id": "w10"
+    },
+    {
+      "cat": "介係詞搭配",
+      "desc": "如 chat to（應為with）、interest to（應為in）、fit to（應為for）、impression to（應為on）",
+      "date": "2026-07-11",
+      "count": 6,
+      "id": "w11"
+    },
+    {
+      "cat": "be動詞遺漏",
+      "desc": "如 I still be present、it will hard to、is prepare 等",
+      "date": "2026-07-11",
+      "count": 8,
+      "id": "w12"
+    },
+    {
+      "cat": "詞性混淆",
+      "desc": "motivate/motive、considering/consideration、efficient/efficiency 等",
+      "date": "2026-07-26",
+      "count": 5,
+      "id": "w13"
+    },
+    {
+      "cat": "關係子句多餘主詞代名詞",
+      "desc": "如 that it seem、that it use、which...it，跨三篇出現，2026/08 正式確認",
+      "date": "2026-08-23",
+      "count": 3,
+      "id": "w14"
+    },
+    {
+      "cat": "最高級誤用",
+      "desc": "most X 應為 X-est，如 most clear 應為 clearest、most easy 應為 easiest",
+      "date": "2026-08-23",
+      "count": 2,
+      "id": "w15"
+    },
+    {
+      "cat": "不定詞/動名詞不平行",
+      "desc": "如 to get and keeping、cutting and decide",
+      "date": "2026-08-23",
+      "count": 2,
+      "id": "w16"
+    },
+    {
+      "cat": "代名詞格位錯誤",
+      "desc": "As me recall 應為 As I；make my 應為 make me",
+      "date": "2026-08-23",
+      "count": 2,
+      "id": "w17"
+    },
+    {
+      "cat": "可數/不可數混淆",
+      "desc": "如 many food 應為 much food",
+      "date": "2026-08-23",
+      "count": 1,
+      "id": "w18"
+    },
+    {
+      "cat": "冠詞誤加（抽象/泛指名詞）",
+      "desc": "the friendship、the nature 等抽象或泛指名詞前誤加 the",
+      "date": "2026-08-23",
+      "count": 3,
+      "id": "w19"
+    },
+    {
+      "cat": "句首該大寫卻用小寫",
+      "desc": "與句中誤大寫並存出現，顯示大小寫規則尚未真正掌握，而非單純粗心",
+      "date": "2026-08-23",
+      "count": 2,
+      "id": "w20"
+    },
+    {
+      "cat": "詞彙誤用",
+      "desc": "以 measure 代替「設施/活動」一詞，非拼字問題，需口頭直接教正確說法",
+      "date": "2026-08-23",
+      "count": 3,
+      "id": "w21"
+    },
+    {
+      "cat": "反身代名詞遺漏",
+      "desc": "slap on my face 應為 slap myself；force me 應為 force myself（新觀察，尚待再次確認）",
+      "date": "2026-08-23",
+      "count": 2,
+      "id": "w22"
+    },
+    {
+      "cat": "語意不明（待口頭確認）",
+      "desc": "多篇皆有結構打結、無法確定原意的句子，依標準不猜測，列出待老師詢問學生",
+      "date": "2026-07-11",
+      "count": 9,
+      "id": "w23"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "foodDelivery",
+      "title": "食物外送平台比較（UBirds / Yawoo / Foodbear）",
+      "date": "2026-07-12",
+      "score": 8,
+      "prompt": "依表格描述三個食物外送平台特色，並說明自己是否會使用、會選哪個平臺及原因。",
+      "original": "After the Covid 19 trend, more and more food delivery services website appears like a gress. In these picture, these website are using own wan to survice in delivery war. For example, the UBird's feture is they have wide goods and spend 100$ geting the delivery fee free these two ways can attract students or others people who don't have much budget. Another is Yawoo that it use the way is the no contact service and specialtic times make delivery fee free. I think the not touch services can be the attractive way to appeal the people who easily feel shy in the communication, but the specialtic times make delivery fee free is not the best way to draw peoples who will become the regular visitor even if it's delivery fee just cost $24. The last one is Food bear it is the website that it has the most clear intention for the high spend costumers. The Foodbear coolabrate with the high rate restaurant and it's delivery fee is the most expensive in these three delivery website.\nFor me, I won't use the food delivery website because I enjoy that exploring in the street find some new restaurants. In this progress, although I will trapped by some dishes that not taste good, I still be present when I find treasure restaurants. It is a sence of achivement, like a pirate find the treasure. However, if I want to be a couch potato, I will use food delivery services, and I wil choose the UBirds because I am not a rich man.",
+      "corrected": "After the Covid-19 trend, more and more food delivery service websites have appeared like grass. In this picture, these websites are using their own way to survive in the delivery war. For example, UBird's feature is that they have a wide range of goods and offer free delivery when you spend $100 — these two ways can attract students or other people who don't have much budget. Another is Yawoo, which uses no-contact delivery and offers free delivery during specific hours. I think the no-contact service can be an attractive way to appeal to people who easily feel shy in communication, but the specific-hour free delivery is not the best way to draw people who will become regular visitors, even though its delivery fee only costs $24. The last one is Foodbear, which has the clearest intention of targeting high-spending customers. Foodbear collaborates with high-end restaurants, and its delivery fee is the most expensive among these three delivery websites.\nFor me, I won't use food delivery websites because I enjoy exploring the streets to find new restaurants. In this process, although I will be disappointed by some dishes that don't taste good, 〔語意待確認：I am still present when I find treasure restaurants〕. It is a sense of achievement, like a pirate finding treasure. However, if I want to be a couch potato, I will use food delivery services, and I will choose UBirds because I am not a rich man.",
+      "note": "its/it's 混淆兩次；progress/process 混淆；關係子句多餘代名詞（that it use / that it has）首次觀察到的雛形；最高級 most clear 應為 clearest。"
+    },
+    {
+      "id": "pocketMoney",
+      "title": "日本高中生零用錢用途",
+      "date": "2026-07-26",
+      "score": 6,
+      "prompt": "依圖表描述日本高中生零用錢用途現象，並以自己為例說明零用錢使用方式及與圖表之異同。",
+      "original": "In this picture, Most of the pocket money is used to getting friends or having fun on their own interest. In this 3C era, Social medias are common, so getting new friends is not the difficult ivent nowadays. Along with the number of friends increase, the cost will increase, too. On the other hands, numbers of friends increasing will let pocket money spend on interest and trend, In my opinion, most of my friends are have the same interest with me, so we can get a conversation. If the interest is the electricity with friends, the trend of meme is the grease in the conversation to strangers. For the meme is common in the world, if strangers have seen this meme before you can talk about this famous meme with others. You won't be embrassed. and Make up can give strangers a good impression to other, it will increase the rate of getting friends. so the cost of these things are necessary. The cost from thos things is unexpected.\nIn my angle, my pocket money cost tablet maybe will similar like this picture. But the different on it is that savings rate will be higher than the snack and interest. Maybe it is the feture of Taiwanese, The adult will always let us to save money in the bank, include pocket money, lucky money and so forth. But the inchange thing is I will spend much money to get the new friends and keeping the friendship. Regardless of what era you are, the friendship is still the important thing.",
+      "corrected": "In this picture, most of the pocket money is used to get friends or to have fun based on their own interests. In this 3C era, social media is common, so getting new friends is not a difficult thing nowadays. Along with the increasing number of friends, the cost will increase too. On the other hand, an increasing number of friends will let pocket money be spent on interests and trends. In my opinion, most of my friends have the same interests as me, so we can have a conversation. If the interest is the electricity between friends, the trend of memes is the grease in conversations with strangers. Since memes are common in the world, if strangers have seen a meme before, you can talk about this famous meme with others. You won't be embarrassed. Also, makeup can give strangers a good impression, and it will increase the chance of making friends. So the cost of these things is necessary. The cost of those things is unexpected.\nIn my opinion, my pocket money spending might be similar to this picture. But the difference is that my savings rate will be higher than the snack and interest categories. Maybe it is a feature of Taiwanese culture — adults always let us save money in the bank, including pocket money, lucky money, and so forth. But the unchanged thing is that I will spend a lot of money to make new friends and keep the friendship. Regardless of what era you are in, friendship is still an important thing.",
+      "note": "句首該大寫卻用小寫（and Make up / so the cost）與句中誤大寫（Social, The, Make）並存；In my angle 代替 In my opinion；不定詞/動名詞不平行（to get...and keeping）；抽象名詞前冠詞誤加（the friendship）。"
+    },
+    {
+      "id": "teamwork",
+      "title": "分工合作與校運會接力賽",
+      "date": "2026-07-26",
+      "score": 10,
+      "prompt": "說明分工合作的好處（或壞處），並舉自己或他人團體合作的經驗支持看法。",
+      "original": "Nowadays, having team-work ability has been the neccesary thing, not only working in workplaces, but also studying in the school. Cooperating with others can arrange right peoples to right ways. It can effectively increase efficient. And It's the good way to got a progress. When You converse about shortcoming in the team conversation, Your classmate or colleague will give the objective addvice to you. Therefore, You can notice your own weakness, and you can improve it with specific addvise. However, these all things are based on that you have good cooperators. If your team have peoples who is lazy or not effort. It will cause others teamate must handle their work, and that will waste the time, which you depand cooperation to save. As a result, it even have better working in ownself.\nAs me recall, It's the school sports day. Every one is prepare to exhibit sports ability in this day. And the most popular thing is relay race, every one effort to run one the way. Suddenlly, our class runner is trumble. Everyone is care about his condition, but he still finish the race. When he come back, everyone didn't complain. Everyone encourage others teamates, and give some addvise, which can boost the speed. At the end, even if we don't have a good grade, but I saw the best race team in the world. As the saying goes \"Teamwork is the most powerful energy in this world\", I eventually understand until that day, because when I saw that everyone effort to do something, I will have the endless power exploring my body.",
+      "corrected": "Nowadays, having teamwork ability has become a necessary thing, not only for working in workplaces but also for studying in school. Cooperating with others can assign the right people to the right roles. It can effectively increase efficiency, and it's a good way to make progress. When you talk about your shortcomings in a team discussion, your classmates or colleagues will give you objective advice. Therefore, you can notice your own weaknesses and improve them with specific advice. However, all these things are based on the fact that you have good cooperators. If your team has people who are lazy or not hardworking, it will cause other teammates to handle their work, which will waste the time that cooperation was meant to save. As a result, it is even better to work by yourself.\nAs I recall, it was the school sports day. Everyone was preparing to show their sports ability that day, and the most popular event was the relay race — everyone made an effort to run all the way. Suddenly, our class runner stumbled. Everyone cared about his condition, but he still finished the race. When he came back, no one complained. Everyone encouraged their teammates and gave advice that could boost their speed. In the end, even though we didn't get a good grade, I saw the best race team in the world. As the saying goes, \"Teamwork is the most powerful energy in this world.\" I finally understood this on that day, because when I saw everyone making an effort to do something, I had endless power exploding inside me.",
+      "note": "You/Your 句中大寫三次；effort 當動詞三次；addvice/addvise 拼字混用三次；although/even if...but 冗贅；if 子句句號斷句造成片段；代名詞格位錯誤 As me recall。內容敘事生動，是這批裡content分數最高的一篇。"
+    },
+    {
+      "id": "youtuber",
+      "title": "成為 YouTuber",
+      "date": "2026-08-02",
+      "score": 9,
+      "prompt": "描述圖片中 YouTuber 在做的事情及可能原因；說明若自己成為 YouTuber 會做什麼內容及目標。",
+      "original": "Nowadays, Youtuber has been a populer dream to many teenagers in this erea. For example, the man in this picture is introducing the food under the photography, and many eyephones surround him. Maybe he just trying to practice the expression and draft before he started to make a photography. Either he just a online gaming Youtuber, and suddenly introduce the goods from advertiser. Anyway, I think that he will start to become a Youtuber, it must based on mess of interesting and passion for whatever he is doing under the photography. Even if cutting video and decide the theme, which people will like it, are the boring prossess in the way of being Youtuber. However, watching the increasing of likes and subscribes, the achivement will be the power surge in his body.\nIf I can be the particapant of this field, I think that I will be an online player because playing games with others, which not only acquire pleasant, but also earn money. It sound very amazing and chill. If I have unnecessary time, I will try to shoot a vlog to my daily life, or record meanaful moment. Everything discussed above, I hope audiences can acquire a simle after seeing my video, or it could be a light to someone's depression. Maybe it will have some bad comment to me or my video, but If my video can make happy to others, It will be worth to afford troll's comment and attack.",
+      "corrected": "Nowadays, being a Youtuber has become a popular dream for many teenagers in this era. For example, the man in this picture is introducing food in front of the camera, and 〔語意待確認：many eyephones surround him〕. Maybe he is just trying to practice his expressions and script before he starts filming. Or he is just an online gaming Youtuber who suddenly introduces goods from an advertiser. Anyway, I think that if he decides to become a Youtuber, it must be based on a mix of interest and passion for whatever he is doing on camera. Even cutting videos and deciding on themes that people will like are boring processes on the way to being a Youtuber. However, watching the increase in likes and subscribers, the sense of achievement will feel like a surge of power in his body.\nIf I could be a participant in this field, I think I would be an online gaming player because playing games with others not only brings pleasure but also earns money. It sounds very amazing and relaxing. If I have spare time, I will try to shoot a vlog about my daily life or record meaningful moments. Overall, I hope audiences can get a smile after seeing my video, or that it could be a light for someone's depression. Maybe there will be some bad comments about me or my video, but if my video can make others happy, it will be worth enduring trolls' comments and attacks.",
+      "note": "worth to afford 應為 worth enduring；cutting/decide 不平行；which...it 關係子句多餘代名詞；achivement 拼字與外送平台那篇同一字再度拼錯，跨篇確認。"
+    },
+    {
+      "id": "regret",
+      "title": "人生最大的遺憾（Regret 四分類）",
+      "date": "2026-08-23",
+      "score": 6,
+      "prompt": "依 Daniel H. Pink《The Power of Regret》四種遺憾分類，寫出自己最深的遺憾及背景前因後果；第二段說明重來一次會怎麼做。",
+      "original": "Looking back, many regret full of my life. If you ask me, what is the biggest regret in my life? I think that it would be not hardworking enough in English. When I was junior high schooll student, I will fall asleep in English classes because I thought that English was a boring and useless in the future. Although English teacher always emphasize English was important, I feel anxious about these stable expression. Until I graduade in senior high school, I realized how this suject important is. With words rate of difficult rising, I can;t even read the question in the exam. Every words like birds surround my messy brain. In addition, When I looking about aanything, which relate to English, I will feel sleepy and lazy. These pravious habit always effect my study efficient. Those bad hobits spend my prasious studying time to having transform.\nIf I can return to the past, I would slap on my face and force me to stay awake. What's more, I will bring my interesting way, which I use in the future, to effectively change my bad perception about Englishs word just depend on: craming to remenber. However, Life didn't have regert medicine, I just trying to be better on my way.",
+      "corrected": "〔第1句語意待確認〕Looking back, my life is full of regrets. If you ask me, what is the biggest regret in my life? I think it would be that I was not hardworking enough in English. When I was a junior high school student, I would fall asleep in English classes because I thought that English would be boring and useless in the future. Although the English teacher always emphasized English was important, I felt anxious about 〔語意待確認：these stable expressions〕. Until I graduated in senior high school, I realized how important this subject was. As 〔語意待確認：words rate of difficult〕 rose, I couldn't even read the questions in the exam. Every word surrounded my messy brain like birds. In addition, when I looked at anything related to English, I would feel sleepy and lazy. These previous habits always affected my study efficiency. 〔語意待確認：Those bad habits spent my precious studying time to having transform.〕\nIf I could return to the past, I would slap myself in the face and force myself to stay awake. What's more, I would bring 〔語意待確認：my interesting way, which I use in the future〕 to effectively change my bad perception about English words, which just depended on cramming to remember. However, life doesn't have regret medicine; I am just trying to be better in my own way.",
+      "note": "拼字問題本批最密集（10處以上）；反身代名詞遺漏首次觀察（slap myself / force myself）；四處語意不明待向學生確認。原始批改日期以今天登錄。"
+    },
+    {
+      "id": "banquet",
+      "title": "聚餐用餐方式：合菜 vs 吃到飽",
+      "date": "2026-08-23",
+      "score": 7,
+      "prompt": "以「聚會用餐」為主題，描述10人合菜與吃到飽自助餐兩種用餐方式各有何特色，並說明自己聚餐時比較喜歡哪一種。",
+      "original": "In Taiwan, manys people will choose a 10-course banquet, because the meal is more splendid and cheaper, although an all-you-can-eat buffet has various dishes, but guests will walk often. It will hard to chat to others. For me, I think I will choose a 10-course banquest, The mayor motivate is when I engage in a friend gathering or others. It means I want to get new friends or to listen something intresting things from my friends. In my concern, the all-you-can-eat buffet is the worse choice for gathering because the eating time pressure and the peer glance to what when you go to get second round, it is the reason that I don't like to choise the all-you-can-eat buffet. However, if the reunion don't have madam and under the four people, I think the all-you-can-eat buffet will be the best choise. In conclusion, I think two type of reunion has each advantage and disadvantage, it according to the gathering's people and the gender of visiters. But the priority considering is how know well to each other.",
+      "corrected": "In Taiwan, many people choose a 10-course banquet because the meal is more splendid and cheaper. Although an all-you-can-eat buffet has various dishes, guests will walk around often, and it will be hard to chat with others. For me, I think I will choose a 10-course banquet. My major motive is that when I attend a gathering with friends, it means I want to make new friends or listen to something interesting from my friends. In my opinion, the all-you-can-eat buffet is the worse choice for gatherings because of the eating time pressure and 〔語意待確認：the peer glance to what when you go to get a second round〕. That is the reason I don't like to choose the all-you-can-eat buffet. However, if the reunion doesn't have 〔語意待確認：madam〕 and is under four people, I think the all-you-can-eat buffet will be the best choice. In conclusion, I think the two types of reunion each have their own advantages and disadvantages; it depends on the gathering's people. But the priority to consider is how well people know each other.",
+      "note": "although...but 冗贅；In my concern 代替 In my opinion；motivate/motive、considering/consideration 詞性混淆；choise 拼字三次。原始批改日期以今天登錄，待老師確認實際批改時間。"
+    },
+    {
+      "id": "campsite",
+      "title": "露營地比較：Campsite A vs Campsite B",
+      "date": "2026-08-23",
+      "score": 5,
+      "prompt": "依表格描述兩個露營地各有何特色，並說明會想去哪個營地露營及理由。",
+      "original": "In these picture, the campsite B look more attractive, but I think I will choise campsite A. Campsite B's advanture is very visable that high quality equipment, and the clear public space, although thease things are attractive, it can't experience the reality happy in the camping. The campsite A that it seem ugly and look like a homeless man, but it is the place that can near the nature. I can image that I lay on the grass and listen to the voice that wind slay the tree and see the star on the sky. Even if I have a bad life, the star will always stay with me. However, if I don't want to experience the misery that washing my body with the cold water and fighting with the starve musgito, I will choose campsite B. After all, my pockage must agree.\nMake a includetion, I think if you want to near the nature and experience the real camping life, you can choice campsite A, you will broaden the new world and pround of yourself after the camping's suffering, but if you just want to experience the astmostance of camping you can chooice campsite B, it is the most easy and happy for you, but if I have enough money I will buy the expensive talent and go to the place that don't have any noise from the city, camping with my friends, and we will talk secrets around the fire accompany the star in the sky.",
+      "corrected": "In these pictures, campsite B looks more attractive, but I think I will choose campsite A. Campsite B's advantage is that it is very visible in its high-quality equipment and clear public space. Although these things are attractive, 〔語意待確認：it can't experience the reality happy in the camping〕. Campsite A seems ugly and looks like a homeless camp, but it is the place that can be near nature. I can imagine that I lie on the grass and listen to the wind swaying the trees, and see the stars in the sky. Even if I have a bad life, the stars will always stay with me. However, if I don't want to experience the misery of washing my body with cold water and fighting with starving mosquitoes, I will choose campsite B. After all, my pocket must agree.\nIn conclusion, I think if you want to be near nature and experience real camping life, you can choose campsite A — you will broaden your world and be proud of yourself after the camping's hardship. But if you just want to experience the atmosphere of camping, you can choose campsite B; it is the easiest and happiest option for you. But if I have enough money, I will buy an expensive tent and go to a place without any noise from the city, camping with my friends, and we will talk secrets around the fire, accompanied by the stars in the sky.",
+      "note": "這批 8 篇中拼字扭曲最嚴重（includetion, astmostance）；第二段是單一巨型 run-on（串連 5 個以上獨立子句）；choise/choice/chooice 同篇三種拼法；the star 應為複數 stars 出現三次。原始批改日期以今天登錄，待老師確認實際批改時間。"
+    },
+    {
+      "id": "amusement",
+      "title": "假期出遊：遊樂園 vs 野餐",
+      "date": "2026-08-23",
+      "score": 7,
+      "prompt": "描述遊樂園與野餐兩個場景的特色，並說明自己會選擇哪個旅遊場景及理由。",
+      "original": "The picture presents a sharp contract between left and right, In the left picture, there are many amusement measure like roller coaster, merry-go-around and ferris wheel, etc. It will be a good resort for people who under sixteen years old. These place can provide thrilling and pleasment for them. In addition, merry-go-around is fit to young people and family, which can boost their relationship. In the right picture, although it can boost the relationship too, it lack exciting and stimulate. Instead of that, this place offer peace and nature, there are many food on the picnic blanket. This place can be a prasious spots to someone who want to slow their life down or to find the calmness.\nFrom my perspective, I think I will pick the place in right picture because as a someone that fear to height, amusment park will never be a good choise of mind. In addition, as a Taiwanese, every field trips aalways include amusmant park. I'm sick of being a photographer when my friends go to play amusements measure. In contract, I can chat with friends and discuss common topic. It will make my not-alone and relaxed. Furthermore, my life full of preasure, I don't think that thrilling measure will be a good cure, which can treat my tired heart. However I trust the nature can effectively heal my tired heart.",
+      "corrected": "The picture presents a sharp contrast between left and right. In the left picture, there are many amusement facilities like a roller coaster, a merry-go-round, and a ferris wheel, etc. It will be a good place for people who are under sixteen years old. This place can provide thrills and pleasure for them. In addition, the merry-go-round is suitable for young people and families, which can boost their relationship. In the right picture, although it can boost the relationship too, it lacks excitement and stimulation. Instead, this place offers peace and nature, and there is a lot of food on the picnic blanket. This place can be a precious spot for someone who wants to slow their life down or find calmness.\nFrom my perspective, I will pick the place in the right picture because, as someone who fears heights, an amusement park will never be a good choice for me. In addition, as a Taiwanese, every field trip always includes an amusement park. I'm sick of being a photographer when my friends go to play on the amusement rides. In contrast, I can chat with friends and discuss common topics here. It will make me feel not alone and relaxed. Furthermore, my life is full of pressure, and I don't think thrilling rides will be a good cure to treat my tired heart. However, I trust that nature can effectively heal my tired heart.",
+      "note": "新的相似詞混淆 contract/contrast 兩次；measure 誤用代替設施/活動三次，屬詞彙誤用非拼字；代名詞格位錯誤 make my 應為 make me；prasious 拼字與露營那篇同一字再度拼錯，跨篇確認。"
+    }
+  ]
+}
