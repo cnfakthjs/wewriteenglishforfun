@@ -3,7 +3,8 @@
   {
    "cat": "拼字不穩定",
    "desc": "同一個字反覆拼錯：choose 曾出現三種不同錯拼方式；跨篇重複出現的個人記憶點錯字：prasious(precious)、choise(choice)、achivement(achievement)、addvice/addvise",
-   "date": "2026-09-06",
+   "date": "2026-07-05",
+   "lastSeen": "2026-09-06",
    "count": 15,
    "id": "w0",
    "explain": {
@@ -325,7 +326,8 @@
   {
    "cat": "中式直譯（Calque）",
    "desc": "although...but 冗贅並用；In my concern/angle 代替 In my opinion；even though...but、Even I am not...but 再次出現（累計 4 次同型）",
-   "date": "2026-09-06",
+   "date": "2026-07-05",
+   "lastSeen": "2026-09-06",
    "count": 7,
    "id": "w1",
    "explain": {
@@ -339,7 +341,8 @@
   {
    "cat": "主詞動詞一致性",
    "desc": "如 team have、website appears、every words surround 等",
-   "date": "2026-09-06",
+   "date": "2026-07-05",
+   "lastSeen": "2026-09-06",
    "count": 12,
    "id": "w2",
    "explain": {
@@ -353,14 +356,16 @@
   {
    "cat": "句中不當大寫",
    "desc": "You/Your/If/It/When/Life/The 等字在句中被誤大寫，已確認為系統性錯誤，非單一字詞問題；本篇 If、Even 各一次",
-   "date": "2026-09-06",
+   "date": "2026-07-05",
+   "lastSeen": "2026-09-06",
    "count": 12,
    "id": "w3"
   },
   {
    "cat": "時態混用",
    "desc": "敘事段落中過去式與現在式（含 will）混用",
-   "date": "2026-09-06",
+   "date": "2026-07-26",
+   "lastSeen": "2026-09-06",
    "count": 9,
    "id": "w4",
    "explain": {
@@ -375,6 +380,7 @@
    "cat": "effort 當動詞誤用",
    "desc": "如 everyone effort to do something，已確認為穩定重複錯誤",
    "date": "2026-07-26",
+   "lastSeen": "2026-07-26",
    "count": 3,
    "id": "w5",
    "explain": {
@@ -389,6 +395,7 @@
    "cat": "相似詞混淆",
    "desc": "efficient/effective、progress/process、contract/contrast、interesting/interest、exciting/stimulate 當名詞用；incredible/incredulous（選錯字導致情緒意思說反，非拼字問題）",
    "date": "2026-07-12",
+   "lastSeen": "2026-07-12",
    "count": 7,
    "id": "w6",
    "explain": {
@@ -430,7 +437,8 @@
   {
    "cat": "篇章結構",
    "desc": "客觀描述段落誤植主觀意見；2026-09-06 為更嚴重的變體：圖片描述段完全未描述圖片，改用「如果你走進寵物友善餐廳會看到…」的假設通則替代。場景判讀（寵物友善餐廳）本身合理且題目允許，問題在於未從圖中具體人事物推得該判讀",
-   "date": "2026-09-06",
+   "date": "2026-07-05",
+   "lastSeen": "2026-09-06",
    "count": 3,
    "id": "w7",
    "explain": {
@@ -445,6 +453,7 @@
    "cat": "its/it's 混淆",
    "desc": "所有格 its 與縮寫 it's 混用",
    "date": "2026-07-12",
+   "lastSeen": "2026-07-12",
    "count": 3,
    "id": "w8",
    "explain": {
@@ -459,7 +468,8 @@
   {
    "cat": "run-on / 逗號連接句",
    "desc": "多個獨立子句以逗號直接連接，未使用句號或連接詞（如 When I go to a restaurant I just want to eat..., I don't have any patience...）",
-   "date": "2026-09-06",
+   "date": "2026-07-05",
+   "lastSeen": "2026-09-06",
    "count": 13,
    "id": "w9",
    "explain": {
@@ -474,6 +484,7 @@
    "cat": "worth to V 結構錯誤",
    "desc": "應為 worth + V-ing，如 worth to afford 應為 worth enduring",
    "date": "2026-08-02",
+   "lastSeen": "2026-08-02",
    "count": 2,
    "id": "w10",
    "explain": {
@@ -487,7 +498,8 @@
   {
    "cat": "介係詞搭配",
    "desc": "如 chat to（應為with）、interest to（應為in）、fit to（應為for）、impression to（應為on）、on a restaurant（應為 in/at）",
-   "date": "2026-09-06",
+   "date": "2026-07-05",
+   "lastSeen": "2026-09-06",
    "count": 7,
    "id": "w11",
    "explain": {
@@ -503,6 +515,7 @@
    "cat": "be動詞遺漏",
    "desc": "如 I still be present、it will hard to、is prepare 等",
    "date": "2026-07-05",
+   "lastSeen": "2026-07-05",
    "count": 8,
    "id": "w12",
    "explain": {
@@ -516,7 +529,8 @@
   {
    "cat": "詞性混淆",
    "desc": "motivate/motive、considering/consideration、efficient/efficiency 等；tolerant/tolerance",
-   "date": "2026-09-06",
+   "date": "2026-07-05",
+   "lastSeen": "2026-09-06",
    "count": 7,
    "id": "w13",
    "explain": {
@@ -559,6 +573,7 @@
    "cat": "關係子句多餘主詞代名詞",
    "desc": "如 that it seem、that it use、which...it，跨三篇出現，2026/08 正式確認",
    "date": "2026-07-12",
+   "lastSeen": "2026-07-12",
    "count": 3,
    "id": "w14",
    "explain": {
@@ -573,6 +588,7 @@
    "cat": "最高級誤用",
    "desc": "most X 應為 X-est，如 most clear 應為 clearest、most easy 應為 easiest",
    "date": "2026-07-12",
+   "lastSeen": "2026-07-12",
    "count": 2,
    "id": "w15",
    "explain": {
@@ -588,6 +604,7 @@
    "cat": "不定詞/動名詞不平行",
    "desc": "如 to get and keeping、cutting and decide",
    "date": "2026-07-19",
+   "lastSeen": "2026-07-19",
    "count": 2,
    "id": "w16",
    "explain": {
@@ -602,6 +619,7 @@
    "cat": "代名詞格位錯誤",
    "desc": "As me recall 應為 As I；make my 應為 make me",
    "date": "2026-07-26",
+   "lastSeen": "2026-07-26",
    "count": 2,
    "id": "w17",
    "explain": {
@@ -616,6 +634,7 @@
    "cat": "可數/不可數混淆",
    "desc": "如 many food 應為 much food",
    "date": "2026-08-16",
+   "lastSeen": "2026-08-16",
    "count": 1,
    "id": "w18",
    "explain": {
@@ -630,6 +649,7 @@
    "cat": "冠詞誤加（抽象/泛指名詞）",
    "desc": "the friendship、the nature 等抽象或泛指名詞前誤加 the",
    "date": "2026-07-19",
+   "lastSeen": "2026-07-19",
    "count": 3,
    "id": "w19",
    "explain": {
@@ -644,13 +664,15 @@
    "cat": "句首該大寫卻用小寫",
    "desc": "與句中誤大寫並存出現，顯示大小寫規則尚未真正掌握，而非單純粗心",
    "date": "2026-07-19",
+   "lastSeen": "2026-07-19",
    "count": 2,
    "id": "w20"
   },
   {
    "cat": "詞彙誤用",
    "desc": "以 measure 代替「設施/活動」一詞，非拼字問題，需口頭直接教正確說法；pet-setting（疑為 pet seating / pet-sitting）、discrease negative review to people 語意不成立",
-   "date": "2026-09-06",
+   "date": "2026-08-16",
+   "lastSeen": "2026-09-06",
    "count": 5,
    "id": "w21",
    "explain": {
@@ -664,7 +686,8 @@
   {
    "cat": "反身代名詞遺漏",
    "desc": "slap on my face 應為 slap myself；force me 應為 force myself（新觀察，尚待再次確認）；themself 應為 themselves（形式錯誤）",
-   "date": "2026-09-06",
+   "date": "2026-08-23",
+   "lastSeen": "2026-09-06",
    "count": 3,
    "id": "w22",
    "explain": {
@@ -678,7 +701,8 @@
   {
    "cat": "語意不明（待口頭確認）",
    "desc": "多篇皆有結構打結、無法確定原意的句子，依標準不猜測，列出待老師詢問學生",
-   "date": "2026-09-06",
+   "date": "2026-07-05",
+   "lastSeen": "2026-09-06",
    "count": 11,
    "id": "w23",
    "explain": {
@@ -692,6 +716,7 @@
    "cat": "than/then 同音混淆",
    "desc": "than 與 then 混用，同一篇出現兩次（Back than 應為 Back then；We haven't been touch since than 應為 since then）",
    "date": "2026-08-30",
+   "lastSeen": "2026-08-30",
    "count": 2,
    "id": "w24",
    "explain": {
@@ -706,6 +731,7 @@
    "cat": "代名詞指涉錯誤",
    "desc": "指稱對象前後不一致，如 breaking off his friendship 應為 our friendship（這段友情是雙方的，不是單方的）；同篇也出現 my best friends 與全文單一朋友的敘事對象數量不一致",
    "date": "2026-08-30",
+   "lastSeen": "2026-08-30",
    "count": 1,
    "id": "w25",
    "explain": {
@@ -720,6 +746,7 @@
    "cat": "複數 -s 遺漏",
    "desc": "可數名詞在明確為複數的語境仍用單數：many accident、those incident、negative review、uncontrable condition",
    "date": "2026-09-06",
+   "lastSeen": "2026-09-06",
    "count": 4,
    "id": "w26",
    "explain": {
@@ -735,6 +762,7 @@
    "cat": "助動詞後動詞形式錯誤（will been）",
    "desc": "will been 出現兩次，應為 will be；顯示 be 動詞的三態（be / was / been）與助動詞的搭配規則不穩",
    "date": "2026-09-06",
+   "lastSeen": "2026-09-06",
    "count": 2,
    "id": "w27",
    "explain": {
@@ -749,6 +777,7 @@
    "cat": "冠詞遺漏（單數可數名詞）",
    "desc": "單數可數名詞前少了 a/an/the：I am not pets hater、go to the restaurant（泛指應為 a restaurant）、see the sight like this picture",
    "date": "2026-09-06",
+   "lastSeen": "2026-09-06",
    "count": 3,
    "id": "w28",
    "explain": {
@@ -763,6 +792,7 @@
    "cat": "附屬子句片段（主要子句遺漏）",
    "desc": "以 If / Because / Even though 等附屬連接詞開頭的子句被當成完整句子、後面直接句號，主要子句遺漏或被切到下一句。跨三篇出現：7/26「If your team have peoples who is lazy...」、8/30「Even though it can't come ture.」、9/06「But if the restaurant can set a space...」與「Because it can effectively attract...」",
    "date": "2026-09-06",
+   "lastSeen": "2026-09-06",
    "count": 4,
    "id": "w29",
    "explain": {
