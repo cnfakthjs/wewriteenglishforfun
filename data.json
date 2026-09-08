@@ -44,9 +44,9 @@
     },
     {
       "cat": "相似詞混淆",
-      "desc": "efficient/effective、progress/process、contract/contrast、interesting/interest、exciting/stimulate 當名詞用",
+      "desc": "efficient/effective、progress/process、contract/contrast、interesting/interest、exciting/stimulate 當名詞用；incredible/incredulous（選錯字導致情緒意思說反，非拼字問題）",
       "date": "2026-07-12",
-      "count": 6,
+      "count": 7,
       "id": "w6"
     },
     {
@@ -93,9 +93,9 @@
     },
     {
       "cat": "詞性混淆",
-      "desc": "motivate/motive、considering/consideration、efficient/efficiency 等",
+      "desc": "motivate/motive、considering/consideration、efficient/efficiency 等；tolerant/tolerance",
       "date": "2026-07-26",
-      "count": 5,
+      "count": 6,
       "id": "w13"
     },
     {
@@ -167,6 +167,20 @@
       "date": "2026-07-11",
       "count": 9,
       "id": "w23"
+    },
+    {
+      "cat": "than/then 同音混淆",
+      "desc": "than 與 then 混用，同一篇出現兩次（Back than 應為 Back then；We haven't been touch since than 應為 since then）",
+      "date": "2026-09-08",
+      "count": 2,
+      "id": "w24"
+    },
+    {
+      "cat": "代名詞指涉錯誤",
+      "desc": "指稱對象前後不一致，如 breaking off his friendship 應為 our friendship（這段友情是雙方的，不是單方的）；同篇也出現 my best friends 與全文單一朋友的敘事對象數量不一致",
+      "date": "2026-09-08",
+      "count": 1,
+      "id": "w25"
     }
   ],
   "portfolio": [
@@ -183,7 +197,7 @@
     {
       "id": "pocketMoney",
       "title": "日本高中生零用錢用途",
-      "date": "2026-07-26",
+      "date": "2026-07-19",
       "score": 6,
       "prompt": "依圖表描述日本高中生零用錢用途現象，並以自己為例說明零用錢使用方式及與圖表之異同。",
       "original": "In this picture, Most of the pocket money is used to getting friends or having fun on their own interest. In this 3C era, Social medias are common, so getting new friends is not the difficult ivent nowadays. Along with the number of friends increase, the cost will increase, too. On the other hands, numbers of friends increasing will let pocket money spend on interest and trend, In my opinion, most of my friends are have the same interest with me, so we can get a conversation. If the interest is the electricity with friends, the trend of meme is the grease in the conversation to strangers. For the meme is common in the world, if strangers have seen this meme before you can talk about this famous meme with others. You won't be embrassed. and Make up can give strangers a good impression to other, it will increase the rate of getting friends. so the cost of these things are necessary. The cost from thos things is unexpected.\nIn my angle, my pocket money cost tablet maybe will similar like this picture. But the different on it is that savings rate will be higher than the snack and interest. Maybe it is the feture of Taiwanese, The adult will always let us to save money in the bank, include pocket money, lucky money and so forth. But the inchange thing is I will spend much money to get the new friends and keeping the friendship. Regardless of what era you are, the friendship is still the important thing.",
@@ -223,7 +237,7 @@
     {
       "id": "banquet",
       "title": "聚餐用餐方式：合菜 vs 吃到飽",
-      "date": "2026-08-23",
+      "date": "2026-07-05",
       "score": 7,
       "prompt": "以「聚會用餐」為主題，描述10人合菜與吃到飽自助餐兩種用餐方式各有何特色，並說明自己聚餐時比較喜歡哪一種。",
       "original": "In Taiwan, manys people will choose a 10-course banquet, because the meal is more splendid and cheaper, although an all-you-can-eat buffet has various dishes, but guests will walk often. It will hard to chat to others. For me, I think I will choose a 10-course banquest, The mayor motivate is when I engage in a friend gathering or others. It means I want to get new friends or to listen something intresting things from my friends. In my concern, the all-you-can-eat buffet is the worse choice for gathering because the eating time pressure and the peer glance to what when you go to get second round, it is the reason that I don't like to choise the all-you-can-eat buffet. However, if the reunion don't have madam and under the four people, I think the all-you-can-eat buffet will be the best choise. In conclusion, I think two type of reunion has each advantage and disadvantage, it according to the gathering's people and the gender of visiters. But the priority considering is how know well to each other.",
@@ -233,7 +247,7 @@
     {
       "id": "campsite",
       "title": "露營地比較：Campsite A vs Campsite B",
-      "date": "2026-08-23",
+      "date": "2026-07-12",
       "score": 5,
       "prompt": "依表格描述兩個露營地各有何特色，並說明會想去哪個營地露營及理由。",
       "original": "In these picture, the campsite B look more attractive, but I think I will choise campsite A. Campsite B's advanture is very visable that high quality equipment, and the clear public space, although thease things are attractive, it can't experience the reality happy in the camping. The campsite A that it seem ugly and look like a homeless man, but it is the place that can near the nature. I can image that I lay on the grass and listen to the voice that wind slay the tree and see the star on the sky. Even if I have a bad life, the star will always stay with me. However, if I don't want to experience the misery that washing my body with the cold water and fighting with the starve musgito, I will choose campsite B. After all, my pockage must agree.\nMake a includetion, I think if you want to near the nature and experience the real camping life, you can choice campsite A, you will broaden the new world and pround of yourself after the camping's suffering, but if you just want to experience the astmostance of camping you can chooice campsite B, it is the most easy and happy for you, but if I have enough money I will buy the expensive talent and go to the place that don't have any noise from the city, camping with my friends, and we will talk secrets around the fire accompany the star in the sky.",
@@ -243,12 +257,22 @@
     {
       "id": "amusement",
       "title": "假期出遊：遊樂園 vs 野餐",
-      "date": "2026-08-23",
+      "date": "2026-08-16",
       "score": 7,
       "prompt": "描述遊樂園與野餐兩個場景的特色，並說明自己會選擇哪個旅遊場景及理由。",
       "original": "The picture presents a sharp contract between left and right, In the left picture, there are many amusement measure like roller coaster, merry-go-around and ferris wheel, etc. It will be a good resort for people who under sixteen years old. These place can provide thrilling and pleasment for them. In addition, merry-go-around is fit to young people and family, which can boost their relationship. In the right picture, although it can boost the relationship too, it lack exciting and stimulate. Instead of that, this place offer peace and nature, there are many food on the picnic blanket. This place can be a prasious spots to someone who want to slow their life down or to find the calmness.\nFrom my perspective, I think I will pick the place in right picture because as a someone that fear to height, amusment park will never be a good choise of mind. In addition, as a Taiwanese, every field trips aalways include amusmant park. I'm sick of being a photographer when my friends go to play amusements measure. In contract, I can chat with friends and discuss common topic. It will make my not-alone and relaxed. Furthermore, my life full of preasure, I don't think that thrilling measure will be a good cure, which can treat my tired heart. However I trust the nature can effectively heal my tired heart.",
       "corrected": "The picture presents a sharp contrast between left and right. In the left picture, there are many amusement facilities like a roller coaster, a merry-go-round, and a ferris wheel, etc. It will be a good place for people who are under sixteen years old. This place can provide thrills and pleasure for them. In addition, the merry-go-round is suitable for young people and families, which can boost their relationship. In the right picture, although it can boost the relationship too, it lacks excitement and stimulation. Instead, this place offers peace and nature, and there is a lot of food on the picnic blanket. This place can be a precious spot for someone who wants to slow their life down or find calmness.\nFrom my perspective, I will pick the place in the right picture because, as someone who fears heights, an amusement park will never be a good choice for me. In addition, as a Taiwanese, every field trip always includes an amusement park. I'm sick of being a photographer when my friends go to play on the amusement rides. In contrast, I can chat with friends and discuss common topics here. It will make me feel not alone and relaxed. Furthermore, my life is full of pressure, and I don't think thrilling rides will be a good cure to treat my tired heart. However, I trust that nature can effectively heal my tired heart.",
       "note": "新的相似詞混淆 contract/contrast 兩次；measure 誤用代替設施/活動三次，屬詞彙誤用非拼字；代名詞格位錯誤 make my 應為 make me；prasious 拼字與露營那篇同一字再度拼錯，跨篇確認。"
+    },
+    {
+      "id": "friendshipRegret",
+      "title": "遺憾：與摯友的爭執（學生仿寫 regret 主題）",
+      "date": "2026-08-30",
+      "score": 8,
+      "prompt": "依 regret 範文主題仿寫，描述人際遺憾（Connection Regret）：與摯友的一次爭執及前因後果，第二段說明重來一次會怎麼做及預期改變。",
+      "original": "looking back, meny regrets are full of my life. I always plagued by those unforgettable decisions when I was lay on the bed. One of my biggest regret is having a big argument with my best friends. When I was a junior high school student, I have a good friend who graduated from the same school as me. Although we are just friend, we are more like family. Back than, I naively thought nothing can tear us apart. However, we had a big argument over a small decision. At that time, he have a crush on a girl who is our common friend. I originally feel happy to him. Until others tell my that he depand that exposing our secret to create subject with her. I feel incredible because I couldn't believe he would betray best friend for love. I immediately argue this event with him, and breaking off his friendship. We haven't been touch since than.\nEven now, I finally understand his feeling when was fall in love. If I could have more patience and tolerant, maybe It wouldn't cause this bad end. If I can return back, I think I would patiently listened to him and expressed my thought. I expeted we can keep this relationship after this sincere communicaton. Even though it can't come ture. At least we had some peaceful ending in this relationship.",
+      "corrected": "Looking back, my life is full of many regrets. I am always plagued by those unforgettable decisions when I am lying on the bed. One of my biggest regrets is having a big argument with my best friend. When I was a junior high school student, I had a good friend who graduated from the same school as me. Although we were just friends, we were more like family. Back then, I naively thought nothing could tear us apart. However, we had a big argument over 〔語意待確認：a small decision〕. At that time, he had a crush on a girl who was our common friend. I originally felt happy for him. Until others told me that he depended on exposing our secret 〔語意待確認：to create a subject with her〕. I felt incredulous because I couldn't believe he would betray his best friend for love. I immediately argued about this matter with him, and broke off our friendship. We haven't been in touch since then.\nEven now, I finally understand his feelings when he was falling in love. If I could have had more patience and tolerance, maybe it wouldn't have caused this bad ending. If I could return to the past, I think I would have patiently listened to him and expressed my thoughts. I expected we could keep this relationship after this sincere communication. Even though it couldn't come true, at least we would have had a peaceful ending in this relationship.",
+      "note": "內容/組織是這批以來最扎實的一次（有分段、第二段完整回答「怎麼做」跟「預期改變」）。文法句構與字彙拼字錯誤密度仍高：過去式敘事中大量現在式殘留是這批密度最高之一；incredible→incredulous 是選字錯誤而非拼字，且剛好把情緒意思說反；his friendship→our friendship 代名詞指涉錯誤；than/then 同音混淆兩次；tolerant→tolerance 詞性混淆；Even though...true. 是 though 子句句號斷句造成的片段，與先前確認過的 if 子句片段同類。"
     }
   ]
 }
